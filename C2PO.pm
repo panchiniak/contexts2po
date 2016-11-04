@@ -133,7 +133,7 @@ foreach my $base_line (@base_lines){
 }
 
 __END__
-=head1 Pogenerator
+=head1 Context POgenerator
 Generates PO files from english base and its arbitrary aligned translation.
 
 =head1 Preprocessing
@@ -160,9 +160,9 @@ Options:
 
 =head1 DESCRIPTION
 Context to PO (C2PO) generates a PO file from POT, base and translated files.
-PO generated contains
+PO generated contains comments, msgctxt, msgid, msgstr.
 =head1 AUTHOR
-Rodrigo Panchiniak Fernandes - 2016
+Rodrigo Panchiniak Fernandes
 
 =head1 CAVEAT
 Base file and its translantion need to be aligned line by line.
