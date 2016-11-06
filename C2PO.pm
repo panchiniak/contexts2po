@@ -18,11 +18,13 @@ my $base_file_name;
 my $translation_file_name;
 my $context_file_name;
 my $language_code;
+my $verbose_mode;
 
 my $current_path = abs_path(__FILE__);
 my $current_file_name = __FILE__;
 
-#perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list]
+
+#perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list] --verbose
 
 
 GetOptions(
@@ -30,7 +32,8 @@ GetOptions(
     'translation|t=s' => \$translation_file_name,
     'context|c=s' => \$context_file_name,
     'lang|l=s' => \$language_code,
-) or die "Usage: $0 --base <FILE_NAME> --translation <FILE_NAME> --context <FILE_NAME> --lang <LANGUAGE_CODE>|list\n";
+    'verbose' => \$verbose_mode,
+) or die "Usage: $0 --base <FILE_NAME> --translation <FILE_NAME> --context <FILE_NAME> --lang <LANGUAGE_CODE>|list --verbose\n";
 
 if ($language_code eq 'list'){
   my @language_codes = all_language_codes();
@@ -104,29 +107,34 @@ foreach my $base_line (@base_lines){
     
     if ($pair_index == 0) {
       my $context_index = 0;
-      foreach my $context_line (@context_lines){       
+      foreach my $context_line (@context_lines){
      
-        #if (index($context_line, $brother) != -1) {
         if ($context_line =~ /\Q$brother"\E/){
-           print $context_lines[$context_index - 2];
-           print $outfile $context_lines[$context_index - 2];
-           print $context_lines[$context_index - 1];
+          
+           chomp($tranlation_lines[$line_index]);
+           
+           if ($verbose_mode) {
+              print $context_lines[$context_index - 2];
+              print $context_lines[$context_index - 1];
+              print 'msgid "' . $brother . '"' . "\n";
+              print 'msgstr "' . $tranlation_lines[$line_index] . '"' . "\n";
+           }
+           
+           print $outfile $context_lines[$context_index - 2];           
            print $outfile $context_lines[$context_index - 1];
-           #print "========================================" . "\n";
+           print $outfile 'msgid "' . $brother . '"' . "\n";
+           print $outfile 'msgstr "' . $tranlation_lines[$line_index] . '"' . "\n";
+
         }
         $context_index++;
-      }      
-      print 'msgid "' . $brother . '"' . "\n";
-      print $outfile 'msgid "' . $brother . '"' . "\n";
+      }
+      
     }
-    
-    
-    else{
-      print 'msgstr "' . $brother . '"' . "\n";
-      print $outfile 'msgstr "' . $brother . '"' . "\n";
-    }
+    #else{
+    #  print 'msgstr "' . $brother . '"' . "\n";
+    #  print $outfile 'msgstr "' . $brother . '"' . "\n";
+    #}
     $pair_index = 1;
-        
   }
 
   $line_index++;
@@ -151,7 +159,7 @@ B. On context:
 1. Put all msgids in single line: s/"\n"//
 
 =head1 SYNOPSIS
-Usage perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list]
+Usage perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list] --verbose
 Options:
   base                  translated strings (msgid)
   translations          translations aligned to base (msgstr)
