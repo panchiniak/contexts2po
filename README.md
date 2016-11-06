@@ -2,13 +2,14 @@
 Generates PO files from english base and its arbitrary aligned translation.
 
 # SYNOPSIS
-perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list]
+perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list] --verbose
 
 ### Options:
   * base - translated strings (msgid)
   * translations - translations aligned to base (msgstr)
   * context - POT (msgctxt, msgid)
   * lang - sufix for output file name
+  * verbose - stdoutput
 
 # DESCRIPTION
 
