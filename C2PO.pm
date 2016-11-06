@@ -23,6 +23,7 @@ my $verbose_mode;
 my $current_path = abs_path(__FILE__);
 my $current_file_name = __FILE__;
 
+my $last_id_inserted;
 
 #perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list] --verbose
 
@@ -113,6 +114,8 @@ foreach my $base_line (@base_lines){
           
            chomp($tranlation_lines[$line_index]);
            
+           $last_id_inserted = $brother;
+           
            if ($verbose_mode) {
               print $context_lines[$context_index - 2];
               print $context_lines[$context_index - 1];
@@ -130,10 +133,25 @@ foreach my $base_line (@base_lines){
       }
       
     }
-    #else{
-    #  print 'msgstr "' . $brother . '"' . "\n";
-    #  print $outfile 'msgstr "' . $brother . '"' . "\n";
-    #}
+    else{
+      
+      chomp($base_line);
+      
+      if ($last_id_inserted ne $base_line) {
+        
+        if ($verbose_mode) {
+          print 'msgid "' . $base_line . '"' . "\n";
+          print 'msgstr "' . $brother . '"' . "\n";
+        }
+        
+        print $outfile 'msgid "' . $base_line . '"' . "\n";
+        print $outfile 'msgstr "' . $brother . '"' . "\n";
+        
+      }
+      
+
+      
+    }
     $pair_index = 1;
   }
 
