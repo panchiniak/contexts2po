@@ -109,14 +109,16 @@ foreach my $base_line (@base_lines){
     if ($pair_index == 0) {
       my $context_index = 0;
       foreach my $context_line (@context_lines){
-     
+      
         if ($context_line =~ /\Q$brother"\E/){
+          #There is a matching msgid in context file.
           
            chomp($tranlation_lines[$line_index]);
            
            $last_id_inserted = $brother;
            
            if ($verbose_mode) {
+              #Include comment line comming from context file.
               print $context_lines[$context_index - 2];
               print $context_lines[$context_index - 1];
               print 'msgid "' . $brother . '"' . "\n";
@@ -134,23 +136,17 @@ foreach my $base_line (@base_lines){
       
     }
     else{
-      
+      #Also include pairs which msgid is absent from context.      
       chomp($base_line);
       
-      if ($last_id_inserted ne $base_line) {
-        
+      if ($last_id_inserted ne $base_line) { 
         if ($verbose_mode) {
           print 'msgid "' . $base_line . '"' . "\n";
           print 'msgstr "' . $brother . '"' . "\n";
-        }
-        
+        }        
         print $outfile 'msgid "' . $base_line . '"' . "\n";
         print $outfile 'msgstr "' . $brother . '"' . "\n";
-        
       }
-      
-
-      
     }
     $pair_index = 1;
   }
