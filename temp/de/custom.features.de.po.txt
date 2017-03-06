@@ -1,0 +1,188 @@
+Autocomplete Deluxe
+Limit of the output.
+If set to zero no limit will be used
+Mininum length.
+The minimum length of characters to enter to open the suggestion list.
+Delimiter.
+A character which should be used beside the enter key, to seperate terms.
+Term not found message.
+A message text which will be displayed, if the entered term was not found.
+Autocomplete deluxe entityreference
+Autocomplete Deluxe Extra Widgets
+Custom widgets using autocomplete deluxe
+IRMA
+CAS Library
+Your account is not yet approved
+Your PHP installation does not seem to provide the Curl extension. Please check your PHP configuration since Curl functions are required by the \"ecas\" module.
+Your PHP installation does not seem to provide the LDAP extension. Please check your PHP configuration since LDAP functions are required by the \"ecas\" module.
+phpcas library not found.
+At least @version
+The phpcas version (%version) is not correct for ECAS module.
+ECAS
+Provides single sign-on ECAS
+Deny the activation of a user account.
+Available roles
+Unable to deny user %s
+deny activation of your account
+Your account has been denied.
+ECAS extra module settings
+Deny action mail subject
+Account activation denied
+subject of the mail sent to the denied accounts
+Deny action mail body
+Body of the mail sent to the denied accounts
+Extra settings
+Configure additional ECAS settings
+ECAS extra
+Provides extra features to the ECAS module
+Denied
+Whether a user has been denied or not.
+Yes, on %s
+Yes, by %s
+Yes, by %s on %s
+Display date
+Display the denier
+Roles mapping
+to delete a mapping rule, put the mapping value to none
+Add role mapping
+Save mapping
+The mapping rules have been saved.
+Group mapping
+Add group mapping
+Group sync settings
+Configure group sync mapping
+Groups mapping
+ecas_group_sync
+handle mapping between LDAP data and drupal settings
+Import ECAS users
+Import users from the ECAS server into Drupal.
+ECAS Import users module settings
+User account status
+admin import
+Status of the user account after import by an administrator
+Sorry, this function currently appears to be unavailable - please check the FPFIS_Common libraries setup.
+Search by group (LDAP DG)
+No group
+In all groups
+Search by field
+Lastname
+Lastname or username
+You can search for several users by using the comma separator (,).
+Search by country
+From all countries
+Search by mail
+You can search by mail suffix, example : @ec.europa.eu
+You must fill in at least one of the search fields.
+No user found
+List users LDAP
+User !user_uid imported
+User !user_uid not imported
+Import users
+Import user settings
+Configure ECAS import user settings
+ECAS import users
+Create users accounts from ECAS accounts (in LDAP).
+Allows users to authenticate via ECAS.
+Administer ECAS
+Perform administration tasks for ECAS.
+ECAS module settings
+ECAS Assurance Level for this application
+The ECAS Assurance Level defines which kinds of users may log into the application.
+Default ECAS domain
+This option specifies the default domain that will be displayed on the login page if none is specified in cookies sent by the browser.
+ECAS Account Request URL
+URL used to redirect the user to the ECAS account request service. The %local_ecas_url% placeholder will be replaced by the absolute URL to /ecas.
+ECAS Change Password URL
+URL given to an ECAS user when he tries to get his password back using the user/password page.
+Debug options
+Enable phpCas client debug mode.
+If this option is checked, the phpCAS client will log many informations for each login attempt in a given file.
+phpCas debug file path
+If the phpCas client debug mode is enabled, the debug informations will be stored into this file. Specify either an absolute path, or a path relative to the Drupal directory. Please ensure this file is writable by Drupal since this module does not check it.
+User account status (first login)
+Status of the user account after creation
+Login message
+Status message shown to the user after login. Available placeholders: %ecas_username
+Warning page message
+Message on the warning page when a blocked account user is trying to log in
+Update the user's mail address at login time.
+If this option is checked, the ECAS module will replace the mail address of the user with the one retrieved from the ECAS/LDAP instance.
+Default mail address
+This address will be assigned to the user if the previous option is disabled.
+Enable integration with the &quot;core user fields&quot;
+If this option is checked, the ECAS module will attempt to fill the extra core user fields with information retrieved from the ECAS/LDAP instance: first name, last name, mail address
+Core user fields integration settings
+Firstname field
+Enter here the machinename of the field that will be filled with the firstname retrieved from ECAS. Leave empty if you do not want to retrieve it.
+Lastname field
+Enter here the machinename of the field that will be filled with the lastname retrieved from ECAS. Leave empty if you do not want to retrieve it.
+ECAS Mail address field
+Enter here the machinename of the field that will be filled with the mail address retrieved from ECAS. Leave empty if you do not want to retrieve it.
+the admin page
+Note: You can configure the core user fields using !link.
+Enable integration with the &quot;FPFIS Group Sync&quot; module
+If this option is checked, the ECAS module will trigger the FPFIS Group Sync module to sync the user.
+Use the shared &quot;FPFIS Common&quot; library
+If this option is checked, the ECAS module\n    will attempt use the shared FPFIS Common library to connect to LDAP\n    and the ECAS server. Otherwise a local implementation will be used.
+TOP: EC only
+HIGH: + Other institutions
+MEDIUM: + Sponsored
+LOW: + External + Self-registered
+This account is managed by ECAS. Its password can be changed using %s.
+the ECAS change password page
+This user appears to be an ECAS user -- you can not recover his password using this form. Please visit %s instead
+Warning: no information could be found for username :username
+Your access application is not yet approved.
+User Login
+ECAS User login
+edit user
+new user: %n (ECAS)
+The search returned only a partial search result because the search result limit was exceeded. Adjust you search criteria or contact your LDAP server administrator.
+European Commission
+Frontex
+EASO
+MSSACs
+EU Programmes
+EURINT
+EURIN
+EURLO
+Add another organisation
+Deleted irma public content manangement role.
+Deleted membership organizer role on oa_space content type.
+IRMA Core
+Provides core functionality and configuration.
+Local developer build.
+Test website.
+Production
+Production website.
+IRMA - Frontex related access granted
+A user has been granted access to a Frontex related group on IRMA.\n\n      Name: @name\n      Access to: @group_name\n      Username: @username\n      User email: @user_mail\n      Telephone: @field_profile_telephone\n\n      Member state / Primary organisation: @primary_org\n      Organisational entity: @org_entity\n      Department: @field_profile_department\n      Job title: @field_profile_jobtitle\n\n\n      IRMA role: @irma_role\n      FAR role: @far_role\n\n      Please provide access for this user on your systems.
+IRMA - Frontex related access revoked
+A user has had his access to a Frontex related group revoked on IRMA.\n\n      Username: @username\n      User email: @user_mail\n\n      Please revoke access for this user on your systems.
+IRMA - Frontex related user account suspended
+A user with access to one or more Frontex related groups has been suspended on the IRMA.\n\n      Name: @name\n      Access to: @group_name\n      Username: @username\n      User email: @user_mail\n      Telephone: @field_profile_telephone\n\n      Member state / Primary organisation: @primary_org\n      Organisational entity: @org_entity\n      Department: @field_profile_department\n      Job title: @field_profile_jobtitle\n\n\n      IRMA role: @irma_role\n      FAR role: @far_role\n\n      Please revoke access for this user on your systems.
+IRMA - Frontex related user account reactivated
+A suspended user with access to one or more Frontex related groups has been reactivated on IRMA.\n\n      Name: @name\n      Access to: @group_name\n      Username: @username\n      User email: @user_mail\n      Telephone: @field_profile_telephone\n\n      Member state / Primary organisation: @primary_org\n      Organisational entity: @org_entity\n      Department: @field_profile_department\n      Job title: @field_profile_jobtitle\n\n\n      IRMA role: @irma_role\n      FAR role: @far_role\n\n      Please grant access for this user on your systems.
+Frontex Notify
+Notify Frontex about user membership changes.
+IRMA Operational Data Matrix
+Operational Data matrix table.
+IRMA Operational Data Totals
+Operational Data totals table.
+IRMA Operational Data Matrix Table
+A grid of form elements
+IRMA Operational Data Totals Table
+A table of totals
+M
+F
+Statistic type or subject
+Statistic group type
+Total value
+The rows availanle in the totals table. Put one row per line, separate the machine name and label with the pipe symbol. Example: decisions_total|Number of decisions.
+A string explaining what statistic this is. Example: persons_detention.
+The type of group this statistic is for. Possible values: male, female, unknown or total.
+IRMA Operational Data Field
+Defines field types for the IRMA Operational Data tables
+An illegal choice has been detected. Please contact the site administrator.
+jQuery Tree
+Creates a form element for the https://github.com/daredevel/jquery-tree widget"

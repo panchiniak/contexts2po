@@ -1,0 +1,354 @@
+<p class=\'alert alert-warning\'><i class=\'fa fa-exclamation-triangle\'></i>Dateien mit vertraulichen Informationen sollten vor dem Hochladen verschlüsselt werden.</p>
+Anlagen
+Textfeld
+Inhalt des Dokuments oder Wikis hier eingeben
+Zielgruppe
+Wenn nicht angekreuzt, erste Anlage anzeigen
+Absätze
+Übergeordnete Ebene
+Verbundener Inhalt
+Verbundene IRMA-Mitglieder
+Verbundene Drittstaaten
+Rubrik
+Rubriken im Teilbereich
+Artikel
+IRMA-Artikel, der unter einem Unterbereich aufzuführen ist
+Titel
+Rubrik im Teilbereich
+Verwendet für die Gruppierung von Artikeln in Teilbereichen
+Zugang
+Verbunden
+Neu
+Neuer Artikel
+Sie können @title nicht löschen.
+Zurück
+Neuer Abschnitt
+Abschnitt anlegen
+Abschnitt aktualisieren
+Neuen Abschnitt hinzufügen
+Unterbereiche
+Keine Dateien anzeigbar
+IRMA-Diskussion
+Zahl der Diskussionsthemen
+Zahl der Posts zur Diskussion
+Letzte Anmerkung
+Diskussion anlegen
+Zurück zu @section
+Bericht
+Aufmacher
+Diskussion
+Anmerkung
+Link zu berichtetem Inhalt
+Bitte tragen Sie Ihre Anmerkung nachstehend ein.
+Gemeinsames Dokument
+Das Herunterladen wird automatisch beginnen. Klicken Sie andernfalls auf diesen !link.
+Zum Inhalt
+Erinnerung an Sperrung eines IRMA-Dokuments: @title
+Das gemeinsame Dokument zum Inhalt %title wurde von Ihnen gesperrt.\n      Vergessen Sie nicht, den Inhalt zu entsperren.\n\n      !link\n
+Automatische Entsperrung eines gesperrten IRMA-Dokuments: @title
+Das gemeinsame Dokument zum Inhalt %title war von Ihnen gesperrt worden.\n      Die maximale Sperrzeit ist abgelaufen, und das Dokument wurde automatisch entsperrt.\n\n      !link\n
+Erinnerung konnte nicht verschickt werden.
+Erinnerung wurde verschickt.
+Entsperren
+Sie
+Bitte entsperren Sie es, nachdem Sie Ihre bearbeitete Fassung über eine Anmerkung hinzugefügt haben.
+Entsperren Sie nur, wenn es absolut notwendig ist, und informieren Sie bitte vorher den Nutzer, der das Dokument gesperrt hat.
+Dieser Inhalt wurde von %user gesperrt. !action
+Erinnerung schicken
+Bearbeiten
+Herunterladen
+Verwenden Sie die Schaltfläche „Bearbeiten“, wenn Sie Dateien herunterladen möchten, um zu ihnen beizutragen. Verwenden Sie die Schaltfläche „Herunterladen“ nur, wenn Sie Dateien lediglich einsehen möchten.
+Dateien
+Hochgeladen am
+Hochgeladen von
+Versionsverlauf des Dokuments
+Anmelden
+Abmeldung von EU Login
+Problem mit den Anmeldedaten für EU Login IRMA konnte Ihren Vor- oder Nachnamen und/oder Ihre E-Mail-Adresse nicht finden.
+Registrierung abbrechen
+Der Nutzername %name ist ein EU Login-Konto. <a href=\'!url\'>Melden Sie sich über EU Login</a> an, um Zugang zu erhalten.
+Nutzer bearbeiten
+Zahl weiterer Begleitpersonen für die Rückkehr (Sicherheitskräfte, medizinisches Personal usw.)
+Der Veranstaltung beiwohnen
+Verfügbare Plätze
+Kreuzen Sie dieses Kästchen an und geben Sie durch eine Anmerkung Ihre Absicht kund, der Veranstaltung beizuwohnen. Bitte machen Sie in Ihrer Anmerkung zusätzliche Angaben über Rückkehrer und/oder anderes Personal.
+Beschreibung
+Art der Veranstaltung oder Aktivität
+Diese Veranstaltung an andere Nutzer weiterleiten
+Geokodierter Ort
+IRMA-Mitglieder
+Ort
+Örtliche Anschrift und/oder Link, d. h.\nEuropäische Kommission\nB-1049 Brüssel\nBelgien,\nhttp://ec.europa.eu/
+Zahl der Rückkehrer
+Sonstige
+Teilnehmer/-in
+Mit einzelnen Nutzern teilen
+Name der von Ihnen vertretenen Organisation
+Gesamtzahl der verfügbaren Plätze für diese Tätigkeit
+Diese Veranstaltung wird für alle Mitglieder des Arbeitsbereichs sichtbar sein.
+Diese Veranstaltung wird für alle operativen und allgemeinen Führungskräfte des Interessenträgers sichtbar sein.
+Arbeitsbereich
+Operative Tätigkeit
+Eine Veranstaltung zu IRMA-Maßnahmen
+Maßnahme teilen mit
+Vollständiger Kalender
+Alle künftigen Veranstaltungen anzeigen
+Speichern
+Entwurf speichern
+@type erstellen
+@type speichern
+@label ist erforderlich
+Rückkehrer
+Rückkehrer
+Sonstige
+und
+Siehe Anmerkung
+Bitte teilen Sie dies mit mindestens einem Nutzer oder einer Gruppe.
+Geteilt mit @users
+Veranstaltung hinzufügen
+Art der Veranstaltung auswählen
+Weiter
+%type_name: Eigenen Inhalt anschauen
+%type_name: Alle Inhalte anschauen
+Teilnehmer
+Willkommen bei IRMA!
+Um Zugang zu IRMA zu erhalten, müssen Sie sich mit Ihrem EU Login-Konto anmelden, indem Sie nachstehende Schaltfläche anklicken.\n     Wenn Sie noch kein IRMA-Konto haben, werden Sie nach der Anmeldung mit EU Login aufgefordert, den Zugang zu beantragen.\n     Nur Personen, die für Organisationen arbeiten, welche Ihre Teilnahme an IRMA bestätigt haben, erhalten Zugang.
+Bitte wenden Sie sich mit Fragen über den Zugang zu IRMA oder einer Anforderung des Teilnahmeformulars für Ihre Organisation an !contact-mail.
+Profil einsehen
+Hilfe
+neu
+Alle laufenden Zugangsanträge
+IRMA-Nutzer
+Kontaktieren Sie uns!
+Foren
+Meine Umfragen
+Erweiterte Suche
+Meine Entwürfe
+Anforderungsliste
+Werkzeuge
+IRMA-Mitglied
+Profil
+Grund
+Nutzername
+Anmerkungen
+Länderbezogener Bericht (Länderbericht?)
+Identifizierung / Rückkehrausweise
+Personen, gegen die eine Rückkehrentscheidung ergangen ist\t
+Drittland
+Woche
+Jahr
+Weiteres Drittland hinzufügen
+Neuer Länderbezogener Bericht (Länderbericht?)
+Sie können nur Daten für den laufenden oder einen früheren Zeitraum eingeben.
+Geben Sie für Ihre Umfrage mindestens zwei Antwortmöglichkeiten vor.  Eingetragene Werte geben vom Nutzer erzeugte Inhalte an.  Wenn Sie einer von einem anderen Nutzer eingetragenen Wahl zustimmen, so entkreuzen Sie diese, damit sie in die Umfrage aufgenommen wird, so dass andere darüber abstimmen können.
+Bei einer Wahl durch Zustimmung wird jeder Stimme gegenüber jeder Einzelwahl eine Gewichtung zugewiesen, anstatt alle Stimmen in einen Topf zu werfen.
+Umfrage schließen
+Ergebnisse anzeigen
+Wird die Verfügbarkeit einer Umfrage zur Abstimmung durch ein Cookie gesteuert, dann bestimmt dieser Wert die Wartezeit zwischen zwei Stimmabgaben in Minuten.
+Maximale Zahl der Antwortmöglichkeiten
+Berechtigungseinstellungen sind notwendig, um Stimmabgabe durch Einschreiben ???, die Sichtbarkeit der Einzelstimmen und die Verwaltung der Wählerlisten zu ermöglichen.
+Antwortmöglichkeiten
+Laufzeit der Umfrage
+Geben Sie die Laufzeit dieser Umfrage an.
+Geben Sie die maximale Zahl der Antwortmöglichkeiten an, über die abgestimmt werden kann.
+Dieser Wert legt fest, wann die Ergebnisse einer Umfrage angezeigt werden.  Während die Abstimmung läuft, sehen die Nutzer standardmäßig die Ergebnisse, sobald sie nicht mehr abstimmungsberechtigt sind.  Um die Ergebnisse anzuzeigen, ohne Gelegenheit zur Abstimmung zu geben, wählen Sie „Nach Schließung der Umfrage“ und schließen Sie diese Umfrage.
+Abstimmungsverhalten
+Abstimmungsmöglichkeiten
+Warnung: Wenn Sie diese Einstellung ändern, nachdem die Stimmen für diese Umfrage registriert wurden, werden die bisherigen Stimmen gelöscht.
+Nach Schließung einer Umfrage kann nicht mehr abgestimmt werden, aber ihre Ergebnisse werden angezeigt, wenn die Einstellungen das zulassen.  Für Blöcke werden Umfragen, die dafür aktiviert sind, die Ergebnisse anzeigen, andernfalls wird der Block nicht mehr verfügbar sein.  ???
+Umfrage
+Frage
+Umfrage teilen mit
+Umfrage erstellen
+Geben Sie für Ihre Umfrage mindestens zwei Antwortmöglichkeiten vor.
+Weitere Antwortmöglichkeit hinzufügen
+\'@s\' Titel
+Anlage
+und andere
+In Kopie: !last
+In Kopie: !participants und !last
+Neue Nachricht schreiben
+Kontakt
+Kontakt @workspace
+Ziel
+Adressaten für Anforderungen
+Status
+Anforderungsliste
+Name
+Adressaten für Anforderungen
+Adressat für Anforderungen
+Liste der Adressaten für Anforderungen
+Privat
+Einzelnutzer
+Bitte weisen Sie die Anforderung einem Nutzer oder einer Gruppe zu
+oder
+Bitte weisen Sie die Anforderung einem @field_string zu.
+Meine Anträge
+Anforderungen von IRMA-Mitgliedern
+Statusinformation anfordern
+Arbeitsbereich:
+Übergeordnetes IRMA-Mitglied
+Ziel anfragen
+Übergeordnetes IRMA-Mitglied auswählen, wenn dies eine Organisationseinheit ist.
+Die Gruppe kann nicht gelöscht werden, weil sie noch ein Mitglied hat.
+Die Gruppe kann nicht gelöscht werden, weil sie noch @count Mitglieder hat.
+Die Gruppe kann nicht gelöscht werden, weil sie noch eine Organisationseinheit hat.
+Die Gruppe kann nicht gelöscht werden, weil sie noch @count Organisationseinheiten hat.
+Gruppierungs-Tag @term erstellt
+IRMA-Benachrichtigung
+Weitere Mitgliedschaften
+Anschrift
+Abteilung
+Rolle in FAR
+Nachname
+Nachname (in lateinischer Schrift)
+Vorname
+Vorname (in lateinischer Schrift)
+Rolle in IRMA
+Identifizierungsdokument
+Funktion/Stelle
+Funktion oder Stelle in IRMA
+Begründung
+Anmerkung zur Mitgliedschaft
+Status der Mitgliedschaft
+Rolle in zusätzlicher Mitgliedschaft
+Rolle bei Rückführungsmaßnahmen
+Telefonnummer
+Z. B. freiwillige Rückkehr/Rückübernahme/Begleitperson
+Personenbezogene Angaben
+Primäre Organisation
+Entfällt
+Name der Gruppe
+Vielen Dank für Ihren Kontoantrag Ihr Konto wartet derzeit auf die Genehmigung durch den Administrator.
+Mit <span class=\'form-required\' title=\'This field is required.\'>*</span> gekennzeichnete Felder sind Pflichtfelder.  übersetzen??
+E-Mail-Adresse
+Zugelassen sind nur berufliche E-Mail-Adressen.
+Diese zusätzliche Mitgliedschaft bestätigen
+Antrag einreichen
+Antrag abbrechen
+Bitte wählen Sie Ihre Rolle in FAR
+Denken Sie bei der Aktualisierung Ihres Profils daran, dass alle Änderungen erst aktiv werden, wenn sie von den zuständigen Administratoren genehmigt wurden.\n  Bei Änderung Ihrer EU Login-E-Mail-Adresse können Sie sich nicht mehr in IRMA einloggen.
+Dieses Profil wurde geändert und ist derzeit in Bearbeitung. Während dieser Zeit sind keine Änderungen möglich.
+Primäre Rolle: @role
+Zusätzliche Rollen: @roles
+Löschen Sie das Konto und überlassen Sie seinem Inhalt einem operativen Leiter der Organisationseinheit des Kontos.
+!parent (@roles)
+Nutzer mit geerbten Rechten
+Keine Nutzer mit geerbten Rechten
+E-Mail-Adresse
+Kein Link
+Entscheidung über IRMA-Antrag ??
+@user kann nicht gelöscht werden.
+%user kann nicht gelöscht werden, da er der letzte operative Leiter der Gruppe %group ist. Bitte weisen Sie einen weiteren operativen Leiter an, bevor Sie diesen Nutzer löschen.
+Die Mitgliedschaft von @user kann nicht entfernt werden.
+Kann die Rolle von %role nicht entfernen. Es gibt keine weitere Mitgliedschaft mit dieser Rolle. Weisen Sie eine weitere %role zu, bevor Sie diese Mitgliedschaft aktualisieren.
+Eine Bestätigung des Antrags auf Kontolöschung wurde an Ihre E-Mail-Adresse geschickt.
+Antrag auf Kontolöschung wurde an  %name %email geschickt.
+– Kein/-e/-er/es – ??
+– Wählen Sie einen Wert aus –
+Organisationseinheit
+Konto löschen
+Art
+IRMA-Mitglied / Arbeitsbereich
+Datum
+Betrieb ??
+Zusätzliche Mitgliedschaft ändern ??
+Anzeigen
+Verwalten
+Keine Anträge gefunden
+@user beantragt Zugang zur Organisationseinheit @group beim Interessenträger @stakeholder
+Bei Ablehnung eines Antrags Anmerkung hinzufügen
+Genehmigen
+Ablehnen
+Abbrechen
+@user beantragt zusätzliche Mitgliedschaft in @group
+Bei Ablehnung eines Antrags bitte Anmerkung hinzufügen.
+@site – Antrag eingegangen
+Vielen Dank für Ihren Antrag auf Zugang zu IRMA. Ihr Antrag wartet derzeit auf Genehmigung.\n\n      Ihr Antrag für @group ist eingegangen.\n\n      Sie erhalten eine weitere Benachrichtigung, wenn ihr Antrag bearbeitet wird.
+@site – Antragsänderung eingegangen
+Ihr Antrag auf Änderung Ihres Profils ist eingegangen. Ihr Änderungsantrag wartet derzeit auf Genehmigung.\n\n      Sie erhalten eine weitere Benachrichtigung, wenn ihr Antrag bearbeitet wird.
+@site – Aktualisierung des Antragsstatus: Antrag aktualisiert
+Ihr Antrag (?) wurde aktualisiert.\n\n      Ihr Aufnahmeantrag in @group wurde von Ihrer Organisation genehmigt, benötigt \n      aber noch die Zustimmung der IRMA-Zugangskontrolle.\n\n      Sie erhalten eine weitere Benachrichtigung, wenn ihr Antrag bearbeitet wird.
+@site – Aktualisierung des Antragsstatus: Antragsänderung (?) aktualisiert
+Ihr Antrag (?) wurde aktualisiert.\n\n      Die von Ihnen für @group beantragten Änderungen wurden von Ihrer Organisation genehmigt, benötigen \n      aber noch die Zustimmung der IRMA-Zugangskontrolle.\n\n      Sie erhalten eine weitere Benachrichtigung, wenn ihr Antrag bearbeitet wird.
+@site – Aktualisierung des Antragsstatus: Antrag genehmigt
+Ihr Antrag (?) wurde aktualisiert.\n\n      Ihr Aufnahmeantrag in @group wurde von der IRMA-Zugangskontrolle genehmigt.\n\n      Sie können sich jetzt mit EU Login anmelden.
+@site – Aktualisierung des Antragsstatus: Antragsänderung (?) aktualisiert
+Ihr Antrag (?) wurde aktualisiert.\n\n      Die von Ihnen für @group beantragten Änderungen wurden von der IRMA-Zugangskontrolle genehmigt.
+@site – Aktualisierung des Antragsstatus: Antrag abgelehnt
+Ihr Antrag (?) wurde aktualisiert.\n\n      Ihr Aufnahmeantrag in @group wurde von Ihrer Organisation mit folgender Begründung abgelehnt\n\n      @reason
+@site – Aktualisierung des Antragsstatus: Antragsänderung (?) abgelehnt
+Ihr Antrag (?) wurde aktualisiert.\n\n      Die von Ihnen für @group beantragten Änderungen wurden von Ihrer Organisation mit folgender Begründung abgelehnt:\n\n      @reason
+Ihr Antrag (?) wurde aktualisiert.\n\n      Die von Ihnen für @group beantragten Änderungen wurden von der IRMA-Zugangskontrolle mit folgender Begründung abgelehnt:\n\n      @reason
+Ihr Antrag (?) wurde aktualisiert.\n\n      Ihr Aufnahmeantrag in @group wurde von genehmigt.
+Ihr Antrag (?) wurde aktualisiert.\n\n      Die von Ihnen für @group beantragten Änderungen wurden genehmigt.
+Ihr Antrag (?) wurde aktualisiert.\n\n      Ihr Aufnahmeantrag in @group wurde mit folgender Begründung abgelehnt:\n\n      @reason
+Ihr Antrag (?) wurde aktualisiert.\n\n      Die von Ihnen für @group beantragten Änderungen wurden mit folgender Begründung abgelehnt:\n\n      @reason
+@site – Aktualisierung des Antragsstatus:
+Ihr Antrag (?) wurde aktualisiert.\n\n      Ihr Aufnahmeantrag in @group wurde von Ihrer primären Organisation genehmigt.
+Ihr Antrag (?) wurde aktualisiert.\n\n      Die von Ihnen für @group beantragten Änderungen wurden von Ihrer primären Organisation genehmigt.
+Ihr Antrag (?) wurde aktualisiert.\n\n      Ihr Aufnahmeantrag in @group wurde von Ihrer primären Organisation mit folgender Begründung abgelehnt:\n\n      @reason
+Ihr Antrag (?) wurde aktualisiert.\n\n      Die von Ihnen für @group beantragten Änderungen wurden von Ihrer primären Organisation mit folgender Begründung abgelehnt:\n\n      @reason
+@site – Aktualisierung des Antragsstatus: IRMA-Zugang gewährt
+Ihr Antrag (?) wurde aktualisiert.\n\n      Ihr Antrag auf Zugang zu IRMA wurde genehmigt.\n      Ihr Konto wurde aktiviert. Sie können sich jetzt mit nachstehendem Link einloggen.\n\n      !link
+@identifier hat \'@perm\
+Zu validierende Anträge
+Entscheidungen bezüglich meiner Anträge
+Gruppe
+Art der Gruppe
+Rollen in der Gruppe
+anhängig
+Gruppenzugang – Zusammenfassung
+Geerbt von: @inherited_roles
+Anträge auf Zugang
+Noch offene Anträge
+Antrag bearbeiten
+Primärer Interessenträger
+Organisationseinheiten
+Keine Einheit passt zu \'%value\.
+Viele Einheiten heißen %value. Geben Sie an, welche Sie möchten, indem Sie die Kennung so in Klammern beifügen: \'@value (@Kennung)\
+Mehrere Einheiten passen zu dieser Referenz; \'%multiple\'
+– Beschränkter Zugang –
+Derzeitiger Stand des Antrags
+Das angezeigte Profil ist Ihr derzeit aktives Profil. Gleichzeitig ist jedoch ein Änderungsantrag von Ihnen in Bearbeitung.
+Ihr Antrag ist in Bearbeitung.
+Das angezeigte Profil ist Ihr derzeit aktives Profil.
+Derzeitiger Stand des Antrags:
+In Bearbeitung befindliche zusätzliche Mitgliedschaften:
+Personenbezogene Angaben
+Startseite
+Kontakt
+Neue Anforderung an !workspace
+Rubrik im Arbeitsbereich
+Art der Rubrik
+Eingebettete Medien
+Dateiname
+Größe
+Dokument
+Geändert
+!Titletitle entfernen
+Beigefügte Dateien
+oder !last_space
+Einzelne IRMA-Nutzer
+Wählen Sie ein Ziel, um die Anforderung automatisch dem entsprechenden IRMA-Mitglied zuzuweisen.
+Anfordern
+Informationen anfordern
+Anlagen zur Anforderung
+Eingereicht von !username am !datetime
+Eingereichte Information
+Fälligkeitsdatum
+Standardfälligkeit (Datum und Uhrzeit)
+Aktualisierungen und Anmerkungen
+Anforderung aktualisieren und neue Anmerkung hinzufügen
+Zu validierende Anträge auf Zugang
+Zusätzliche Mitgliedschaft
+Operatives Datenobjekt ??
+Wochenbericht mit operativen Daten
+Datenerfassungszeitraum
+Rubriken für operative Daten anlegen: Art der Rubrik nicht gefunden.
+Funktion operativer Daten ??
+Vollständige Liste der Anforderungen ?
+In allen Arbeitsbereichen, zu denen Sie Zugang haben, nach Inhalten suchen
+Normale Nutzer:</em>\r\n<ul>\r\n<li>Berechtigungen bezüglich der Inhalte dieser zusätzlichen Mitgliedschaft anzeigen</li>\r\n</ul>\r\n<em>Operative Nutzer:</em>\r\n<ul>\r\n<li>Berechtigung für den uneingeschränkten Zugang zu Inhalten der zusätzlichen  Mitgliedschaft</li>\r\n<li>Empfänger aller Mitteilungen, die an diese zusätzliche Mitgliedschaft gerichtet sind</li>\r\n</ul>
+Normale Nutzer:</em>\r\n<ul>\r\n<li>Berechtigungen bezüglich der Inhalte dieser Organisation anzeigen</li>\r\n</ul>\r\n<em>Operative Nutzer:</em>\r\n<ul>\r\n<li>Berechtigung für den uneingeschränkten Zugang zu Inhalten der Organisation</li>\r\n<li>Empfänger aller Mitteilungen, die an diese Organisation gerichtet sind</li>\r\n</ul>Operative Leiter:</em>\r\n<ul>\r\n<li>Berechtigung für den uneingeschränkten Zugang zu Inhalten der Organisation</li>\r\n<li>Empfänger aller Mitteilungen, die an diese Organisation gerichtet sind</li>\r\n<li>Verwaltung des von Nutzern beantragten Zugangs zu dieser Organisation</li>\r\n</ul>
+Überschrift

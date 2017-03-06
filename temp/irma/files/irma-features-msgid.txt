@@ -1,0 +1,354 @@
+<p class=\'alert alert-warning\'><i class=\'fa fa-exclamation-triangle\'></i> Files containing sensitive information should be encrypted before uploading.</p>
+Attachments
+Body
+Enter the content of the document or wiki here.
+Groups audience
+If checked, show the node detail page (Drupal default behavior).  If unchecked, show the first file attachment.
+Paragraphs
+Parent
+Related Content
+Related IRMA Members
+Related Third Countries
+Section
+Sections in Subarea
+Article
+An IRMA Article, to be listed under a Subarea.
+Title
+Section in Subarea
+Used for grouping articles in sub areas.
+Access
+Related
+New
+New Article
+You cannot delete @title.
+Go back
+New section
+Create section
+Update section
+Add new section
+Subareas
+No files to show
+IRMA Discussion
+Discussion topic count
+Discussion post count
+Last comment
+Create discussion
+Go back to @section
+Report
+Teaser
+Discussion
+Comment
+link to reported content
+Please write your comment below.
+Collaborative Document
+Your download will start automatically. If it does not, click this !link.
+Go to content
+IRMA Document Lock Reminder : @title
+The collaborative document on content %title has been locked by you.\n      Do not forget to unlock the content.\n\n      !link\n      
+IRMA Document Lock Automatic unlock : @title
+The collaborative document on content %title was locked by you.\n      The maximum lock time has elapsed and the document was automatically unlocked.\n\n      !link\n      
+Could not send reminder.
+A reminder was sent.
+Unlock
+you
+Please unlock it after having added your edited version via a comment.
+Do not unlock unless absolutely necessary and please inform the locking user before doing so.
+This content has been locked by %user. !action
+Send reminder
+Edit
+Download
+Use the Edit button when you want to download files to contribute to them. Only use the Download button to download files for consulting.
+Files
+Uploaded on
+Uploaded by
+Document History
+Login
+Ecas logout
+There was a problem with the EU login data. IRMA could not retrieve you first name, last name and / or e-mail address.
+Cancel registration
+The username %name is an ECAS account. <a href=\'!url\'>Login via ECAS</a> to get access.
+edit user
+Amount of other personnel that will accompany the returnees. (i.e. Security personnel, Medical personnel, ...)
+Attend the event
+Available positions
+Check this box and submit a comment to indicate your intention to attend the event.
+Description
+Event date
+Forward this event to other users.
+Geocoded Location
+IRMA Members
+Location
+Location Address and/or link, i.e.\nEuropean Commission\nB-1049 Brussels\nBelgium,\nhttp://ec.europa.eu/
+Number of returnees
+Others
+Participant
+Share with individual users
+The name of the organisation you represent.
+The total number of available positions for this activity. 
+This event will be visible to all members of the workspace.
+This event will be visible to all the operational and general managers of the stakeholder.
+Workspace
+Operational activity
+An IRMA Activity Event.
+Share activity with
+Full calendar
+See all upcoming events
+Save
+Save draft
+Create @type
+Save @type
+@label is required.
+returnees
+returnee
+other
+and
+see comment
+Please share with at least 1 user or group.
+Shared with @users
+Add Event
+Select Event type
+Next
+%type_name: View own content
+%type_name: View any content
+Participants:
+Welcome to IRMA
+To access IRMA you will need to log in with your ECAS account by clicking the button below.\n     If you don't already have an IRMA account you will be prompted to apply for access after logging in with ECAS.\n     Only people working for organisations who confirmed their participation to IRMA will be granted access.
+Please contact !contact-mail if you have questions about obtaining access to IRMA or to request the participation form for your organisation.
+View profile
+Help
+new
+All Pending Access Applications
+IRMA Users
+Contact Us
+Forums
+My Polls
+Advanced Search
+My Drafts
+Request log
+Tools
+IRMA Member
+Profile
+Reason
+User name
+Comments
+Country Report
+Identification / Emergency Travel Documents (ETD)
+Persons with return decisions issued\t
+Third Country
+Week
+Year
+Add another third country
+New Country Report
+You can only submit data for the current period or older.
+Add at least 2 choices for your poll.  Write-in values indicate user generated content.  If you approve of a choice that has been written in by a user, uncheck it and it will be integrated into the poll for others to vote upon.
+Approval voting weighs each vote against each individual choice rather than pooling all votes.
+Close poll
+Display results
+If the poll's voting availability is being controlled by a cookie, this value determine how long to wait between votes in minutes.
+Maximum choices
+Permission settings are necessary for allowing write-in voting, visibility of individual votes and administration of electoral lists.
+Poll Choice
+Poll availability
+Select the date range that controls the availability of this poll.
+Select the maximum number of choices that can be voted upon.
+This value determines when to show the results of a poll.  By default, while voting is on going, users will see the results so long as they are no longer eligible to vote.  To display results without allowing an opportunity to vote, select 'After poll is closed' and close the poll.
+Voting behavior
+Voting options
+Warning, changing this setting after votes have already been recorded for this poll will cause existing votes to be flushed.
+When closed, a poll may no longer be voted upon but will display its results if settings allow.  For blocks, polls that are enabled to show results will show results, otherwise the block will no longer be available.
+Poll
+Question
+Share Poll with
+Create poll
+Add at least 2 choices for your poll.
+Add another choice
+\'@s\' title
+Attachment
+ and others
+In CC: !last
+In CC: !participants and !last
+Compose new message
+Contact us
+Contact @workspace
+Objective
+Operation responder
+Status
+Request Log
+Name
+Operational Responders
+Operational Responder
+List the operational responders
+Private
+Individual Users
+Please assign the request to a user or group.
+ or 
+Please assign the request to either @field_string.
+My Requests
+IRMA Member Requests
+Request status information
+Workspace: 
+Parent IRMA Member
+Request Objective
+Select the parent IRMA Member if this is an organisational entity.
+The group cannot be deleted because it still has 1 member.
+The group cannot be deleted because it still has @count members.
+The group cannot be deleted because it still has 1 organisational entity.
+The group cannot be deleted because it still has @count organisational entities.
+Created @term grouping tag.
+IRMA Notification
+Additional Memberships
+Address
+Department
+FAR Role
+Family name
+Family name (Latin characters only)
+First name
+First name (Latin characters only)
+IRMA Role
+Identification Document
+Job Title / Position
+Job title or position in IRMA Member
+Justification
+Membership comment
+Membership status
+Role in Additional Membership
+Role in Return Activities
+Telephone Number
+e.g. Voluntary returns / Readmission / Forced returns escort
+Personal information
+Primary organisation
+N/A
+Group name
+Thank you for applying for an account. Your account is currently pending approval by the site administrator.
+Fields marked with <span class=\'form-required\' title=\'This field is required.\'>*</span> are required.
+E-mail Address
+Only corporate e-mail addresses are allowed.
+Confirm this Additional Membership
+Submit Application
+Cancel Application
+Please select your FAR Role
+When updating your profile keep in mind that any changes will need to be approved by the relevant administrators before the changes become active.\n  When your ECAS email address is changed you will not be able to log into IRMA.
+This profile has been modified and is currently being processed. No changes can be made at this time.
+Primary role: @role
+Additional roles: Rolle
+Delete the account and make its content belong to an Operational manager of the account's Organisational Entity.
+!parent (@roles)
+Inherited users
+No inherited users.
+E-mail
+No link
+IRMA Application Decision
+@user cannot be cancelled
+%user cannot be cancelled as they are the last Operational Manager for %group. Please assign another Operational Manager before cancelling this user.
+@user membership cannot be removed
+Cannot remove %role role. No other remaining memberships with that role are present. Assign another %role before updating this membership.
+A confirmation request to cancel your account has been sent to your e-mail address.
+Sent account cancellation request to %name %email.
+- None -
+- Select a value -
+Organisational Entity
+Cancel account
+Type
+IRMA Member / Workspace
+Date
+Operations
+Mod Additional Membership
+View
+Manage
+No applications found.
+@user requests access to organisational entity @group in stakeholder @stakeholder
+Add a comment when rejecting an application
+Approve
+Reject
+Cancel
+@user requests additional membership to @group
+Please enter a comment when rejecting an application.
+@site - Application recieved.
+Thank you for applying for access to IRMA. Your application is currently pending and awaiting approval.\n\n      Your application for @group has been recieved.\n\n      You will receive further notification as your application is being processed.
+@site - Application modification recieved.
+Your request to modify your profile has been recieved. Your modification is currently pending and awaiting approval.\n\n      You will receive further notification as your modification request is being processed.
+@site - Application status update: Application updated
+Your application request has been updated.\n\n      Your application for @group has been approved by your organisation but\n      still requires approval by IRMA Access Control.\n\n      You will receive further notification as your application is being processed.
+@site - Application status update: Application modification updated
+Your application request has been updated.\n\n      The changes you requested for @group have been approved by your organisation but\n      still require approval by IRMA Access Control.\n\n      You will receive further notification as your application is being processed.
+@site - Application status update: Application approved
+Your application request has been updated.\n\n      Your application for @group has been approved by IRMA Access Control.\n\n      You are now able to login using your EU Login.
+@site - Application status update: Application modification approved
+Your application request has been updated.\n\n       The changes you requested for @group has been approved by IRMA Access Control.
+@site - Application status update: Application rejected
+Your application request has been updated.\n\n      Your application for @group has been rejected by your organisation for the following reason.\n\n      @reason
+@site - Application status update: Application modification rejected
+Your application request has been updated.\n\n      The changes you requested for @group has been rejected by your organisation for the following reason.\n\n      @reason
+Your application request has been updated.\n\n      The changes you requested for @group has been rejected by IRMA Access Control for the following reason.\n\n      @reason
+Your application request has been updated.\n\n      Your application for @group has been approved.
+Your application request has been updated.\n\n      The changes you requested for @group have been approved.
+Your application request has been updated.\n\n      Your application for @group has been rejected for the following reason.\n\n      @reason
+Your application request has been updated.\n\n      The changes you requested for @group has been rejected for the following reason.\n\n      @reason
+@site - Application status update
+Your application request has been updated.\n\n      Your application for @group has been approved by your primary organisation.
+Your application request has been updated.\n\n      The changes you requested for @group has been approved by your primary organisation.
+Your application request has been updated.\n\n      Your application for @group has been rejected by your primary organisation for the following reason.\n\n      @reason
+Your application request has been updated.\n\n      The changes you requested for @group has been rejected by your primary organisation for the following reason.\n\n      @reason
+@site - Application status update: IRMA access granted
+Your application request has been updated.\n\n      Your application to access IRMA has been approved.\n      Your account has been activated and you can login using the link below.\n\n      !link
+@identifier has \'@perm\'
+Applications to validate
+My Application Decisions
+Group
+Group type
+Roles in group
+pending
+Group access summary
+Inherited from: @inherited_roles
+Access Applications
+Pending applications
+Edit Application
+Primary Stakeholder
+Organisational Entities
+There are no entities matching \'%value\'
+Many entities are called %value. Specify the one you want by appending the id in parentheses, like \'@value (@id)\'
+Multiple entities match this reference; \'%multiple\'
+- Restricted access -
+Current Application state
+The profile shown is your current active profile. However you currently have an application modification that is being processed.
+Your application is being processed.
+The profile shown is your current active profile.
+Current application state:
+Additional memberships being processed:
+Personal Information
+Home
+Contact
+New request to !workspace
+Workspace section
+Section type
+Embedded Media
+Filename
+Size
+Document
+Modified
+Remove !title
+Attached Files
+ or !last_space
+Individual IRMA Users
+Select an objectives to assign the request automatically to the applicable IRMA Member.
+Request
+Request information
+Request attachments
+Submitted by !username on !datetime
+Submitted information
+Due date
+Default due date time
+Updates and comments
+Update request and add new comment
+Access Applications to validate
+Additional Membership
+Operational Data Object
+Weekly report with operational data.
+Data Collection Period
+Create operational data sections: section type not found.
+Operational Data Feature
+Full Requests Log
+Search for content in all workspaces you have access to.
+<em>Normal Users:</em>\r\n<ul>\r\n<li>View permissions on the content of this Additional Membership</li>\r\n</ul>\r\n<em>Operational Users:</em>\r\n<ul>\r\n<li>Full access permissions on content for the Additional Membership</li>\r\n<li>Recipient of any communication addressed to this Additional Membership</li>\r\n</ul>
+<em>Normal Users:</em>\r\n<ul>\r\n<li>View permissions on the content of this Organisation</li>\r\n</ul>\r\n<em>Operational Users:</em>\r\n<ul>\r\n<li>Full access permissions on content for the Organisation</li>\r\n<li>Recipient of any communication addressed to this Organisation</li>\r\n</ul>\r\n<em>Operational Managers:</em>\r\n<ul>\r\n<li>Full access permissions on content for the Organisation</li>\r\n<li>Recipient of any communication addressed to this Organisation</li>\r\n<li>Access management for user access request for this Organisation</li>\r\n</ul>
+Heading

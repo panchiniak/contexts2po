@@ -1,0 +1,110 @@
+msgid "Your account is not yet approved"
+msgstr "Ihr Konto ist noch nicht genehmigt."
+msgid "This user appears to be an ECAS user -- you can not recover his password using this form. Please visit %s instead"
+msgstr "Dieser Nutzer ist anscheinend ein EU Login-Nutzer. Sie können sein Passwort nicht über dieses Formular erhalten. Bitte besuchen Sie stattdessen die %s"
+msgid "Warning: no information could be found for username :username"
+msgstr "Warning: Für den Nutzernamen :username wurden keine Angaben gefunden."
+msgid "Your access application is not yet approved."
+msgstr "Ihr Antrag auf Zugang ist noch .nicht genehmigt."
+msgid "Login"
+msgstr "Anmelden"
+msgid "User Login"
+msgstr "Nutzerkennung"
+msgid "Account blocked"
+msgstr "Konto gesperrt"
+msgid "Submit"
+msgstr "Abschicken"
+msgid "European Commission"
+msgstr "Europäische Kommission"
+msgid "Frontex"
+msgstr "FRONTEX"
+msgid "EASO"
+msgstr "EASO"
+msgid "MSSACs"
+msgstr "MSSACs"
+msgid "Austria"
+msgstr "Österreich"
+msgid "Belgium"
+msgstr "Belgien"
+msgid "Czech Republic"
+msgstr "Tschechische Republik"
+msgid "Denmark"
+msgstr "Dänemark"
+msgid "Estonia"
+msgstr "Estland"
+msgid "Finland"
+msgstr "Finnland"
+msgid "France"
+msgstr "Frankreich"
+msgid "Germany"
+msgstr "Deutschland"
+msgid "Greece"
+msgstr "Griechenland"
+msgid "Hungary"
+msgstr "Ungarn"
+msgid "Iceland"
+msgstr "Island"
+msgid "Italy"
+msgstr "Italien"
+msgid "Latvia"
+msgstr "Lettland"
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+msgid "Lithuania"
+msgstr "Litauen"
+msgid "Luxembourg"
+msgstr "Luxemburg"
+msgid "Malta"
+msgstr "Malta"
+msgid "Netherlands"
+msgstr "Niederlande"
+msgid "Norway"
+msgstr "Norwegen"
+msgid "Poland"
+msgstr "Polen"
+msgid "Portugal"
+msgstr "Portugal"
+msgid "Slovakia"
+msgstr "Slowakei"
+msgid "Slovenia"
+msgstr "Slowenien"
+msgid "Spain"
+msgstr "Spanien"
+msgid "Sweden"
+msgstr "Schweden"
+msgid "Switzerland"
+msgstr "Schweiz"
+msgid "EU Programmes"
+msgstr "EU-Programme"
+msgid "EURINT"
+msgstr "EURINT"
+msgid "EURIN"
+msgstr "ERIN"
+msgid "EURLO"
+msgstr "EURLO"
+msgid "Add another organisation"
+msgstr "Weitere Organisation hinzufügen"
+msgid "IRMA - Frontex related access granted"
+msgstr "IRMA – Zugang in Bezug auf Frontex gewährt"
+msgid "A user has been granted access to a Frontex related group on IRMA.\n\n      Name: @name\n      Access to: @group_name\n      Username: @username\n      User email: @user_mail\n      Telephone: @field_profile_telephone\n\n      Member state / Primary organisation: @primary_org\n      Organisational entity: @org_entity\n      Department: @field_profile_department\n      Job title: @field_profile_jobtitle\n\n\n      IRMA role: @irma_role\n      FAR role: @far_role\n\n      Please provide access for this user on your systems."
+msgstr "Ein Nutzer hat auf IRMA Zugang zu einer Gruppe mit Frontex-Bezug erhalten.\n\n      Name: @name\n      Zugang zu: @group_name\n      Nutzername: @username\n      E-Mail-Adresse des Nutzers: @user_mail\n      Telefon: @field_profile_telephone\n\n      Mitgliedstaat / Primäre Organisation: @primary_org\n      Organisatorische Einheit: @org_entity\n      Abteilung: @field_profile_department\n      Funktion: @field_profile_jobtitle\n\n\n      Rolle in IRMA: @irma_role\n      Rolle in FAR: @far_role\n\n      Bitte gewähren Sie diesem Nutzer Zugang zu Ihren Systemen."
+msgid "IRMA - Frontex related access revoked"
+msgstr "IRMA – Zugang in Bezug auf Frontex entzogen"
+msgid "A user has had his access to a Frontex related group revoked on IRMA.\n\n      Username: @username\n      User email: @user_mail\n\n      Please revoke access for this user on your systems."
+msgstr "Einem Nutzer wurde der Zugang zu einer Gruppe mit Frontex-Bezug auf IRMA entzogen.\n\n      Nutzername: @username\n      E-Mail-Adresse des Nutzers: @user_mail\n\n      Bitte entziehen Sie diesem Nutzer den Zugang zu Ihren Systemen."
+msgid "IRMA - Frontex related user account suspended"
+msgstr "IRMA – Nutzerkonto mit Frontex-Bezug deaktiviert"
+msgid "A user with access to one or more Frontex related groups has been suspended on the IRMA.\n\n      Name: @name\n      Access to: @group_name\n      Username: @username\n      User email: @user_mail\n      Telephone: @field_profile_telephone\n\n      Member state / Primary organisation: @primary_org\n      Organisational entity: @org_entity\n      Department: @field_profile_department\n      Job title: @field_profile_jobtitle\n\n\n      IRMA role: @irma_role\n      FAR role: @far_role\n\n      Please revoke access for this user on your systems."
+msgstr "Ein Nutzer mit Zugang zu einer oder mehreren Gruppen mit Frontex-Bezug wurde vorübergehend von IRMA ausgeschlossen.\n\n      Name: @name\n      Zugang zu: @group_name\n      Nutzername: @username\n      E-Mail-Adresse des Nutzers: @User_mail\n       Telefon: @Field_profile_telephone\n\n        Mitgliedstaat / Primäre Organisation: @primary_org\n      Organisatorische Einheit: @org_entity\n      Abteilung: @field_profile_department\n      Funktion: @field_profile_jobtitle\n\n\n      Rolle in IRMA: @irma_role\n      Rolle in FAR: @far_role\n\n      Bitte entziehen Sie diesem Nutzer den Zugang zu Ihren Systemen."
+msgid "IRMA - Frontex related user account reactivated"
+msgstr "IRMA – Nutzerkonto mit Frontex-Bezug reaktiviert"
+msgid "A suspended user with access to one or more Frontex related groups has been reactivated on IRMA.\n\n      Name: @name\n      Access to: @group_name\n      Username: @username\n      User email: @user_mail\n      Telephone: @field_profile_telephone\n\n      Member state / Primary organisation: @primary_org\n      Organisational entity: @org_entity\n      Department: @field_profile_department\n      Job title: @field_profile_jobtitle\n\n\n      IRMA role: @irma_role\n      FAR role: @far_role\n\n      Please grant access for this user on your systems."
+msgstr "Ein vorübergehend von IRMA ausgeschlossener  Nutzer mit Zugang zu einer oder mehreren Gruppen mit Frontex-Bezug wurde wieder auf IRMA zugelassen.\n\n      Name: @Name\n        Zugang zu: @Group_name\n       Nutzername: @username\n      E-Mail-Adresse des Nutzers: @User_mail\n        Telefon: @field_profile_telephone\n\n      Mitgliedstaat / Primäre Organisation: @primary_org\n      Organisatorische Einheit: @org_entity\n      Abteilung: @field_profile_department\n      Funktion: @field_profile_jobtitle\n\n\n      Rolle in IRMA: @irma_role\n      Rolle in FAR: @far_role\n\n      Bitte gewähren Sie diesem Nutzer Zugang zu Ihren Systemen."
+msgid "M"
+msgstr "M"
+msgid "F"
+msgstr "W"
+msgid "!name field is required."
+msgstr "!name muss angegeben werden."
+msgid "An illegal choice has been detected. Please contact the site administrator."
+msgstr "Eine unzulässige Wahl wurde entdeckt. Wenden Sie sich bitte an den Administrator."
