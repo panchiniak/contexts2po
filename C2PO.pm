@@ -27,7 +27,6 @@ my $last_id_inserted;
 
 #perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list] --verbose
 
-
 GetOptions(
     'base|b=s' => \$base_file_name,
     'translation|t=s' => \$translation_file_name,
@@ -90,13 +89,17 @@ my $translation_file_count = $.;
 open (FH_CIN, "< $current_path/$context_file_name") or die "Can't open $current_path/$context_file_name for read: $!";
 my @context_lines = <FH_CIN>;
 
-open (my $outfile, "> $current_path/$po_file_name") or die "Can't open $current_path/$po_file_name for write: $!";
+open (our $outfile, "> $current_path/$po_file_name") or die "Can't open $current_path/$po_file_name for write: $!";
 
 
 #Assure base and translation have the same number of lines
 if ($translation_file_count != $base_file_count){
   print "Error: file $current_path/$translation_file_name has $base_file_count lines and $current_path/$translation_file_name has $translation_file_count lines. They should have the same number of lines." . "\n";
   exit;
+}
+
+sub createPOentry {
+  print { $_[0] ? \*STDOUT : $outfile } $_[1] . ' "' . $_[2] . '"' . "\n";
 }
 
 my $line_index = 0;
@@ -119,16 +122,18 @@ foreach my $base_line (@base_lines){
            
            if ($verbose_mode) {
               #Include comment line comming from context file.
+              #@TODO: detect the absence of full context description.
               print $context_lines[$context_index - 2];
               print $context_lines[$context_index - 1];
-              print 'msgid "' . $brother . '"' . "\n";
-              print 'msgstr "' . $tranlation_lines[$line_index] . '"' . "\n";
+              #@TODO: detect the presence of msid_plural format.
+              createPOentry(1, 'msgid', $brother);
+              createPOentry(1, 'msgstr', $tranlation_lines[$line_index]);
            }
-           
-           print $outfile $context_lines[$context_index - 2];           
+
+           print $outfile $context_lines[$context_index - 2];
            print $outfile $context_lines[$context_index - 1];
-           print $outfile 'msgid "' . $brother . '"' . "\n";
-           print $outfile 'msgstr "' . $tranlation_lines[$line_index] . '"' . "\n";
+           createPOentry(0, 'msgid', $brother);
+           createPOentry(0, 'msgstr', $tranlation_lines[$line_index]);
 
         }
         $context_index++;
@@ -136,16 +141,20 @@ foreach my $base_line (@base_lines){
       
     }
     else{
-      #Also include pairs which msgid is absent from context.      
+      #Also include pairs which msgid is absent from context.
       chomp($base_line);
-      
+
+      if (! defined $last_id_inserted) {
+        $last_id_inserted = '';
+      }
+
       if ($last_id_inserted ne $base_line) { 
         if ($verbose_mode) {
-          print 'msgid "' . $base_line . '"' . "\n";
-          print 'msgstr "' . $brother . '"' . "\n";
-        }        
-        print $outfile 'msgid "' . $base_line . '"' . "\n";
-        print $outfile 'msgstr "' . $brother . '"' . "\n";
+          createPOentry(1, 'msgid', $base_line);
+          createPOentry(1, 'msgstr', $brother);
+        }
+        createPOentry(0, 'msgid', $base_line);
+        createPOentry(0, 'msgstr', $brother);
       }
     }
     $pair_index = 1;
