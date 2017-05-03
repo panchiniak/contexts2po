@@ -33,8 +33,8 @@ GetOptions(
     'translation|t=s' => \$translation_file_name,
     'context|c=s' => \$context_file_name,
     'lang|l=s' => \$language_code,
-    'verbose' => \$verbose_mode,
-    'force|f=s' => \$force_mode
+    'verbose|v' => \$verbose_mode,
+    'force|f' => \$force_mode,
 ) or die "Usage: $0 --base <FILE_NAME> --translation <FILE_NAME> --context <FILE_NAME> --lang <LANGUAGE_CODE>|list --verbose --force\n";
 
 if ($language_code eq 'list'){
@@ -97,7 +97,7 @@ open (our $outfile, "> $current_path/$po_file_name") or die "Can't open $current
 #Assure base and translation have the same number of lines
 if ($translation_file_count != $base_file_count){
   print "Error: file $current_path/$base_file_name has $base_file_count lines and $current_path/$translation_file_name has $translation_file_count lines. They should have the same number of lines." . "\n"; 
-  if (!$verbose_mode){
+  if (!$force_mode){
     exit;
   }
 }
