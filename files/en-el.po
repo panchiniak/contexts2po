@@ -1,1266 +1,0 @@
-msgid "﻿General Information"
-msgstr "Γενικές πληροφορίες"
-#: field:field_survey_gi_year:survey_general_information:label
-msgctxt "field_survey_gi_year:survey_general_information:label"
-msgid "1. Reporting year"
-msgstr "1. Έτος υποβολής της έκθεσης"
-#: field:field_survey_gi_country:survey_general_information:label
-msgctxt "field_survey_gi_country:survey_general_information:label"
-msgid "2. Country"
-msgstr "2. Χώρα"
-#: field:field_survey_gi_comments:survey_general_information:label
-msgctxt "field_survey_gi_comments:survey_general_information:label"
-msgid "3. Country specific comments"
-msgstr "3. Ειδικές ανά χώρα παρατηρήσεις"
-#: field:field_survey_gi_institution:survey_general_information:label
-msgctxt "field_survey_gi_institution:survey_general_information:label"
-msgid "4. Name of the institution acting as NRCP"
-msgstr "4. Φορέας που ενεργεί ως εθνικό σημείο επαφής για τους Ρομά (ΕΣΕΡ)"
-#: field:field_survey_gi_person:survey_general_information:label
-msgctxt "field_survey_gi_person:survey_general_information:label"
-msgid "5. Name of the person reporting on behalf of the NRCP"
-msgstr "5. Πρόσωπο που υποβάλλει έκθεση για λογαριασμό του ΕΣΕΡ"
-#: field:field_survey_gi_phone:survey_general_information:label
-msgctxt "field_survey_gi_phone:survey_general_information:label"
-msgid "6. Phone number"
-msgstr "6. Αριθμός τηλεφώνου"
-#: field:field_survey_gi_email:survey_general_information:label
-msgctxt "field_survey_gi_email:survey_general_information:label"
-msgid "7. E-mail"
-msgstr "7. E-mail"
-#: field:field_survey_gi_data_options:survey_general_information:label
-msgctxt "field_survey_gi_data_options:survey_general_information:label"
-msgid "8. Options for data collection in the Member State"
-msgstr "8. Επιλογές για τη συλλογή δεδομένων στο κράτος μέλος"
-#: field:field_survey_gi_data_options:#allowed_values:population_census
-msgctxt "field_survey_gi_data_options:#allowed_values:population_census"
-msgid "Questions on ethnic self-identification included in the Population Census"
-msgstr "Ερωτήσεις σχετικά με τον εθνοτικό αυτοπροσδιορισμό που περιλαμβάνονται στην απογραφή του πληθυσμού"
-#: field:field_survey_gi_data_options:#allowed_values:european_social_surveys
-msgctxt "field_survey_gi_data_options:#allowed_values:european_social_surveys"
-msgid "Questions on ethnic self-identification included in the standardized European Social Surveys (EU SILC, Labour Force Survey etc.)"
-msgstr "Ερωτήσεις σχετικά με τον εθνοτικό αυτοπροσδιορισμό που περιλαμβάνονται στις τυποποιημένες ευρωπαϊκές κοινωνικές έρευνες (EU-SILC, έρευνα εργατικού δυναμικού κ.λπ.)"
-#: field:field_survey_gi_data_options:#allowed_values:proxies
-msgctxt "field_survey_gi_data_options:#allowed_values:proxies"
-msgid "Proxies of ethnic identity used in the Population Census or in the standardized European Social Surveys (e.g. mother tongue)"
-msgstr "Δεδομένα υποκατάστασης για την εθνοτική ταυτότητα που χρησιμοποιούνται στην απογραφή του πληθυσμού ή στις τυποποιημένες ευρωπαϊκές κοινωνικές έρευνες (π.χ. μητρική γλώσσα)"
-#: field:field_survey_gi_data_options:#allowed_values:sociological_surveys
-msgctxt "field_survey_gi_data_options:#allowed_values:sociological_surveys"
-msgid "Questions on ethnic identity asked in custom sociological surveys"
-msgstr "Ερωτήσεις σχετικά με την εθνοτική ταυτότητα που τίθενται στις κοινωνιολογικές έρευνες"
-#: field:field_survey_gi_data_options:#allowed_values:qualitative_research
-msgctxt "field_survey_gi_data_options:#allowed_values:qualitative_research"
-msgid "Qualitative research (focus groups, structured interviews with members of ethnic groups)"
-msgstr "Ποιοτική έρευνα (ομάδες εστίασης, δομημένες συνεντεύξεις με μέλη εθνοτικών ομάδων)"
-#: field:field_survey_gi_data_options:#allowed_values:territorial_mapping
-msgctxt "field_survey_gi_data_options:#allowed_values:territorial_mapping"
-msgid "Territorial mapping (experts’ estimates of the distribution of the population at municipal level or other territorial units)"
-msgstr "Εδαφική χαρτογράφηση (εκτιμήσεις εμπειρογνωμόνων σχετικά με την κατανομή του πληθυσμού σε επίπεδο δήμων ή άλλων εδαφικών μονάδων)"
-#: field:field_survey_gi_data_options:#allowed_values:not_collected
-msgctxt "field_survey_gi_data_options:#allowed_values:not_collected"
-msgid "Data disaggregated by ethnicity are not collected"
-msgstr "Δεν συγκεντρώνονται δεδομένα κατά εθνότητα"
-#: field:field_survey_gi_data_options:#allowed_values:other
-msgctxt "field_survey_gi_data_options:#allowed_values:other"
-msgid "Other"
-msgstr "Άλλο"
-#: field:field_survey_measure_11_1:#allowed_values:other
-msgctxt "field_survey_measure_11_1:#allowed_values:other"
-msgid "Other"
-msgstr "Άλλο"
-#: field:field_survey_gi_other_options:survey_general_information:label
-msgctxt "field_survey_gi_other_options:survey_general_information:label"
-msgid "8.1. If other options, please specify …"
-msgstr "8.1. Σε περίπτωση άλλων επιλογών, διευκρινίστε …"
-msgid "Measures (Measure)"
-msgstr "Μέτρα (Μέτρο)"
-#: field:field_survey_measure_1:survey_measure:label
-msgctxt "field_survey_measure_1:survey_measure:label"
-msgid "1. Title of the measure"
-msgstr "1. Τίτλος του μέτρου"
-#: field:field_survey_measure_2:survey_measure:label
-msgctxt "field_survey_measure_2:survey_measure:label"
-msgid "2. Implemented by"
-msgstr "2. Εφαρμόστηκε από"
-#: field:field_survey_measure_2:#allowed_values:my
-msgctxt "field_survey_measure_2:#allowed_values:my"
-msgid "My organisation"
-msgstr "τον οργανισμό μου"
-#: field:field_survey_measure_2:#allowed_values:other
-msgctxt "field_survey_measure_2:#allowed_values:other"
-msgid "Other organisation"
-msgstr "Άλλον οργανισμό"
-#: field:field_survey_measure_2_1:survey_measure:label
-msgctxt "field_survey_measure_2_1:survey_measure:label"
-msgid "2.1. Organisation type"
-msgstr "2.1. Είδος οργανισμού"
-#: field:field_survey_measure_2_1:#allowed_values:loc_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_pub"
-msgid "Local public authority"
-msgstr "Τοπική δημόσια αρχή"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_pub"
-msgid "Local public authority"
-msgstr "Τοπική δημόσια αρχή"
-#: field:field_survey_measure_2_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_civ"
-msgid "Local civil society"
-msgstr "Τοπική οργάνωση της κοινωνία των πολιτών"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_civ"
-msgid "Local civil society"
-msgstr "Τοπική οργάνωση της κοινωνία των πολιτών"
-#: field:field_survey_measure_2_1:#allowed_values:loc_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_priv"
-msgid "Local private sector entity"
-msgstr "Τοπική οντότητα του ιδιωτικού τομέα"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_priv"
-msgid "Local private sector entity"
-msgstr "Τοπική οντότητα του ιδιωτικού τομέα"
-#: field:field_survey_measure_2_1:#allowed_values:reg_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_pub"
-msgid "Regional public authority"
-msgstr "Περιφερειακή δημόσια αρχή"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_pub"
-msgid "Regional public authority"
-msgstr "Περιφερειακή δημόσια αρχή"
-#: field:field_survey_measure_2_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_civ"
-msgid "Regional civil society"
-msgstr "Περιφερειακή οργάνωση της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_civ"
-msgid "Regional civil society"
-msgstr "Περιφερειακή οργάνωση της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1:#allowed_values:reg_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_priv"
-msgid "Regional private sector entity"
-msgstr "Περιφερειακή οντότητα του ιδιωτικού τομέα"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_priv"
-msgid "Regional private sector entity"
-msgstr "Περιφερειακή οντότητα του ιδιωτικού τομέα"
-#: field:field_survey_measure_2_1:#allowed_values:nat_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_pub"
-msgid "National public authority"
-msgstr "Εθνική δημόσια αρχή"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_pub"
-msgid "National public authority"
-msgstr "Εθνική δημόσια αρχή"
-#: field:field_survey_measure_2_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_civ"
-msgid "National civil society"
-msgstr "Εθνική οργάνωση της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_civ"
-msgid "National civil society"
-msgstr "Εθνική οργάνωση της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1:#allowed_values:nat_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_priv"
-msgid "National private sector entity"
-msgstr "Εθνική οντότητα του ιδιωτικού τομέα"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_priv"
-msgid "National private sector entity"
-msgstr "Εθνική οντότητα του ιδιωτικού τομέα"
-#: field:field_survey_measure_2_1:#allowed_values:tra_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_pub"
-msgid "Transnational public organisation"
-msgstr "Διακρατικός δημόσιος οργανισμός"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_pub"
-msgid "Transnational public organisation"
-msgstr "Διακρατικός δημόσιος οργανισμός"
-#: field:field_survey_measure_2_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_civ"
-msgid "Transnational civil society"
-msgstr "Διακρατική οργάνωση της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_civ"
-msgid "Transnational civil society"
-msgstr "Διακρατική οργάνωση της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1:#allowed_values:tra_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_priv"
-msgid "Transnational private sector entity"
-msgstr "Διακρατική οντότητα του ιδιωτικού τομέα"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_priv"
-msgid "Transnational private sector entity"
-msgstr "Διακρατική οντότητα του ιδιωτικού τομέα"
-#: field:field_survey_measure_2_1:#allowed_values:part
-msgctxt "field_survey_measure_2_1:#allowed_values:part"
-msgid "Partnership"
-msgstr "Σύμπραξη"
-#: field:field_survey_measure_2_1_1:survey_measure:label
-msgctxt "field_survey_measure_2_1_1:survey_measure:label"
-msgid "2.1.1. If partnership, please select the type"
-msgstr "2.1.1. Εάν σύμπραξη, επιλέξτε το είδος"
-#: field:field_survey_measure_3:survey_measure:label
-msgctxt "field_survey_measure_3:survey_measure:label"
-msgid "3. Is the measure part of the implementation plan of…"
-msgstr "3. Εντάσσεται αυτό το μέτρο στο σχέδιο εφαρμογής..."
-#: field:field_survey_measure_3:#allowed_values:nris
-msgctxt "field_survey_measure_3:#allowed_values:nris"
-msgid "NRIS or integrated sets of policy measures on Roma"
-msgstr "εθνικών στρατηγικών για την ένταξη των Ρομά ή ολοκληρωμένων δεσμών μέτρων πολιτικής για τους Ρομά"
-#: field:field_survey_measure_3:#allowed_values:nat
-msgctxt "field_survey_measure_3:#allowed_values:nat"
-msgid "Other – another national level plan"
-msgstr "Άλλο - άλλου εθνικού σχεδίου"
-#: field:field_survey_measure_3:#allowed_values:reg
-msgctxt "field_survey_measure_3:#allowed_values:reg"
-msgid "Other – a regional or local level plan"
-msgstr "Άλλο - περιφερειακού ή τοπικού σχεδίου"
-#: field:field_survey_measure_3_1:survey_measure:label
-msgctxt "field_survey_measure_3_1:survey_measure:label"
-msgid "3.1. If other, enter the source"
-msgstr "3.1. Αν επιλέξατε «Άλλο», αναγράψτε την πηγή"
-#: field:field_survey_measure_4:survey_measure:label
-msgctxt "field_survey_measure_4:survey_measure:label"
-msgid "4. Detailed description of the measure"
-msgstr "4. Αναλυτική περιγραφή του μέτρου"
-#: field:field_survey_measure_5:survey_measure:label
-msgctxt "field_survey_measure_5:survey_measure:label"
-msgid "5. Is it a mainstream or Roma targeted measure?"
-msgstr "5. Πρόκειται για οριζόντιο μέτρο ή για μέτρο στοχευμένο στους Ρομά;"
-#: field:field_survey_measure_5:#allowed_values:main
-msgctxt "field_survey_measure_5:#allowed_values:main"
-msgid "Mainstream"
-msgstr "Οριζόντιο"
-#: field:field_survey_measure_5:#allowed_values:target
-msgctxt "field_survey_measure_5:#allowed_values:target"
-msgid "Targeted"
-msgstr "Στοχευμένο"
-#: field:field_survey_measure_5_1:survey_measure:label
-msgctxt "field_survey_measure_5_1:survey_measure:label"
-msgid "5.1. If mainstream, does the measure have explicit safeguards to secure equal access of various vulnerable people (including vulnerable Roma) to mainstreamed measures and prevent indirect discrimination?"
-msgstr "5.1. Σε περίπτωση οριζόντιου μέτρου, προβλέπονται ρητές διασφαλίσεις για την ισότιμη πρόσβαση διαφόρων ευάλωτων ατόμων (συμπεριλαμβανομένων ευάλωτων  Ρομά) σε οριζόντια μέτρα και για την πρόληψη των έμμεσων διακρίσεων;"
-#: field:field_survey_equal_1:#allowed_values:yes
-msgctxt "field_survey_equal_1:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_equal_2:#allowed_values:yes
-msgctxt "field_survey_equal_2:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_equal_7:#allowed_values:yes
-msgctxt "field_survey_equal_7:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_equal_7_0:#allowed_values:yes
-msgctxt "field_survey_equal_7_0:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_funding_1:#allowed_values:yes
-msgctxt "field_survey_funding_1:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_funding_5:#allowed_values:yes
-msgctxt "field_survey_funding_5:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_funding_6:#allowed_values:yes
-msgctxt "field_survey_funding_6:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_funding_7:#allowed_values:yes
-msgctxt "field_survey_funding_7:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_funding_8:#allowed_values:yes
-msgctxt "field_survey_funding_8:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_governance_10:#allowed_values:yes
-msgctxt "field_survey_governance_10:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_governance_11:#allowed_values:yes
-msgctxt "field_survey_governance_11:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_governance_12:#allowed_values:yes
-msgctxt "field_survey_governance_12:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_governance_8:#allowed_values:yes
-msgctxt "field_survey_governance_8:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_measure_10:#allowed_values:yes
-msgctxt "field_survey_measure_10:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_measure_11:#allowed_values:yes
-msgctxt "field_survey_measure_11:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_measure_13:#allowed_values:yes
-msgctxt "field_survey_measure_13:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_measure_5_1:#allowed_values:yes
-msgctxt "field_survey_measure_5_1:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_thematic_5:#allowed_values:yes
-msgctxt "field_survey_thematic_5:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ναι"
-#: field:field_survey_equal_1:#allowed_values:no
-msgctxt "field_survey_equal_1:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_equal_2:#allowed_values:no
-msgctxt "field_survey_equal_2:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_equal_7:#allowed_values:no
-msgctxt "field_survey_equal_7:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_equal_7_0:#allowed_values:no
-msgctxt "field_survey_equal_7_0:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_funding_1:#allowed_values:no
-msgctxt "field_survey_funding_1:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_funding_5:#allowed_values:no
-msgctxt "field_survey_funding_5:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_funding_6:#allowed_values:no
-msgctxt "field_survey_funding_6:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_funding_7:#allowed_values:no
-msgctxt "field_survey_funding_7:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_funding_8:#allowed_values:no
-msgctxt "field_survey_funding_8:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_governance_10:#allowed_values:no
-msgctxt "field_survey_governance_10:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_governance_11:#allowed_values:no
-msgctxt "field_survey_governance_11:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_governance_12:#allowed_values:no
-msgctxt "field_survey_governance_12:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_governance_8:#allowed_values:no
-msgctxt "field_survey_governance_8:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_measure_10:#allowed_values:no
-msgctxt "field_survey_measure_10:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_measure_11:#allowed_values:no
-msgctxt "field_survey_measure_11:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_measure_13:#allowed_values:no
-msgctxt "field_survey_measure_13:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_measure_5_1:#allowed_values:no
-msgctxt "field_survey_measure_5_1:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_thematic_5:#allowed_values:no
-msgctxt "field_survey_thematic_5:#allowed_values:no"
-msgid "No"
-msgstr "Όχι"
-#: field:field_survey_measure_5_1_1:survey_measure:label
-msgctxt "field_survey_measure_5_1_1:survey_measure:label"
-msgid "5.1.1 If yes, what are those safeguards? Please describe in more details? What is the budget allocated for these safeguards?"
-msgstr "5.1.1 Εάν ναι, ποιες είναι αυτές οι διασφαλίσεις; Περιγράψτε λεπτομερέστερα Ποιος είναι ο προϋπολογισμός που διατίθεται γι’ αυτές τις διασφαλίσεις;"
-#: field:field_survey_measure_6:survey_measure:label
-msgctxt "field_survey_measure_6:survey_measure:label"
-msgid "6. What is the duration of the measure?"
-msgstr "6. Ποια είναι η διάρκεια του μέτρου;"
-#: field:field_survey_measure_7:survey_measure:label
-msgctxt "field_survey_measure_7:survey_measure:label"
-msgid "7. Please describe the results of this measure"
-msgstr "7. Περιγράψτε τα αποτελέσματα αυτού του μέτρου"
-#: field:field_survey_measure_8:survey_measure:label
-msgctxt "field_survey_measure_8:survey_measure:label"
-msgid "8. Please comment on the lessons learned from this measure"
-msgstr "8. Σχολιάστε τα διδάγματα που αποκομίσατε από αυτό το μέτρο"
-#: field:field_survey_measure_9:survey_measure:label
-msgctxt "field_survey_measure_9:survey_measure:label"
-msgid "9. Please select up to 3 areas and sub-areas most related to this measure (in accordance with the 2013 Council Recommendation)"
-msgstr "9. Επιλέξτε μέχρι 3 τομείς και υποτομείς που είναι πιο σχετικοί με αυτό το μέτρο (σύμφωνα με τη σύσταση του Συμβουλίου του 2013)"
-msgid "Thematic areas"
-msgstr "Θεματικοί τομείς"
-msgid "Nothing has been selected."
-msgstr "Καμία επιλογή."
-#: field:field_survey_measure_10:survey_measure:label
-msgctxt "field_survey_measure_10:survey_measure:label"
-msgid "10. Is funding envisaged for the measure?"
-msgstr "10. Προβλέπεται χρηματοδότηση για το μέτρο;"
-#: field:field_survey_funding_1:#allowed_values:n/a
-msgctxt "field_survey_funding_1:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Δεν γνωρίζω"
-#: field:field_survey_funding_5:#allowed_values:n/a
-msgctxt "field_survey_funding_5:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Δεν γνωρίζω"
-#: field:field_survey_funding_6:#allowed_values:n/a
-msgctxt "field_survey_funding_6:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Δεν γνωρίζω"
-#: field:field_survey_funding_8:#allowed_values:n/a
-msgctxt "field_survey_funding_8:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Δεν γνωρίζω"
-#: field:field_survey_governance_10:#allowed_values:n/a
-msgctxt "field_survey_governance_10:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Δεν γνωρίζω"
-#: field:field_survey_measure_10:#allowed_values:n/a
-msgctxt "field_survey_measure_10:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Δεν γνωρίζω"
-#: field:field_survey_thematic_4:#allowed_values:n/a
-msgctxt "field_survey_thematic_4:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Δεν γνωρίζω"
-#: field:field_survey_thematic_5:#allowed_values:n/a
-msgctxt "field_survey_thematic_5:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Δεν γνωρίζω"
-#: field:field_survey_funding_allocated:survey_measure:label
-msgctxt "field_survey_funding_allocated:survey_measure:label"
-msgid "10.1. What was the total funding ALLOCATED for the year of reporting?"
-msgstr "10.1. Ποια ήταν η συνολική χρηματοδότηση που ΔΙΑΤΕΘΗΚΕ το έτος υποβολής της έκθεσης;"
-#: field:field_survey_funding_allocated_1:field_survey_funding_allocated:label
-msgctxt "field_survey_funding_allocated_1:field_survey_funding_allocated:label"
-msgid "National public funding"
-msgstr "Εθνική δημόσια χρηματοδότηση"
-#: field:field_survey_funding_spent_1:field_survey_funding_spent:label
-msgctxt "field_survey_funding_spent_1:field_survey_funding_spent:label"
-msgid "National public funding"
-msgstr "Εθνική δημόσια χρηματοδότηση"
-#: field:field_survey_total_allocated_2:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_2:field_survey_total_allocated:label"
-msgid "National public funding"
-msgstr "Εθνική δημόσια χρηματοδότηση"
-#: field:field_survey_total_spent_2:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_2:field_survey_total_spent:label"
-msgid "National public funding"
-msgstr "Εθνική δημόσια χρηματοδότηση"
-#: field:field_survey_funding_allocated_2:field_survey_funding_allocated:label
-msgctxt "field_survey_funding_allocated_2:field_survey_funding_allocated:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "Χρηματοδότηση από τα ευρωπαϊκά διαρθρωτικά και επενδυτικά ταμεία (π.χ. ΕΤΠΑ, ΕΚΤ, ΕΓΤΑΑ)"
-#: field:field_survey_funding_spent_2:field_survey_funding_spent:label
-msgctxt "field_survey_funding_spent_2:field_survey_funding_spent:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "Χρηματοδότηση από τα ευρωπαϊκά διαρθρωτικά και επενδυτικά ταμεία (π.χ. ΕΤΠΑ, ΕΚΤ, ΕΓΤΑΑ)"
-#: field:field_survey_total_allocated_3:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_3:field_survey_total_allocated:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "Χρηματοδότηση από τα ευρωπαϊκά διαρθρωτικά και επενδυτικά ταμεία (π.χ. ΕΤΠΑ, ΕΚΤ, ΕΓΤΑΑ)"
-#: field:field_survey_total_spent_3:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_3:field_survey_total_spent:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "Χρηματοδότηση από τα ευρωπαϊκά διαρθρωτικά και επενδυτικά ταμεία (π.χ. ΕΤΠΑ, ΕΚΤ, ΕΓΤΑΑ)"
-#: field:field_survey_funding_allocated_3:field_survey_funding_allocated:label
-msgctxt "field_survey_funding_allocated_3:field_survey_funding_allocated:label"
-msgid "Other (international or private)"
-msgstr "Άλλη (διεθνής ή ιδιωτική)"
-#: field:field_survey_funding_spent_3:field_survey_funding_spent:label
-msgctxt "field_survey_funding_spent_3:field_survey_funding_spent:label"
-msgid "Other (international or private)"
-msgstr "Άλλη (διεθνής ή ιδιωτική)"
-#: field:field_survey_total_allocated_4:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_4:field_survey_total_allocated:label"
-msgid "Other (international or private)"
-msgstr "Άλλη (διεθνής ή ιδιωτική)"
-#: field:field_survey_total_spent_4:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_4:field_survey_total_spent:label"
-msgid "Other (international or private)"
-msgstr "Άλλη (διεθνής ή ιδιωτική)"
-#: field:field_survey_funding_spent:survey_measure:label
-msgctxt "field_survey_funding_spent:survey_measure:label"
-msgid "10.2. What was the total funding SPENT during the year preceding the YEAR OF REPORTING?"
-msgstr "10.2. Ποια ήταν τα συνολικά κονδύλια που ΔΑΠΑΝΗΘΗΚΑΝ το έτος που προηγείται του ΕΤΟΥΣ ΑΝΑΦΟΡΑΣ;"
-#: field:field_survey_measure_11:survey_measure:label
-msgctxt "field_survey_measure_11:survey_measure:label"
-msgid "11. Is it possible to estimate the total number of the end beneficiaries (people benefiting from the measure)"
-msgstr "11. Είναι δυνατή η εκτίμηση του συνολικού αριθμού των τελικών δικαιούχων (άτομα που επωφελούνται από το μέτρο)"
-#: field:field_survey_measure_11:#allowed_values:n/a
-msgctxt "field_survey_measure_11:#allowed_values:n/a"
-msgid "I cannot judge"
-msgstr "Δεν μπορώ να εκτιμήσω"
-#: field:field_survey_measure_11_1:survey_measure:label
-msgctxt "field_survey_measure_11_1:survey_measure:label"
-msgid "11.1. Source of the estimate"
-msgstr "11.1. Πηγή της εκτίμησης"
-#: field:field_survey_measure_11_2:survey_measure:label
-msgctxt "field_survey_measure_11_2:survey_measure:label"
-msgid "11.2. What is the estimated number of total beneficiaries (people benefiting from the measure) per year?"
-msgstr "11.2. Ποιος είναι ο εκτιμώμενος αριθμός του συνόλου των δικαιούχων (αριθμός των ατόμων που επωφελούνται από το μέτρο) ανά έτος;"
-#: field:field_survey_measure_12:survey_measure:label
-msgctxt "field_survey_measure_12:survey_measure:label"
-msgid "12. Country specific comments"
-msgstr "12. Ειδικές ανά χώρα παρατηρήσεις"
-#: field:field_survey_measure_13:survey_measure:label
-msgctxt "field_survey_measure_13:survey_measure:label"
-msgid "13. Is it possible to estimate the number of Roma that would benefit from this measure?"
-msgstr "13. Είναι δυνατή η εκτίμηση του αριθμού των Ρομά που θα επωφεληθούν από αυτό μέτρο;"
-#: field:field_survey_measure_14:survey_measure:label
-msgctxt "field_survey_measure_14:survey_measure:label"
-msgid "14. Country specific comments on Roma beneficiaries"
-msgstr "14. Ειδικές ανά χώρα παρατηρήσεις για τους δικαιούχους Ρομά"
-#: field:field_survey_measure_15:survey_measure:label
-msgctxt "field_survey_measure_15:survey_measure:label"
-msgid "15. Can you provide any other information on output / result indicators? Please chose the most relevant (up to 3) from the list and estimate their value or add any new indicator."
-msgstr "15. Μπορείτε να δώσετε άλλες πληροφορίες σχετικά με τους δείκτες επιδόσεων/αποτελεσμάτων; Επιλέξτε τους πιο σχετικούς (μέχρι 3) από τον κατάλογο και εκτιμήστε την αξία τους ή προσθέστε νέο δείκτη."
-msgid "Thematic areas (Thematic area)"
-msgstr "Θεματικοί τομείς (θεματικός τομέας)"
-#: field:field_survey_thematic_area:survey_thematic_area:label
-msgctxt "field_survey_thematic_area:survey_thematic_area:label"
-msgid "Thematic area"
-msgstr "Θεματικός τομέας"
-#: field:field_survey_thematic_1:survey_thematic_area:label
-msgctxt "field_survey_thematic_1:survey_thematic_area:label"
-msgid "1. Which was the most important success? What were the factors contributing to this achievement?"
-msgstr "1. Ποια ήταν η σημαντικότερη επιτυχία; Ποιοι ήταν οι παράγοντες που συνέβαλαν σε αυτή;"
-#: field:field_survey_thematic_2:survey_thematic_area:label
-msgctxt "field_survey_thematic_2:survey_thematic_area:label"
-msgid "2. Which was the most important challenge? What were the factors contributing to it?"
-msgstr "2. Ποια ήταν η σημαντικότερη πρόκληση; Ποιοι ήταν οι παράγοντες που συνέβαλαν σε αυτή;"
-#: field:field_survey_thematic_3:survey_thematic_area:label
-msgctxt "field_survey_thematic_3:survey_thematic_area:label"
-msgid "3. What is the basis of your assessment?"
-msgstr "3. Ποια είναι η βάση της εκτίμησής σας;"
-#: field:field_survey_thematic_4:survey_thematic_area:label
-msgctxt "field_survey_thematic_4:survey_thematic_area:label"
-msgid "4. How would you assess the situation in this thematic area?"
-msgstr "4. Πώς εκτιμάτε την κατάσταση σε αυτόν τον θεματικό τομέα;"
-#: field:field_survey_equal_4:#allowed_values:improved
-msgctxt "field_survey_equal_4:#allowed_values:improved"
-msgid "Improved"
-msgstr "Βελτιώθηκε"
-#: field:field_survey_thematic_4:#allowed_values:improv
-msgctxt "field_survey_thematic_4:#allowed_values:improv"
-msgid "Improved"
-msgstr "Βελτιώθηκε"
-#: field:field_survey_equal_4:#allowed_values:same
-msgctxt "field_survey_equal_4:#allowed_values:same"
-msgid "Remained the same"
-msgstr "Παρέμεινε η ίδια"
-#: field:field_survey_thematic_4:#allowed_values:remain
-msgctxt "field_survey_thematic_4:#allowed_values:remain"
-msgid "Remained the same"
-msgstr "Παρέμεινε η ίδια"
-#: field:field_survey_equal_4:#allowed_values:deteriorated
-msgctxt "field_survey_equal_4:#allowed_values:deteriorated"
-msgid "Deteriorated"
-msgstr "Επιδεινώθηκε"
-#: field:field_survey_thematic_4:#allowed_values:deterior
-msgctxt "field_survey_thematic_4:#allowed_values:deterior"
-msgid "Deteriorated"
-msgstr "Επιδεινώθηκε"
-#: field:field_survey_thematic_5:survey_thematic_area:label
-msgctxt "field_survey_thematic_5:survey_thematic_area:label"
-msgid "5. Is funding envisaged?"
-msgstr "5. Προβλέπεται χρηματοδότηση;"
-#: field:field_survey_total_allocated:survey_thematic_area:label
-msgctxt "field_survey_total_allocated:survey_thematic_area:label"
-msgid "5.1. Total funding ALLOCATED for this thematic area for the year of reporting"
-msgstr "5.1. Συνολική χρηματοδότηση που ΔΙΑΤΕΘΗΚΕ γι’ αυτόν τον θεματικό τομέα το έτος υποβολής της έκθεσης"
-#: field:field_survey_total_allocated_1:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_1:field_survey_total_allocated:label"
-msgid "Total amount"
-msgstr "Συνολικό ποσό"
-#: field:field_survey_total_spent_1:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_1:field_survey_total_spent:label"
-msgid "Total amount"
-msgstr "Συνολικό ποσό"
-#: field:field_survey_total_spent:survey_thematic_area:label
-msgctxt "field_survey_total_spent:survey_thematic_area:label"
-msgid "5.2. Total funding SPENT in this thematic area for the year of reporting"
-msgstr "5.2. Συνολικά κονδύλια που ΔΑΠΑΝΗΘΗΚΑΝ για αυτόν τον θεματικό τομέα το έτος υποβολής της έκθεσης"
-msgid "Funding"
-msgstr "Χρηματοδότηση"
-#: field:field_survey_funding_1:survey_funding:label
-msgctxt "field_survey_funding_1:survey_funding:label"
-msgid "1. Has funding been allocated (spent) for the implementation and monitoring of your national and local Roma integration strategy or integrated set of policy measures and action plans?"
-msgstr "1. Χορηγήθηκαν (δαπανήθηκαν) κονδύλια για την υλοποίηση και την παρακολούθηση της εθνικής και τοπικής στρατηγικής σας για την ένταξη των Ρομά ή της ολοκληρωμένης δέσμης μέτρων πολιτικής και των σχεδίων δράσης;"
-#: field:field_survey_funding_1_1:survey_funding:label
-msgctxt "field_survey_funding_1_1:survey_funding:label"
-msgid "1.1. Country-specific comments on the funding"
-msgstr "1.1. Παρατηρήσεις ανά χώρα σχετικά με τη χρηματοδότηση"
-#: field:field_survey_funding_allocated:survey_funding:label
-msgctxt "field_survey_funding_allocated:survey_funding:label"
-msgid "2. How much funding has been ALLOCATED for the year of reporting for the implementation and monitoring of your national and local Roma integration strategies or integrated set of policy measures and action plans from the respective sources (general estimate…)"
-msgstr "2. Ποιο είναι το ύψος της χρηματοδότησης που ΔΙΑΤΕΘΗΚΕ το έτος υποβολής της έκθεσης για την υλοποίηση και την παρακολούθηση των εθνικών και τοπικών στρατηγικών σας για την ένταξη των Ρομά ή της ολοκληρωμένης δέσμης μέτρων πολιτικής και των σχεδίων δράσης από τις αντίστοιχες πηγές (γενική εκτίμηση...)"
-#: field:field_survey_funding_2_4:survey_funding:label
-msgctxt "field_survey_funding_2_4:survey_funding:label"
-msgid "2.4. Country-specific comments on the funding ALLOCATED"
-msgstr "2.4. Παρατηρήσεις ανά χώρα σχετικά με τη χρηματοδότηση που ΔΙΑΤΕΘΗΚΕ"
-#: field:field_survey_funding_spent:survey_funding:label
-msgctxt "field_survey_funding_spent:survey_funding:label"
-msgid "3. How much funding has been SPENT during the year PRECEDING the YEAR OF REPORTING for the implementation and monitoring of your national and local Roma integration strategies or integrated sets of policy measures and action plans from the respective sources (general estimate for all measures)?"
-msgstr "3. Ποιο είναι το ύψος των κονδυλίων που ΔΑΠΑΝΗΘΗΚΑΝ κατά τη διάρκεια του έτους που ΠΡΟΗΓΕΙΤΑΙ του ΕΤΟΥΣ ΑΝΑΦΟΡΑΣ για την υλοποίηση και την παρακολούθηση των εθνικών και τοπικών στρατηγικών σας για την ένταξη των Ρομά ή των ολοκληρωμένων δεσμών μέτρων πολιτικής και των σχεδίων δράσης από τις αντίστοιχες πηγές (γενική εκτίμηση για όλα τα μέτρα);"
-#: field:field_survey_funding_3_4:survey_funding:label
-msgctxt "field_survey_funding_3_4:survey_funding:label"
-msgid "3.4. Country-specific comments on the funding SPENT"
-msgstr "3.4. Παρατηρήσεις ανά χώρα σχετικά με τα κονδύλια που ΔΑΠΑΝΗΘΗΚΑΝ"
-#: field:field_survey_funding_4:survey_funding:label
-msgctxt "field_survey_funding_4:survey_funding:label"
-msgid "4. Are the European Structural and Investment Funds or national funding used to build the capacity of"
-msgstr "4. Χρησιμοποιήθηκαν τα ευρωπαϊκά διαρθρωτικά και επενδυτικά ταμεία ή εθνική χρηματοδότηση για την ενίσχυση των ικανοτήτων:"
-#: field:field_survey_funding_4:#allowed_values:national
-msgctxt "field_survey_funding_4:#allowed_values:national"
-msgid "the national authorities"
-msgstr "των εθνικών αρχών"
-#: field:field_survey_funding_4:#allowed_values:local
-msgctxt "field_survey_funding_4:#allowed_values:local"
-msgid "the local authorities"
-msgstr "των τοπικών αρχών"
-#: field:field_survey_funding_4:#allowed_values:society
-msgctxt "field_survey_funding_4:#allowed_values:society"
-msgid "civil society"
-msgstr "της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_civ"
-msgid "civil society"
-msgstr "της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_civ"
-msgid "civil society"
-msgstr "της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_civ"
-msgid "civil society"
-msgstr "της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_civ"
-msgid "civil society"
-msgstr "της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_civ"
-msgid "civil society"
-msgstr "της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_civ"
-msgid "civil society"
-msgstr "της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_civ"
-msgid "civil society"
-msgstr "της κοινωνίας των πολιτών"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_civ"
-msgid "civil society"
-msgstr "της κοινωνίας των πολιτών"
-#: field:field_survey_funding_4_0:survey_funding:label
-msgctxt "field_survey_funding_4_0:survey_funding:label"
-msgid "to strengthen"
-msgstr "για την ενίσχυση"
-
-#: field:field_survey_funding_4_0:#allowed_values:implementation
-msgid "implementation"
-msgstr "της εφαρμογής"
-#: field:field_survey_funding_4_0:#allowed_values:implementation
-msgctxt "field_survey_funding_4_0:#allowed_values:implementation"
-msgid "implementation"
-msgstr "της εφαρμογής"
-#: field:field_survey_funding_4_0:#allowed_values:monitoring
-msgctxt "field_survey_funding_4_0:#allowed_values:monitoring"
-msgid "monitoring and evaluation of the NRIS (National Roma Integration Strategy) or set of policy measures?"
-msgstr "της παρακολούθησης και της αξιολόγησης της εθνικής στρατηγικής για την ένταξη των Ρομά ή της δέσμης μέτρων πολιτικής;"
-msgid "4.1. Please elaborate how and specify the amounts"
-msgstr "4.1 Περιγράψτε πώς και αναγράψτε τα ποσά"
-#: field:field_survey_funding_5:survey_funding:label
-msgctxt "field_survey_funding_5:survey_funding:label"
-msgid "5. Is public funding allocated following specific targeting of Roma as a social group?"
-msgstr "5. Η δημόσια χρηματοδότηση χορηγείται μετά από ειδική στόχευση των Ρομά ως κοινωνικής ομάδας;"
-#: field:field_survey_funding_5_1:survey_funding:label
-msgctxt "field_survey_funding_5_1:survey_funding:label"
-msgid "5.1. Please elaborate how and specify the amounts"
-msgstr "5.1. Περιγράψτε πώς και αναγράψτε τα ποσά"
-#: field:field_survey_funding_6:survey_funding:label
-msgctxt "field_survey_funding_6:survey_funding:label"
-msgid "6. Is public funding allocated following specific targeting of geographical areas most affected by poverty and social exclusion?"
-msgstr "6. Η δημόσια χρηματοδότηση χορηγείται μετά από ειδική στόχευση των γεωγραφικών περιοχών που πλήττονται περισσότερο από τη φτώχεια και τον κοινωνικό αποκλεισμό;"
-#: field:field_survey_funding_6_1:survey_funding:label
-msgctxt "field_survey_funding_6_1:survey_funding:label"
-msgid "6.1. Please elaborate how and specify the amounts"
-msgstr "6.1. Περιγράψτε πώς και αναγράψτε τα ποσά"
-#: field:field_survey_funding_7:survey_funding:label
-msgctxt "field_survey_funding_7:survey_funding:label"
-msgid "7. Is public funding allocated taking into consideration the gender dimension?"
-msgstr "7. Η δημόσια χρηματοδότηση διατίθεται μετά τη συνεκτίμηση της διάστασης του φύλου;"
-#: field:field_survey_funding_8:survey_funding:label
-msgctxt "field_survey_funding_8:survey_funding:label"
-msgid "8. Are Roma communities involved in the decision-making regarding financial resources allocation for the implementation of the NRIS (or the respective strategic document)?"
-msgstr "8. Οι κοινότητες Ρομά συμμετέχουν στη διαδικασία λήψης αποφάσεων σχετικά με την κατανομή των χρηματοδοτικών πόρων για την εφαρμογή των εθνικών στρατηγικών ένταξης των Ρομά (ή του αντίστοιχου εγγράφου στρατηγικής);"
-#: field:field_survey_funding_8_1:survey_funding:label
-msgctxt "field_survey_funding_8_1:survey_funding:label"
-msgid "8.1. If yes, please elaborate how"
-msgstr "8.1. Εάν ναι, περιγράψτε πώς"
-msgid "Governance & cooperation"
-msgstr "Διακυβέρνηση & συνεργασία"
-#: field:field_survey_governance_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_1:survey_governance_cooperation:label"
-msgid "1. Annual Budget for NRCP"
-msgstr "1. Ετήσιος προϋπολογισμός για τα ΕΣΕΡ"
-#: field:field_survey_governance_1_1:field_survey_governance_1:label
-msgctxt "field_survey_governance_1_1:field_survey_governance_1:label"
-msgid "1.1. ALLOCATED for the year of reporting"
-msgstr "1.1. Που ΔΙΑΤΕΘΗΚΕ το έτος υποβολής της έκθεσης"
-#: field:field_survey_governance_1_2:field_survey_governance_1:label
-msgctxt "field_survey_governance_1_2:field_survey_governance_1:label"
-msgid "1.2. SPENT in the year preceding the year of reporting"
-msgstr "1.2. Που ΔΑΠΑΝΗΘΗΚΕ το έτος που προηγείται του έτους υποβολής της έκθεσης"
-#: field:field_survey_governance_1_3:survey_governance_cooperation:label
-msgctxt "field_survey_governance_1_3:survey_governance_cooperation:label"
-msgid "1.3. Specific comments on budget for NRCP"
-msgstr "1.3. Σχόλια σχετικά με τον προϋπολογισμό που διατέθηκε για τα ΕΣΕΡ"
-#: field:field_survey_governance_2:survey_governance_cooperation:label
-msgctxt "field_survey_governance_2:survey_governance_cooperation:label"
-msgid "2. Human Resources of the NRCP in full time equivalent"
-msgstr "2. Ανθρώπινο δυναμικό των ΕΣΕΡ σε ισοδύναμο πλήρους απασχόλησης"
-#: field:field_survey_governance_2_1:field_survey_governance_2:label
-msgctxt "field_survey_governance_2_1:field_survey_governance_2:label"
-msgid "2.1. ACTUAL in the year if reporting"
-msgstr "2.1. ΠΡΑΓΜΑΤΙΚΟ ανθρώπινο δυναμικό το έτος υποβολής της έκθεσης"
-#: field:field_survey_governance_2_2:field_survey_governance_2:label
-msgctxt "field_survey_governance_2_2:field_survey_governance_2:label"
-msgid "2.2. ESTIMATE of NEEDED in the year of reporting"
-msgstr "2.2. ΕΚΤΙΜΗΣΗ του ανθρώπινου δυναμικού που ΧΡΕΙΑΣΤΗΚΕ το έτος υποβολής της έκθεσης"
-#: field:field_survey_governance_2_3:survey_governance_cooperation:label
-msgctxt "field_survey_governance_2_3:survey_governance_cooperation:label"
-msgid "2.3. Specific comments on human resources of NRCP"
-msgstr "2.3. Σχόλια σχετικά με το ανθρώπινο δυναμικό των ΕΣΕΡ"
-#: field:field_survey_governance_3:survey_governance_cooperation:label
-msgctxt "field_survey_governance_3:survey_governance_cooperation:label"
-msgid "3. What is the role played by the NRCP in cross sectorial coordination of the implementation and monitoring of NRIS (or Integrated set of policy measures…)?"
-msgstr "3. Ποιος είναι ο ρόλος των ΕΣΕΡ στον διατομεακό συντονισμό της εφαρμογής και της παρακολούθησης των εθνικών στρατηγικών για την ένταξη των Ρομά (ή της ολοκληρωμένης δέσμης μέτρων πολιτικής...);"
-#: field:field_survey_governance_3:#allowed_values:charge
-msgctxt "field_survey_governance_3:#allowed_values:charge"
-msgid "In charge"
-msgstr "Έχουν την ευθύνη"
-#: field:field_survey_governance_3:#allowed_values:contributing
-msgctxt "field_survey_governance_3:#allowed_values:contributing"
-msgid "Contributing to it"
-msgstr "Συμμετέχουν σε αυτή τη διαδικασία"
-#: field:field_survey_governance_3:#allowed_values:neither
-msgctxt "field_survey_governance_3:#allowed_values:neither"
-msgid "Neither"
-msgstr "Κανένα από τα δύο"
-#: field:field_survey_governance_5:#allowed_values:neither
-msgctxt "field_survey_governance_5:#allowed_values:neither"
-msgid "Neither"
-msgstr "Κανένα από τα δύο"
-#: field:field_survey_governance_6:#allowed_values:neither
-msgctxt "field_survey_governance_6:#allowed_values:neither"
-msgid "Neither"
-msgstr "Κανένα από τα δύο"
-#: field:field_survey_governance_7:#allowed_values:neither
-msgctxt "field_survey_governance_7:#allowed_values:neither"
-msgid "Neither"
-msgstr "Κανένα από τα δύο"
-msgid "3.1. Specific comments on the role of the NRCP in cross sectorial coordination"
-msgstr "3.1. Σχόλια σχετικά με τον ρόλο των ΕΣΕΡ στον διατομεακό συντονισμό"
-#: field:field_survey_governance_4:survey_governance_cooperation:label
-msgctxt "field_survey_governance_4:survey_governance_cooperation:label"
-msgid "4. Please describe the process of cross sectorial coordination of the implementation and monitoring of NRIS (or Integrated set of policy measures…)."
-msgstr "4. Περιγράψτε τη διαδικασία του διατομεακού συντονισμού της εφαρμογής και της παρακολούθησης των εθνικών στρατηγικών για την ένταξη των Ρομά (ή της ολοκληρωμένης δέσμης μέτρων πολιτικής...)."
-#: field:field_survey_governance_5:survey_governance_cooperation:label
-msgctxt "field_survey_governance_5:survey_governance_cooperation:label"
-msgid "5. What is the involvement of NRCP in decision making processes regarding DEVELOPMENT of relevant policies?"
-msgstr "5. Ποια είναι η συμμετοχή των ΕΣΕΡ στις διαδικασίες λήψης αποφάσεων όσον αφορά την ΚΑΤΑΡΤΙΣΗ των σχετικών πολιτικών;"
-#: field:field_survey_governance_5:#allowed_values:participating in
-msgctxt "field_survey_governance_5:#allowed_values:participating in"
-msgid "Participating in"
-msgstr "Συμμετέχουν"
-#: field:field_survey_governance_6:#allowed_values:participating
-msgctxt "field_survey_governance_6:#allowed_values:participating"
-msgid "Participating in"
-msgstr "Συμμετέχουν"
-#: field:field_survey_governance_7:#allowed_values:participating
-msgctxt "field_survey_governance_7:#allowed_values:participating"
-msgid "Participating in"
-msgstr "Συμμετέχουν"
-#: field:field_survey_governance_5:#allowed_values:consulted
-msgctxt "field_survey_governance_5:#allowed_values:consulted"
-msgid "Being consulted"
-msgstr "Γνωμοδοτούν"
-#: field:field_survey_governance_6:#allowed_values:consulted
-msgctxt "field_survey_governance_6:#allowed_values:consulted"
-msgid "Being consulted"
-msgstr "Γνωμοδοτούν"
-#: field:field_survey_governance_7:#allowed_values:consulted
-msgctxt "field_survey_governance_7:#allowed_values:consulted"
-msgid "Being consulted"
-msgstr "Γνωμοδοτούν"
-#: field:field_survey_governance_3:#allowed_values:neither
-msgctxt "field_survey_governance_3:#allowed_values:neither"
-msgid "Neither"
-msgstr "Κανένα από τα δύο"
-#: field:field_survey_governance_5:#allowed_values:neither
-msgctxt "field_survey_governance_5:#allowed_values:neither"
-msgid "Neither"
-msgstr "Κανένα από τα δύο"
-#: field:field_survey_governance_6:#allowed_values:neither
-msgctxt "field_survey_governance_6:#allowed_values:neither"
-msgid "Neither"
-msgstr "Κανένα από τα δύο"
-#: field:field_survey_governance_7:#allowed_values:neither
-msgctxt "field_survey_governance_7:#allowed_values:neither"
-msgid "Neither"
-msgstr "Κανένα από τα δύο"
-#: field:field_survey_governance_5_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_5_1:survey_governance_cooperation:label"
-msgid "5.1. Specific comments on the involvement of NRCP in decision-making processes regarding development of relevant policies"
-msgstr "5.1. Σχόλια για τη συμμετοχή των ΕΣΕΡ στις διαδικασίες λήψης αποφάσεων όσον αφορά την κατάρτιση σχετικών πολιτικών."
-#: field:field_survey_governance_6:survey_governance_cooperation:label
-msgctxt "field_survey_governance_6:survey_governance_cooperation:label"
-msgid "6. What is the involvement of the NRCP in decision making processes regarding FUNDING of relevant policies?"
-msgstr "6. Ποια είναι η συμμετοχή των ΕΣΕΡ στις διαδικασίες λήψης αποφάσεων όσον αφορά τη ΧΡΗΜΑΤΟΔΟΤΗΣΗ  σχετικών πολιτικών;"
-#: field:field_survey_governance_6_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_6_1:survey_governance_cooperation:label"
-msgid "6.1. Specific comments on the involvement of NRCP in decision-making processes regarding funding of relevant policies."
-msgstr "6.1. Σχόλια για τη συμμετοχή των ΕΣΕΡ στις διαδικασίες λήψης αποφάσεων όσον αφορά τη χρηματοδότηση των σχετικών πολιτικών."
-#: field:field_survey_governance_7:survey_governance_cooperation:label
-msgctxt "field_survey_governance_7:survey_governance_cooperation:label"
-msgid "7. What is the involvement of the NRCP in decision making processes regarding IMPLEMENTATION of relevant policies?"
-msgstr "7. Ποια είναι η συμμετοχή των ΕΣΕΡ στις διαδικασίες λήψης αποφάσεων όσον αφορά την ΕΦΑΡΜΟΓΗ των σχετικών πολιτικών;"
-#: field:field_survey_governance_7_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_7_1:survey_governance_cooperation:label"
-msgid "7.1. Specific comments on the involvement of NRCP in decision-making processes regarding implementation of relevant policies."
-msgstr "7.1. Σχόλια για τη συμμετοχή των ΕΣΕΡ στις διαδικασίες λήψης αποφάσεων όσον αφορά την εφαρμογή των σχετικών πολιτικών."
-#: field:field_survey_governance_8:survey_governance_cooperation:label
-msgctxt "field_survey_governance_8:survey_governance_cooperation:label"
-msgid "8. Is the NRCP facilitating participation and involvement of (Roma) civil society in the implementation of NRIS (or Integrated set of policy measures…)?"
-msgstr "8. Τα ΕΣΕΡ διευκολύνουν τη συμμετοχή και ανάμειξη της κοινωνίας των πολιτών (Ρομά) στην εφαρμογή των εθνικών στρατηγικών για την ένταξη των Ρομά (ή της ολοκληρωμένης δέσμης μέτρων πολιτικής...);"
-#: field:field_survey_governance_8_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_8_1:survey_governance_cooperation:label"
-msgid "8.1. How does it facilitate the participation and involvement of Roma civil society? Please describe the process."
-msgstr "8.1. Πώς διευκολύνουν τη συμμετοχή και την ανάμειξη της κοινωνίας των πολιτών των Ρομά; Περιγράψτε τη διαδικασία."
-#: field:field_survey_governance_8_2:survey_governance_cooperation:label
-msgctxt "field_survey_governance_8_2:survey_governance_cooperation:label"
-msgid "8.2. Who are the stakeholders? Please list them."
-msgstr "8.2. Ποιοι είναι οι ενδιαφερόμενοι; Απαριθμήστε τους."
-#: field:field_survey_governance_9:survey_governance_cooperation:label
-msgctxt "field_survey_governance_9:survey_governance_cooperation:label"
-msgid "9. Please list the stakeholders involved in the monitoring and evaluation of the NRIS (national, regional, public, civil, private)"
-msgstr "9. Παραθέστε κατάλογο των ενδιαφερόμενων φορέων που συμμετέχουν στην παρακολούθηση και την αξιολόγηση των εθνικών στρατηγικών ένταξης των Ρομά (εθνικών, περιφερειακών, δημόσιων, ιδιωτικών φορέων και εκπροσώπων της κοινωνίας των πολιτών)"
-#: field:field_survey_governance_10:survey_governance_cooperation:label
-msgctxt "field_survey_governance_10:survey_governance_cooperation:label"
-msgid "10. Is there a regular dialogue/cooperation established between the Equality body and the NRCP?"
-msgstr "10. Υπάρχει τακτικός διάλογος/συνεργασία μεταξύ του φορέα ισότητας και των ΕΣΕΡ;"
-#: field:field_survey_governance_10_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_10_1:survey_governance_cooperation:label"
-msgid "10.1. If yes, please describe (structure, frequency)"
-msgstr "10.1. Εάν ναι, διευκρινίστε (δομή, συχνότητα)"
-#: field:field_survey_governance_11:survey_governance_cooperation:label
-msgctxt "field_survey_governance_11:survey_governance_cooperation:label"
-msgid "11. Do you have a baseline against which you assess progress for the implementation of your NRIS or set of policy measures?"
-msgstr "11. Έχετε κάποια βάση πάνω στην οποία αξιολογείτε την πρόοδο για την εφαρμογή των εθνικών στρατηγικών για την ένταξη των Ρομά ή της δέσμης μέτρων πολιτικής;"
-#: field:field_survey_governance_11_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_11_1:survey_governance_cooperation:label"
-msgid "11.1. If yes, please describe"
-msgstr "11.1. Εάν ναι, διευκρινίστε"
-#: field:field_survey_governance_12:survey_governance_cooperation:label
-msgctxt "field_survey_governance_12:survey_governance_cooperation:label"
-msgid "12. Do you have measurable targets?"
-msgstr "12. Έχετε μετρήσιμους στόχους;"
-#: field:field_survey_governance_12_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_12_1:survey_governance_cooperation:label"
-msgid "12.1. If yes, please describe"
-msgstr "12.1. Εάν ναι, διευκρινίστε"
-msgid "Equal treatment"
-msgstr "Ίση μεταχείριση"
-#: field:field_survey_equal_1:survey_equal_treatment:label
-msgctxt "field_survey_equal_1:survey_equal_treatment:label"
-msgid "1. Does your mandate include discrimination on the basis of race and ethnic origin?"
-msgstr "1. Η αποστολή σας περιλαμβάνει τις διακρίσεις με βάση τη φυλή και την εθνοτική καταγωγή;"
-#: field:field_survey_equal_2:survey_equal_treatment:label
-msgctxt "field_survey_equal_2:survey_equal_treatment:label"
-msgid "2. Does your body have concerns as regards its institutional capacity/resources and/or independence?"
-msgstr "2. Ο φορέας που εκπροσωπείτε εκφράζει ανησυχίες για τη θεσμική ικανότητα/τους πόρους και/ή την ανεξαρτησία του;"
-#: field:field_survey_equal_2_1:survey_equal_treatment:label
-msgctxt "field_survey_equal_2_1:survey_equal_treatment:label"
-msgid "2.1. If yes, please describe"
-msgstr "2.1. Εάν ναι, διευκρινίστε"
-#: field:field_survey_governance_12_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_12_1:survey_governance_cooperation:label"
-msgid "2.1. If yes, please describe"
-msgstr "2.1. Εάν ναι, διευκρινίστε"
-#: field:field_survey_equal_3:survey_equal_treatment:label
-msgctxt "field_survey_equal_3:survey_equal_treatment:label"
-msgid "3. Can you report any Roma-specific measures or mainstream measures benefiting also the Roma/Travellers you have taken in (year X) for the promotion of the practical enforcement of Directive 2000/43/EC, either horizontal measures or in particular in the areas of education, employment, housing and health?"
-msgstr "3. Μπορείτε να αναφέρετε συγκεκριμένα μέτρα για τους Ρομά ή οριζόντια μέτρα που ωφελούν επίσης τους Ρομά/ταξιδευτές, τα οποία λάβατε το (έτος X) για την προώθηση της έμπρακτης εφαρμογής της οδηγίας 2000/43/ΕΚ· είτε οριζόντια μέτρα είτε ειδικά στους τομείς της εκπαίδευσης, της απασχόλησης, της στέγασης και της υγείας;"
-#: field:field_survey_equal_3:#allowed_values:projects
-msgctxt "field_survey_equal_3:#allowed_values:projects"
-msgid "Projects"
-msgstr "Σχέδια"
-#: field:field_survey_equal_3:#allowed_values:complaints
-msgctxt "field_survey_equal_3:#allowed_values:complaints"
-msgid "Complaints received"
-msgstr "Υποβληθείσες καταγγελίες"
-#: field:field_survey_equal_3:#allowed_values:cases
-msgctxt "field_survey_equal_3:#allowed_values:cases"
-msgid "Court cases pursued"
-msgstr "Υποθέσεις που παραπέμφθηκαν στα δικαστήρια"
-#: field:field_survey_equal_3:#allowed_values:studies
-msgctxt "field_survey_equal_3:#allowed_values:studies"
-msgid "Studies"
-msgstr "Μελέτες"
-#: field:field_survey_equal_3:#allowed_values:opinions
-msgctxt "field_survey_equal_3:#allowed_values:opinions"
-msgid "Opinions"
-msgstr "Γνώμες"
-#: field:field_survey_equal_3:#allowed_values:recommendations
-msgctxt "field_survey_equal_3:#allowed_values:recommendations"
-msgid "Recommendations to the Government"
-msgstr "Συστάσεις προς την κυβέρνηση"
-#: field:field_survey_equal_3:#allowed_values:proposals
-msgctxt "field_survey_equal_3:#allowed_values:proposals"
-msgid "Consultation on legislative proposals"
-msgstr "Διαβούλευση για νομοθετικές προτάσεις"
-#: field:field_survey_equal_4:survey_equal_treatment:label
-msgctxt "field_survey_equal_4:survey_equal_treatment:label"
-msgid "4. Has the situation (of the protection of Roma from discrimination) improved/remained the same/deteriorated in respect of the practical enforcement of Directive 2000/43/EC?"
-msgstr "4. Η κατάσταση (όσον αφορά την προστασία των Ρομά από τις διακρίσεις) βελτιώθηκε/ παρέμεινε η ίδια/επιδεινώθηκε σε σχέση με την έμπρακτη εφαρμογή της οδηγίας 2000/43/ΕΚ;"
-#: field:field_survey_equal_4:#allowed_values:improved
-msgctxt "field_survey_equal_4:#allowed_values:improved"
-msgid "Improved"
-msgstr "Βελτιώθηκε"
-#: field:field_survey_thematic_4:#allowed_values:improv
-msgctxt "field_survey_thematic_4:#allowed_values:improv"
-msgid "Improved"
-msgstr "Βελτιώθηκε"
-#: field:field_survey_equal_4:#allowed_values:same
-msgctxt "field_survey_equal_4:#allowed_values:same"
-msgid "Remained the same"
-msgstr "Παρέμεινε η ίδια"
-#: field:field_survey_thematic_4:#allowed_values:remain
-msgctxt "field_survey_thematic_4:#allowed_values:remain"
-msgid "Remained the same"
-msgstr "Παρέμεινε η ίδια"
-#: field:field_survey_equal_4:#allowed_values:deteriorated
-msgctxt "field_survey_equal_4:#allowed_values:deteriorated"
-msgid "Deteriorated"
-msgstr "Επιδεινώθηκε"
-#: field:field_survey_thematic_4:#allowed_values:deterior
-msgctxt "field_survey_thematic_4:#allowed_values:deterior"
-msgid "Deteriorated"
-msgstr "Επιδεινώθηκε"
-#: field:field_survey_equal_5:survey_equal_treatment:label
-msgctxt "field_survey_equal_5:survey_equal_treatment:label"
-msgid "5. What were the main achievements? What made these achievements possible?"
-msgstr "5. Ποια ήταν τα κύρια επιτεύγματα; Τι κατέστησε δυνατά αυτά τα επιτεύγματα;"
-#: field:field_survey_equal_6:survey_equal_treatment:label
-msgctxt "field_survey_equal_6:survey_equal_treatment:label"
-msgid "6. What were the main challenges? What are the factors to be taken into account?"
-msgstr "6. Ποιες ήταν οι κυριότερες προκλήσεις; Ποιοι είναι οι παράγοντες που πρέπει να ληφθούν υπόψη;"
-msgid "7. Is there a regular dialogue/cooperation established between"
-msgstr "7. Υπάρχει τακτικός διάλογος/συνεργασία μεταξύ"
-#: field:field_survey_equal_7:survey_equal_treatment:label
-msgctxt "field_survey_equal_7:survey_equal_treatment:label"
-msgid "the Equality body and the NRCP"
-msgstr "του φορέα ισότητας και των ΕΣΕΡ"
-#: field:field_survey_equal_7_1:survey_equal_treatment:label
-msgctxt "field_survey_equal_7_1:survey_equal_treatment:label"
-msgid "7.1. Please describe the cooperation (e.g. formal/informal)"
-msgstr "o	7.1. Περιγράψτε τη συνεργασία (π.χ. τυπική/άτυπη)"
-#: field:field_survey_equal_7_0:survey_equal_treatment:label
-msgctxt "field_survey_equal_7_0:survey_equal_treatment:label"
-msgid "or the Equality body and any other relevant institution (e.g. having a monitoring or regulatory role in the field of education, employment, housing, health)?"
-msgstr "ή μεταξύ του φορέας ισότητας και οποιουδήποτε άλλου σχετικού φορέα (π.χ. με εποπτικό ή ρυθμιστικό ρόλο στον τομέα της εκπαίδευσης, της απασχόλησης, της στέγασης και της υγείας);"
-#: field:field_survey_equal_7_2:survey_equal_treatment:label
-msgctxt "field_survey_equal_7_2:survey_equal_treatment:label"
-msgid "7.2. Please specify with which institution and describe the cooperation (e.g. formal/informal)"
-msgstr "o	7.2. Διευκρινίσετε με ποιον φορέα και περιγράψτε τη συνεργασία (π.χ. τυπική/ή άτυπη)"
-msgid "Concluding remarks (Conclusion)"
-msgstr "Τελικές παρατηρήσεις (Συμπεράσματα)"
-#: field:field_survey_concluding_1:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_1:survey_concluding_remarks:label"
-msgid "1. Please enter comments that did not fit into the other parts of the reporting tool"
-msgstr "1. Διατυπώστε τυχόν παρατηρήσεις που δεν εντάσσονται στις άλλες ενότητες του εργαλείου υποβολής εκθέσεων"
-#: field:field_survey_concluding_2:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_2:survey_concluding_remarks:label"
-msgid "2. Indicate the most promising measures (max 3 per area) targeted and mainstream"
-msgstr "2. Αναφέρατε τα πιο ελπιδοφόρα στοχευμένα ή οριζόντια μέτρα (το πολύ 3 ανά τομέα)"
-#: field:field_survey_concluding_3:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_3:survey_concluding_remarks:label"
-msgid "3. Please summarise the main achievements, and challenges for the year of reporting"
-msgstr "3. Παραθέστε συνοπτικά τα βασικά επιτεύγματα και τις προκλήσεις για το έτος υποβολής της έκθεσης"
-#: field:field_survey_concluding_4:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_4:survey_concluding_remarks:label"
-msgid "4. What were the main factors contributing to this and the lessons learnt?"
-msgstr "4. Ποιοι ήταν οι βασικοί παράγοντες που συνέβαλαν σε αυτά και τι διδάγματα αντλήθηκαν;"
-msgid "5. Please report on any pertinent legislative measure that was adopted in the year of reporting"
-msgstr "5. Αναφέρετε κάθε σχετικό νομοθετικό μέτρο που εγκρίθηκε το έτος υποβολής της έκθεσης"
-#: field:field_survey_concluding_5_1:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_5_1:survey_concluding_remarks:label"
-msgid "5.1. Date of entry into force"
-msgstr "5.1. Ημερομηνία έναρξης ισχύος"
-#: field:field_survey_concluding_5_2_0:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_5_2_0:survey_concluding_remarks:label"
-msgid "5.2. Please describe the legislative measure"
-msgstr "5.2. Περιγράψτε το νομοθετικό μέτρο"
-#: field:field_survey_concluding_5_3:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_5_3:survey_concluding_remarks:label"
-msgid "5.3. Please describe the expected impact of this legislative measure on Roma"
-msgstr "5.3. Περιγράψτε τον αναμενόμενο αντίκτυπο αυτού του νομοθετικού μέτρου για τους Ρομά"
-msgid "Attachments & links"
-msgstr "Συνημμένα και σύνδεσμοι"
-#: field:field_survey_attachments_1:survey_attachments_links:label
-msgctxt "field_survey_attachments_1:survey_attachments_links:label"
-msgid "Files"
-msgstr "Αρχεία"
-msgid "Add a new file"
-msgstr "Προσθήκη νέου αρχείου"
-msgid "Browse"
-msgstr "Φυλλομέτρηση"
-msgid "No files selected"
-msgstr "Δεν επιλέχθηκαν αρχεία"
-msgid "Upload"
-msgstr "Τηλεφόρτωση"
-msgid "Files must be less than"
-msgstr "Τα αρχεία πρέπει να είναι μικρότερα από"
-msgid "Allowed file types"
-msgstr "Επιτρεπόμενοι τύποι αρχείων"
-#: field:field_survey_attachments_2:survey_attachments_links:label
-msgctxt "field_survey_attachments_2:survey_attachments_links:label"
-msgid "Links"
-msgstr "Σύνδεσμοι"
-msgid "Add another item"
-msgstr "Προσθήκη άλλου στοιχείου"
-msgid "Select a value"
-msgstr "Επιλογή τιμής"
-#: field:field_survey_funding_allocated:survey_funding:setting_add
-msgctxt "field_survey_funding_allocated:survey_funding:setting_add"
-msgid "Add"
-msgstr "Προσθήκη"
-#: field:field_survey_funding_allocated:survey_measure:setting_add
-msgctxt "field_survey_funding_allocated:survey_measure:setting_add"
-msgid "Add"
-msgstr "Προσθήκη"
-#: field:field_survey_funding_spent:survey_funding:setting_add
-msgctxt "field_survey_funding_spent:survey_funding:setting_add"
-msgid "Add"
-msgstr "Προσθήκη"
-#: field:field_survey_funding_spent:survey_measure:setting_add
-msgctxt "field_survey_funding_spent:survey_measure:setting_add"
-msgid "Add"
-msgstr "Προσθήκη"
-#: field:field_survey_governance_1:survey_governance_cooperation:setting_add
-msgctxt "field_survey_governance_1:survey_governance_cooperation:setting_add"
-msgid "Add"
-msgstr "Προσθήκη"
-#: field:field_survey_governance_2:survey_governance_cooperation:setting_add
-msgctxt "field_survey_governance_2:survey_governance_cooperation:setting_add"
-msgid "Add"
-msgstr "Προσθήκη"
-#: field:field_survey_total_allocated:survey_thematic_area:setting_add
-msgctxt "field_survey_total_allocated:survey_thematic_area:setting_add"
-msgid "Add"
-msgstr "Προσθήκη"
-#: field:field_survey_total_spent:survey_thematic_area:setting_add
-msgctxt "field_survey_total_spent:survey_thematic_area:setting_add"
-msgid "Add"
-msgstr "Προσθήκη"
-msgid "Save"
-msgstr "Αποθήκευση"
-#: field:field_country_policy_measure:countries:label
-msgctxt "field_country_policy_measure:countries:label"
-msgid "Policy measure"
-msgstr "Μέτρο πολιτικής"
-#: field:field_country_policy_measure:#allowed_values:strategy
-msgctxt "field_country_policy_measure:#allowed_values:strategy"
-msgid "has a National Roma Integration Strategy"
-msgstr "έχει εθνική στρατηγική ένταξης των Ρομά"
-#: field:field_country_policy_measure:#allowed_values:integrated
-msgctxt "field_country_policy_measure:#allowed_values:integrated"
-msgid "has an Integrated set of policy measures within the broader social inclusion policies for improving the situation of Roma"
-msgstr "έχει ολοκληρωμένη δέσμη μέτρων πολιτικής στο πλαίσιο των ευρύτερων πολιτικών κοινωνικής ένταξης με στόχο τη βελτίωση της κατάστασης των Ρομά"
-msgid "Thematic areas"
-msgstr "Θεματικοί τομείς"
-msgid "Education"
-msgstr "Εκπαίδευση"
-msgid "a) eliminate any school segregation"
-msgstr "α) εξάλειψη του διαχωρισμού στα σχολεία"
-msgid "b) put an end to any inappropriate placement of Roma pupils in special needs schools"
-msgstr "β) τερματισμός τυχόν απρόσφορης τοποθέτησης των μαθητών Ρομά σε σχολεία ειδικής αγωγής και εκπαίδευσης"
-msgid "c) reduce early school leaving"
-msgstr "γ) περιορισμός της πρόωρης εγκατάλειψης του σχολείου"
-msgid "d) increase the access to, and quality of, early childhood education and care"
-msgstr "δ) αύξηση της πρόσβασης στις δομές προσχολικής εκπαίδευσης και φροντίδας και βελτίωση της ποιότητας των δομών αυτών"
-msgid "e) consider the needs of individual pupils in close cooperation with their families"
-msgstr "ε) εκτίμηση των αναγκών μεμονωμένων μαθητών σε στενή συνεργασία με τις οικογένειές τους"
-msgid "f) use inclusive and tailor-made teaching and learning methods"
-msgstr "στ) χρήση ειδικά προσαρμοσμένων μεθόδων διδασκαλίας και μάθησης χωρίς αποκλεισμούς"
-msgid "g) fight illiteracy"
-msgstr "ζ) καταπολέμηση του αναλφαβητισμού"
-msgid "h) promote the availability and use of extracurricular activities"
-msgstr "η) προώθηση της προσφοράς και της συμμετοχής σε δραστηριότητες εκτός του σχολικού προγράμματος"
-msgid "i) encourage greater parental involvement"
-msgstr "θ) ενθάρρυνση της μεγαλύτερης συμμετοχής των γονέων"
-msgid "j) improve teacher training"
-msgstr "ι) βελτίωση της ποιότητας της κατάρτισης των εκπαιδευτικών"
-msgid "k) encourage Roma participation in and completion of secondary and tertiary education"
-msgstr "κ) ενθάρρυνση της συμμετοχής των Ρομά στη δευτεροβάθμια και τριτοβάθμια εκπαίδευση, καθώς και της ολοκλήρωσής της"
-msgid "l) widen access to second-chance education and adult learning"
-msgstr "λ) διεύρυνση της πρόσβασης στην εκπαίδευση δεύτερης ευκαιρίας και στην εκπαίδευση ενηλίκων"
-msgid "m) provide support for the transition between educational levels"
-msgstr "μ) υποστήριξη της μετάβασης από τη μία εκπαιδευτική βαθμίδα στην άλλη"
-msgid "n) provide support for the acquisition of skills that are adapted to the needs of the labour market"
-msgstr "ν) υποστήριξη της απόκτησης δεξιοτήτων προσαρμοσμένων στις ανάγκες της αγοράς εργασίας."
-msgid "Employment"
-msgstr "Απασχόληση"
-msgid "a) support first work experience"
-msgstr "α) υποστήριξη της πρώτης εργασιακής εμπειρίας"
-msgid "b) support vocational training"
-msgstr "β) υποστήριξη της επαγγελματικής κατάρτισης"
-msgid "c) support on-the-job training"
-msgstr "γ) υποστήριξη της κατάρτισης στον χώρο εργασίας"
-msgid "d) support lifelong learning and skills development"
-msgstr "δ) υποστήριξη της δια βίου μάθησης και της ανάπτυξης δεξιοτήτων"
-msgid "e) support self-employment and entrepreneurship"
-msgstr "ε) υποστήριξη της αυτοαπασχόλησης και της επιχειρηματικότητας"
-msgid "f) provide equal access to mainstream public employment services"
-msgstr "στ)  παροχή ισότιμης πρόσβασης σε βασικές δημόσιες υπηρεσίες απασχόλησης"
-msgid "g) support individual job-seekers, focusing on personalised guidance and individual action planning"
-msgstr "ζ) υποστήριξη μεμονωμένων Ρομά που αναζητούν εργασία, εστιάζοντας σε εξατομικευμένο επαγγελματικό προσανατολισμό και σχεδιασμό δράσεων"
-msgid "h) promote employment opportunities within the civil service"
-msgstr "η) προώθηση των δυνατοτήτων απασχόλησης σε δημόσιες υπηρεσίες"
-msgid "i) eliminate barriers, including discrimination, to (re)entering the labour market"
-msgstr "θ) εξάλειψη των φραγμών, συμπεριλαμβανομένων των διακρίσεων, για την (επαν)ένταξη στην αγορά εργασίας."
-msgid "Healthcare"
-msgstr "Υγειονομική περίθαλψη"
-msgid "a) remove any barriers to access the healthcare system accessible for the general population"
-msgstr "α) άρση των εμποδίων πρόσβασης στο σύστημα υγειονομικής περίθαλψης που παρέχεται στον υπόλοιπο πληθυσμό"
-msgid "b) improve access to medical check-ups, prenatal and postnatal care and family planning, as well as sexual and reproductive healthcare, generally provided by national healthcare services"
-msgstr "β) βελτίωση της πρόσβασης σε προληπτικές ιατρικές εξετάσεις, στην προγεννητική και μεταγεννητική φροντίδα και στον οικογενειακό προγραμματισμό, καθώς και σε γενετήσια και αναπαραγωγική υγειονομική μέριμνα, που παρέχονται εν γένει από τις εθνικές υπηρεσίες υγειονομικής περίθαλψης,"
-msgid "c) improve access to free vaccination programmes targeting children"
-msgstr "γ) βελτίωση της πρόσβασης σε προγράμματα δωρεάν εμβολιασμών για παιδιά"
-msgid "d) improve access to vaccination programmes targeting the groups most at risk and/or those living in marginalised and/or remote areas"
-msgstr "δ) βελτίωση της πρόσβασης σε προγράμματα δωρεάν εμβολιασμών για ομάδες που διατρέχουν μεγαλύτερο κίνδυνο ή/και για όσους ζουν σε περιθωριοποιημένες ή/και απόκεντρες περιοχές"
-msgid "e) promote awareness of health and healthcare issues"
-msgstr "ε) αύξηση της ευαισθητοποίησης σε θέματα υγιεινής και υγειονομικής μέριμνας."
-msgid "Housing"
-msgstr "Στέγαση"
-msgid "a) eliminate any spatial segregation and promoting desegregation"
-msgstr "α) κατάργηση τυχόν χωροταξικών διαχωρισμών και προώθηση της εξάλειψής τους"
-msgid "b) promote non-discriminatory access to social housing"
-msgstr "β) προώθηση της πρόσβασης χωρίς διακρίσεις σε κοινωνική στέγη"
-msgid "c) provide halting sites for non-sedentary Roma, in proportion to local needs"
-msgstr "γ) παροχή προσωρινών καταλυμάτων για μετακινούμενους Ρομά, ανάλογα με τις τοπικές ανάγκες"
-msgid "d) ensure access to public utilities (such as water, electricity and gas) and infrastructure for housing in compliance with national legal requirements"
-msgstr "δ) εξασφάλιση της πρόσβασης σε υπηρεσίες κοινής ωφέλειας (όπως νερό, ηλεκτρικό ρεύμα και φυσικό αέριο) και σε υποδομές στέγασης σύμφωνα με τις εθνικές κανονιστικές διατάξεις"
-msgid "e) ensure that applications from local authorities for urban regeneration projects include integrated housing interventions in favour of marginalised communities"
-msgstr "ε) διασφάλιση ότι οι αιτήσεις των τοπικών αρχών για σχέδια αστικής ανάπλασης θα περιλαμβάνουν ολοκληρωμένες στεγαστικές παρεμβάσεις υπέρ των περιθωριοποιημένων κοινοτήτων"
-msgid "f) promote community-led local development and/or integrated territorial investments supported by the ESIF"
-msgstr "στ) προώθηση της τοπικής ανάπτυξης και/ή των ολοκληρωμένων εδαφικών επενδύσεων με πρωτοβουλία των τοπικών κοινοτήτων και με την υποστήριξη των ευρωπαϊκών διαρθρωτικών και επενδυτικών ταμείων (ΕΔΕΤ)."
-msgid "Anti-discrimination"
-msgstr "Καταπολέμηση των διακρίσεων"
-msgid "By legal means"
-msgstr "Με νομικά μέσα"
-msgid "a) ensure the effective practical enforcement of Directive 2000/43/EC"
-msgstr "α) εξασφάλιση της αποτελεσματικής έμπρακτης εφαρμογής της οδηγίας 2000/43/ΕΚ"
-msgid "b) Implement desegregation measures both regionally and locally"
-msgstr "β) υλοποίηση μέτρων εξάλειψης του διαχωρισμού σε περιφερειακό και τοπικό επίπεδο"
-msgid "c) Combat anti-Roma rhetoric and hate speech"
-msgstr "γ) καταπολέμηση της φρασεολογίας και της ρητορικής μίσους κατά των Ρομά"
-msgid "d) ensure that eviction are in full compliance with Union law as well with other international human rights obligations"
-msgstr "δ) εξασφάλιση της πλήρους συμμόρφωσης των καταναγκαστικών εξώσεων με τη νομοθεσία της Ένωσης και τις διεθνείς υποχρεώσεις στον τομέα των ανθρωπίνων δικαιωμάτων"
-msgid "By awareness raising"
-msgstr "Με αύξηση της ευαισθητοποίησης"
-msgid "e) Combat anti-Gypsyism by raising awareness about the benefits of Roma integration"
-msgstr "ε) καταπολέμηση των διακρίσεων και των προκαταλήψεων κατά την Αθίγγανων μέσω της ευαισθητοποίησης σχετικά με τα οφέλη της ένταξης των Ρομά"
-msgid "f) Combat anti-Gypsyism by sensitising public opinion to the inclusion problems Roma face"
-msgstr "στ) καταπολέμηση των διακρίσεων και των προκαταλήψεων κατά την Αθίγγανων μέσω της ευαισθητοποίησης της κοινής γνώμης σχετικά με τα προβλήματα ένταξης που αντιμετωπίζουν οι Ρομά."
-msgid "Multiple discrimination"
-msgstr "Πολλαπλές διακρίσεις"
-msgid "a) fight violence, including domestic violence, against women and girls"
-msgstr "α) καταπολέμηση της βίας, περιλαμβανομένης της οικογενειακής βίας, κατά των γυναικών και των κοριτσιών"
-msgid "b) fight trafficking in human beings"
-msgstr "β) καταπολέμηση της εμπορίας ανθρώπων"
-msgid "c) fight underage and forced marriages"
-msgstr "γ) καταπολέμηση των γάμων ανηλίκων και των καταναγκαστικών γάμων"
-msgid "d) fight begging involving children, in particular through the enforcement of legislation"
-msgstr "δ) καταπολέμηση της παιδικής επαιτείας, κυρίως μέσω της επιβολής της νομοθεσίας"
-msgid "e) promote the involvement in this exercise of all relevant actors including public authorities, civil society and Roma communities"
-msgstr "ε) προώθηση της συμμετοχής στη διαδικασία αυτή όλων των αρμόδιων φορέων, συμπεριλαμβανομένων των δημόσιων αρχών, της κοινωνίας των πολιτών και των κοινοτήτων Ρομά"
-msgid "f) promote the cooperation between Member States in situations with a cross-border dimension"
-msgstr "στ) προώθηση της συνεργασίας μεταξύ των κρατών μελών σε καταστάσεις με διασυνοριακή διάσταση."
-msgid "Poverty reduction through social investment"
-msgstr "Μείωση της φτώχειας μέσω κοινωνικών επενδύσεων"
-msgid "a) support Roma at all stages of their lives, including by investing in good-quality inclusive early childhood education and care, targeted youth guarantee schemes, life-long learning and active ageing measures"
-msgstr "α) στήριξη των Ρομά σε όλα τα στάδια της ζωής τους, μεταξύ άλλων μέσω της επένδυσης σε ποιοτική προσχολική εκπαίδευση και μέριμνα χωρίς αποκλεισμούς, στοχευμένων προγραμμάτων εγγυήσεων για τη νεολαία και μέτρων δια βίου μάθησης και ενεργού γήρανσης"
-msgid "b) pursue policies of activation and enablement"
-msgstr "β) εφαρμογή πολιτικών ενεργοποίησης και δραστηριοποίησης"
-msgid "c) support (re)entry to the labour market through targeted or mainstream employment support schemes"
-msgstr "γ) στήριξη της (επαν)ένταξης στην αγορά εργασίας με βάση στοχευμένα ή οριζόντια προγράμματα ενίσχυσης της απασχόλησης"
-msgid "d) promote inclusive labour market by addressing discrimination in the workplace"
-msgstr "δ) προώθηση μιας αγοράς εργασίας χωρίς αποκλεισμούς, μέσω της εξάλειψης των διακρίσεων στο χώρο εργασίας"
-msgid "e) make social benefits and social services granted to the disadvantaged, more adequate and sustainable"
-msgstr "ε) καταλληλότερη και σταθερότερη εξασφάλιση κοινωνικών παροχών και υπηρεσιών στα μειονεκτούντα άτομα."
-msgid "Empowerment"
-msgstr "Χειραφέτηση"
-msgid "a) support the active citizenship of Roma by promoting their social, economic, political and cultural participation in society"
-msgstr "α) στήριξη της ενεργού συμμετοχής των Ρομά στα κοινά, μέσω της προώθησης την κοινωνικής, οικονομικής, πολιτικής και πολιτιστικής τους συμμετοχής στο κοινωνικό γίγνεσθαι"
-msgid "b) promote the training and employment of qualified mediators dedicated to Roma"
-msgstr "β) προώθηση της κατάρτισης και της απασχόλησης ειδικευμένων διαμεσολαβητών για τους Ρομά"
-msgid "c) further raise awareness among Roma of their rights (notably in relation to discrimination and the possibilities of seeking redress) and of their civic duties"
-msgstr "γ) περαιτέρω ευαισθητοποίηση των Ρομά σχετικά με τα δικαιώματά τους (ιδίως όσον αφορά τις διακρίσεις και τις δυνατότητες προσφυγής) και τις υποχρεώσεις που έχουν ως πολίτες."
-msgid "Local action"
-msgstr "Τοπική δράση"
-msgid "a) encourage regional and local authorities to develop local action plans or strategies"
-msgstr "α) ενθάρρυνση των περιφερειακών και τοπικών αρχών να αναπτύσσουν τοπικά σχέδια δράσης ή στρατηγικές"
-msgid "b) involve regional and local authorities and local civil society in developing, implementing and monitoring their national strategies or integrated sets of policy measures"
-msgstr "β) προώθηση της συμμετοχής περιφερειακών και τοπικών αρχών, καθώς και της τοπικής κοινωνίας των πολιτών στην ανάπτυξη, την υλοποίηση και την παρακολούθηση των εθνικών στρατηγικών ή των ολοκληρωμένων δεσμών μέτρων πολιτικής"
-msgid "c) support local public authorities so as to facilitate the implementation of sets of policy measures at local level."
-msgstr "γ) στήριξη των τοπικών δημόσιων αρχών με στόχο τη διευκόλυνση της υλοποίησης μέτρων πολιτικής σε τοπικό επίπεδο"
-msgid "d) strive at the local level for an integrated approach concerning families with a Roma background facing multiple problems and strengthen the capacity of local authorities in this respect"
-msgstr "δ) επιδίωξη της υιοθέτησης σε τοπικό επίπεδο μιας ολοκληρωμένης προσέγγισης όσον αφορά οικογένειες με καταγωγή Ρομά που αντιμετωπίζουν πολλαπλά προβλήματα και στήριξη της ικανότητας των τοπικών αρχών για τον σκοπό αυτό."
-msgid "Monitoring and Evaluation"
-msgstr "Παρακολούθηση και αξιολόγηση"
-msgid "a) set baselines or measurable targets"
-msgstr "α) καθορισμός σημείων αναφοράς και μετρήσιμων στόχων"
-msgid "b) collect relevant qualitative or quantitative data on the social and economic effects of integration strategies or measures"
-msgstr "β) συλλογή σχετικών ποιοτικών και ποσοτικών δεδομένων σχετικά με τον κοινωνικό και οικονομικό αντίκτυπο των στρατηγικών ή των μέτρων ένταξης"
-msgid "c) use relevant core indicators or methods of empirical social research"
-msgstr "γ) χρήση σχετικών βασικών δεικτών ή μεθόδων εμπειρικής κοινωνικής έρευνας"
-msgid "d) use data collection for monitoring and evaluating progress on a regular basis, particularly at the local level"
-msgstr "δ) χρήση συλλογής δεδομένων για την παρακολούθηση και την εκτίμηση της προόδου σε τακτική βάση, ιδίως σε τοπικό επίπεδο."
-msgid "Transnational Cooperation"
-msgstr "Διακρατική συνεργασία"
-msgid "a) encourage development of transnational cooperation at national, regional or local level through policy initiatives and projects implementation"
-msgstr "α) ενθάρρυνση της ανάπτυξης της διακρατικής συνεργασίας σε εθνικό, περιφερειακό ή τοπικό επίπεδο, μέσω της υλοποίησης πρωτοβουλιών και σχεδίων πολιτικής"
-msgid "b) coordinate on issues related to the cross-border mobility of Roma within the Union"
-msgstr "β) συντονισμός σε θέματα που αφορούν τη διασυνοριακή κινητικότητα των Ρομά στο εσωτερικό της Ένωσης"
-msgid "c) support mutual learning and the multiplication of good practices"
-msgstr "γ) στήριξη της αμοιβαίας μάθησης και αύξηση των ορθών πρακτικών."
-msgid "Culture"
-msgstr "Πολιτισμός"
-#: field:field_survey_gi_data_options:#allowed_values:other
-msgctxt "field_survey_gi_data_options:#allowed_values:other"
-msgid "Other"
-msgstr "Άλλο"
-#: field:field_survey_measure_11_1:#allowed_values:other
-msgctxt "field_survey_measure_11_1:#allowed_values:other"
-msgid "Other"
-msgstr "Άλλο"

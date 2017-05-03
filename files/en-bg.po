@@ -1,1266 +1,0 @@
-msgid "﻿General Information"
-msgstr "Обща информация"
-#: field:field_survey_gi_year:survey_general_information:label
-msgctxt "field_survey_gi_year:survey_general_information:label"
-msgid "1. Reporting year"
-msgstr "1. Година на докладване"
-#: field:field_survey_gi_country:survey_general_information:label
-msgctxt "field_survey_gi_country:survey_general_information:label"
-msgid "2. Country"
-msgstr "2. Държава"
-#: field:field_survey_gi_comments:survey_general_information:label
-msgctxt "field_survey_gi_comments:survey_general_information:label"
-msgid "3. Country specific comments"
-msgstr "3. Коментари за съответната държава"
-#: field:field_survey_gi_institution:survey_general_information:label
-msgctxt "field_survey_gi_institution:survey_general_information:label"
-msgid "4. Name of the institution acting as NRCP"
-msgstr "4. Наименование на институцията, която изпълнява длъжността на национална контактна точка по въпросите на интегрирането на ромите"
-#: field:field_survey_gi_person:survey_general_information:label
-msgctxt "field_survey_gi_person:survey_general_information:label"
-msgid "5. Name of the person reporting on behalf of the NRCP"
-msgstr "5. Име на лицето, което докладва от името на национална контактна точка по въпросите на интегрирането на ромите"
-#: field:field_survey_gi_phone:survey_general_information:label
-msgctxt "field_survey_gi_phone:survey_general_information:label"
-msgid "6. Phone number"
-msgstr "6. Телефонен номер"
-#: field:field_survey_gi_email:survey_general_information:label
-msgctxt "field_survey_gi_email:survey_general_information:label"
-msgid "7. E-mail"
-msgstr "7. Електронна поща"
-#: field:field_survey_gi_data_options:survey_general_information:label
-msgctxt "field_survey_gi_data_options:survey_general_information:label"
-msgid "8. Options for data collection in the Member State"
-msgstr "8. Възможности за събиране на данни в държавите-членки"
-#: field:field_survey_gi_data_options:#allowed_values:population_census
-msgctxt "field_survey_gi_data_options:#allowed_values:population_census"
-msgid "Questions on ethnic self-identification included in the Population Census"
-msgstr "Въпроси за етническото самоопределение в рамките на преброяването на населението"
-#: field:field_survey_gi_data_options:#allowed_values:european_social_surveys
-msgctxt "field_survey_gi_data_options:#allowed_values:european_social_surveys"
-msgid "Questions on ethnic self-identification included in the standardized European Social Surveys (EU SILC, Labour Force Survey etc.)"
-msgstr "Въпроси за етническото самоопределение в рамките на стандартизирани европейски социални проучвания (статистически данни на Общността за доходите и условията на живот (EU SILC), наблюдение на работната сила и пр.)"
-#: field:field_survey_gi_data_options:#allowed_values:proxies
-msgctxt "field_survey_gi_data_options:#allowed_values:proxies"
-msgid "Proxies of ethnic identity used in the Population Census or in the standardized European Social Surveys (e.g. mother tongue)"
-msgstr "Показатели за етническо самоопределение, използвани при преброяването на населението или в стандартизирани европейски социални проучвания (например майчин език)"
-#: field:field_survey_gi_data_options:#allowed_values:sociological_surveys
-msgctxt "field_survey_gi_data_options:#allowed_values:sociological_surveys"
-msgid "Questions on ethnic identity asked in custom sociological surveys"
-msgstr "Въпроси за етническото самоопределение, зададени в специфични социологически проучвания"
-#: field:field_survey_gi_data_options:#allowed_values:qualitative_research
-msgctxt "field_survey_gi_data_options:#allowed_values:qualitative_research"
-msgid "Qualitative research (focus groups, structured interviews with members of ethnic groups)"
-msgstr "Качествени изследвания (целеви групи, структурирани интервюта с членове на етническа група)"
-#: field:field_survey_gi_data_options:#allowed_values:territorial_mapping
-msgctxt "field_survey_gi_data_options:#allowed_values:territorial_mapping"
-msgid "Territorial mapping (experts’ estimates of the distribution of the population at municipal level or other territorial units)"
-msgstr "Териториално разпределение (експертни оценки на разпределението на населението на равнище общини или други териториални единици)"
-#: field:field_survey_gi_data_options:#allowed_values:not_collected
-msgctxt "field_survey_gi_data_options:#allowed_values:not_collected"
-msgid "Data disaggregated by ethnicity are not collected"
-msgstr "Данни с разбивка по етническа принадлежност не се събират"
-#: field:field_survey_gi_data_options:#allowed_values:other
-msgctxt "field_survey_gi_data_options:#allowed_values:other"
-msgid "Other"
-msgstr "Друго"
-#: field:field_survey_measure_11_1:#allowed_values:other
-msgctxt "field_survey_measure_11_1:#allowed_values:other"
-msgid "Other"
-msgstr "Друго"
-#: field:field_survey_gi_other_options:survey_general_information:label
-msgctxt "field_survey_gi_other_options:survey_general_information:label"
-msgid "8.1. If other options, please specify …"
-msgstr "8.1. Ако сте избрали „Друго“, моля, уточнете …"
-msgid "Measures (Measure)"
-msgstr "Мерки (Мярка)"
-#: field:field_survey_measure_1:survey_measure:label
-msgctxt "field_survey_measure_1:survey_measure:label"
-msgid "1. Title of the measure"
-msgstr "1. Наименование на мярката"
-#: field:field_survey_measure_2:survey_measure:label
-msgctxt "field_survey_measure_2:survey_measure:label"
-msgid "2. Implemented by"
-msgstr "2. Прилагана от"
-#: field:field_survey_measure_2:#allowed_values:my
-msgctxt "field_survey_measure_2:#allowed_values:my"
-msgid "My organisation"
-msgstr "Моята организация"
-#: field:field_survey_measure_2:#allowed_values:other
-msgctxt "field_survey_measure_2:#allowed_values:other"
-msgid "Other organisation"
-msgstr "Друга организация"
-#: field:field_survey_measure_2_1:survey_measure:label
-msgctxt "field_survey_measure_2_1:survey_measure:label"
-msgid "2.1. Organisation type"
-msgstr "2.1. Вид организация"
-#: field:field_survey_measure_2_1:#allowed_values:loc_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_pub"
-msgid "Local public authority"
-msgstr "Местен публичен орган"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_pub"
-msgid "Local public authority"
-msgstr "Местен публичен орган"
-#: field:field_survey_measure_2_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_civ"
-msgid "Local civil society"
-msgstr "Местна организация на гражданското общество / НПО"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_civ"
-msgid "Local civil society"
-msgstr "Местна организация на гражданското общество / НПО"
-#: field:field_survey_measure_2_1:#allowed_values:loc_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_priv"
-msgid "Local private sector entity"
-msgstr "Местно образувание от частния сектор"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_priv"
-msgid "Local private sector entity"
-msgstr "Местно образувание от частния сектор"
-#: field:field_survey_measure_2_1:#allowed_values:reg_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_pub"
-msgid "Regional public authority"
-msgstr "Регионален обществен орган"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_pub"
-msgid "Regional public authority"
-msgstr "Регионален обществен орган"
-#: field:field_survey_measure_2_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_civ"
-msgid "Regional civil society"
-msgstr "Регионална организация на гражданското общество"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_civ"
-msgid "Regional civil society"
-msgstr "Регионална организация на гражданското общество"
-#: field:field_survey_measure_2_1:#allowed_values:reg_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_priv"
-msgid "Regional private sector entity"
-msgstr "Регионална организация от частния сектор"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_priv"
-msgid "Regional private sector entity"
-msgstr "Регионална организация от частния сектор"
-#: field:field_survey_measure_2_1:#allowed_values:nat_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_pub"
-msgid "National public authority"
-msgstr "Национален публичен орган"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_pub"
-msgid "National public authority"
-msgstr "Национален публичен орган"
-#: field:field_survey_measure_2_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_civ"
-msgid "National civil society"
-msgstr "Национална организация на гражданското общество"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_civ"
-msgid "National civil society"
-msgstr "Национална организация на гражданското общество"
-#: field:field_survey_measure_2_1:#allowed_values:nat_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_priv"
-msgid "National private sector entity"
-msgstr "Национално образувание от частния сектор"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_priv"
-msgid "National private sector entity"
-msgstr "Национално образувание от частния сектор"
-#: field:field_survey_measure_2_1:#allowed_values:tra_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_pub"
-msgid "Transnational public organisation"
-msgstr "Международна публична организация"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_pub"
-msgid "Transnational public organisation"
-msgstr "Международна публична организация"
-#: field:field_survey_measure_2_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_civ"
-msgid "Transnational civil society"
-msgstr "Международна организация на гражданското общество"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_civ"
-msgid "Transnational civil society"
-msgstr "Международна организация на гражданското общество"
-#: field:field_survey_measure_2_1:#allowed_values:tra_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_priv"
-msgid "Transnational private sector entity"
-msgstr "Международно образувание от частния сектор"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_priv"
-msgid "Transnational private sector entity"
-msgstr "Международно образувание от частния сектор"
-#: field:field_survey_measure_2_1:#allowed_values:part
-msgctxt "field_survey_measure_2_1:#allowed_values:part"
-msgid "Partnership"
-msgstr "Партньорство"
-#: field:field_survey_measure_2_1_1:survey_measure:label
-msgctxt "field_survey_measure_2_1_1:survey_measure:label"
-msgid "2.1.1. If partnership, please select the type"
-msgstr "2.1.1. Ако става дума за партньорство, моля, изберете неговия вид"
-#: field:field_survey_measure_3:survey_measure:label
-msgctxt "field_survey_measure_3:survey_measure:label"
-msgid "3. Is the measure part of the implementation plan of…"
-msgstr "3. Мярката част ли е от плана за изпълнение на..."
-#: field:field_survey_measure_3:#allowed_values:nris
-msgctxt "field_survey_measure_3:#allowed_values:nris"
-msgid "NRIS or integrated sets of policy measures on Roma"
-msgstr "Национална стратегия за интегриране на ромите или интегриран пакет от политически мерки във връзка с ромите"
-#: field:field_survey_measure_3:#allowed_values:nat
-msgctxt "field_survey_measure_3:#allowed_values:nat"
-msgid "Other – another national level plan"
-msgstr "Друго — друг план на национално равнище"
-#: field:field_survey_measure_3:#allowed_values:reg
-msgctxt "field_survey_measure_3:#allowed_values:reg"
-msgid "Other – a regional or local level plan"
-msgstr "Друго — план на регионално или местно равнище"
-#: field:field_survey_measure_3_1:survey_measure:label
-msgctxt "field_survey_measure_3_1:survey_measure:label"
-msgid "3.1. If other, enter the source"
-msgstr "3.1. Ако сте отговорили „Друго“, въведете източника"
-#: field:field_survey_measure_4:survey_measure:label
-msgctxt "field_survey_measure_4:survey_measure:label"
-msgid "4. Detailed description of the measure"
-msgstr "4. Подробно описание на мярката"
-#: field:field_survey_measure_5:survey_measure:label
-msgctxt "field_survey_measure_5:survey_measure:label"
-msgid "5. Is it a mainstream or Roma targeted measure?"
-msgstr "5. Това обща мярка ли е или е специфична мярка, насочена към ромите?"
-#: field:field_survey_measure_5:#allowed_values:main
-msgctxt "field_survey_measure_5:#allowed_values:main"
-msgid "Mainstream"
-msgstr "Обща"
-#: field:field_survey_measure_5:#allowed_values:target
-msgctxt "field_survey_measure_5:#allowed_values:target"
-msgid "Targeted"
-msgstr "Специфична"
-#: field:field_survey_measure_5_1:survey_measure:label
-msgctxt "field_survey_measure_5_1:survey_measure:label"
-msgid "5.1. If mainstream, does the measure have explicit safeguards to secure equal access of various vulnerable people (including vulnerable Roma) to mainstreamed measures and prevent indirect discrimination?"
-msgstr "5.1. Ако мярката е обща, включва ли тя изрични предпазни клаузи за гарантиране на равен достъп на различни уязвими групи хора (включително уязвими роми) до общи мерки и за предотвратяване на непряка дискриминация?"
-#: field:field_survey_equal_1:#allowed_values:yes
-msgctxt "field_survey_equal_1:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_equal_2:#allowed_values:yes
-msgctxt "field_survey_equal_2:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_equal_7:#allowed_values:yes
-msgctxt "field_survey_equal_7:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_equal_7_0:#allowed_values:yes
-msgctxt "field_survey_equal_7_0:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_funding_1:#allowed_values:yes
-msgctxt "field_survey_funding_1:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_funding_5:#allowed_values:yes
-msgctxt "field_survey_funding_5:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_funding_6:#allowed_values:yes
-msgctxt "field_survey_funding_6:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_funding_7:#allowed_values:yes
-msgctxt "field_survey_funding_7:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_funding_8:#allowed_values:yes
-msgctxt "field_survey_funding_8:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_governance_10:#allowed_values:yes
-msgctxt "field_survey_governance_10:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_governance_11:#allowed_values:yes
-msgctxt "field_survey_governance_11:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_governance_12:#allowed_values:yes
-msgctxt "field_survey_governance_12:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_governance_8:#allowed_values:yes
-msgctxt "field_survey_governance_8:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_measure_10:#allowed_values:yes
-msgctxt "field_survey_measure_10:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_measure_11:#allowed_values:yes
-msgctxt "field_survey_measure_11:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_measure_13:#allowed_values:yes
-msgctxt "field_survey_measure_13:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_measure_5_1:#allowed_values:yes
-msgctxt "field_survey_measure_5_1:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_thematic_5:#allowed_values:yes
-msgctxt "field_survey_thematic_5:#allowed_values:yes"
-msgid "Yes"
-msgstr "Да"
-#: field:field_survey_equal_1:#allowed_values:no
-msgctxt "field_survey_equal_1:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_equal_2:#allowed_values:no
-msgctxt "field_survey_equal_2:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_equal_7:#allowed_values:no
-msgctxt "field_survey_equal_7:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_equal_7_0:#allowed_values:no
-msgctxt "field_survey_equal_7_0:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_funding_1:#allowed_values:no
-msgctxt "field_survey_funding_1:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_funding_5:#allowed_values:no
-msgctxt "field_survey_funding_5:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_funding_6:#allowed_values:no
-msgctxt "field_survey_funding_6:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_funding_7:#allowed_values:no
-msgctxt "field_survey_funding_7:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_funding_8:#allowed_values:no
-msgctxt "field_survey_funding_8:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_governance_10:#allowed_values:no
-msgctxt "field_survey_governance_10:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_governance_11:#allowed_values:no
-msgctxt "field_survey_governance_11:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_governance_12:#allowed_values:no
-msgctxt "field_survey_governance_12:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_governance_8:#allowed_values:no
-msgctxt "field_survey_governance_8:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_measure_10:#allowed_values:no
-msgctxt "field_survey_measure_10:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_measure_11:#allowed_values:no
-msgctxt "field_survey_measure_11:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_measure_13:#allowed_values:no
-msgctxt "field_survey_measure_13:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_measure_5_1:#allowed_values:no
-msgctxt "field_survey_measure_5_1:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_thematic_5:#allowed_values:no
-msgctxt "field_survey_thematic_5:#allowed_values:no"
-msgid "No"
-msgstr "Не"
-#: field:field_survey_measure_5_1_1:survey_measure:label
-msgctxt "field_survey_measure_5_1_1:survey_measure:label"
-msgid "5.1.1 If yes, what are those safeguards? Please describe in more details? What is the budget allocated for these safeguards?"
-msgstr "5.1.1 Ако отговорът е „Да“, какви са тези предпазни клаузи? Моля, опишете ги по-подробно. Какъв е бюджетът, отпуснат за тези предпазни клаузи?"
-#: field:field_survey_measure_6:survey_measure:label
-msgctxt "field_survey_measure_6:survey_measure:label"
-msgid "6. What is the duration of the measure?"
-msgstr "6. Каква е продължителността на мярката?"
-#: field:field_survey_measure_7:survey_measure:label
-msgctxt "field_survey_measure_7:survey_measure:label"
-msgid "7. Please describe the results of this measure"
-msgstr "7. Моля, опишете резултатите от тази мярка"
-#: field:field_survey_measure_8:survey_measure:label
-msgctxt "field_survey_measure_8:survey_measure:label"
-msgid "8. Please comment on the lessons learned from this measure"
-msgstr "8. Моля, коментирайте какви поуки сте извлекли от тази мярка"
-#: field:field_survey_measure_9:survey_measure:label
-msgctxt "field_survey_measure_9:survey_measure:label"
-msgid "9. Please select up to 3 areas and sub-areas most related to this measure (in accordance with the 2013 Council Recommendation)"
-msgstr "9. Моля, изберете до 3 области и подобласти, които са най-силно свързани с тази мярка (в съответствие с препоръката на Съвета от 2013 г.)"
-msgid "Thematic areas"
-msgstr "Тематични области"
-msgid "Nothing has been selected."
-msgstr "Нищо не е избрано."
-#: field:field_survey_measure_10:survey_measure:label
-msgctxt "field_survey_measure_10:survey_measure:label"
-msgid "10. Is funding envisaged for the measure?"
-msgstr "10. Предвидено ли е финансиране за мярката?"
-#: field:field_survey_funding_1:#allowed_values:n/a
-msgctxt "field_survey_funding_1:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Не зная"
-#: field:field_survey_funding_5:#allowed_values:n/a
-msgctxt "field_survey_funding_5:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Не зная"
-#: field:field_survey_funding_6:#allowed_values:n/a
-msgctxt "field_survey_funding_6:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Не зная"
-#: field:field_survey_funding_8:#allowed_values:n/a
-msgctxt "field_survey_funding_8:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Не зная"
-#: field:field_survey_governance_10:#allowed_values:n/a
-msgctxt "field_survey_governance_10:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Не зная"
-#: field:field_survey_measure_10:#allowed_values:n/a
-msgctxt "field_survey_measure_10:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Не зная"
-#: field:field_survey_thematic_4:#allowed_values:n/a
-msgctxt "field_survey_thematic_4:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Не зная"
-#: field:field_survey_thematic_5:#allowed_values:n/a
-msgctxt "field_survey_thematic_5:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Не зная"
-#: field:field_survey_funding_allocated:survey_measure:label
-msgctxt "field_survey_funding_allocated:survey_measure:label"
-msgid "10.1. What was the total funding ALLOCATED for the year of reporting?"
-msgstr "10.1. Какво беше общото финансиране, ПРЕДОСТАВЕНО за годината на докладване?"
-#: field:field_survey_funding_allocated_1:field_survey_funding_allocated:label
-msgctxt "field_survey_funding_allocated_1:field_survey_funding_allocated:label"
-msgid "National public funding"
-msgstr "Национално публично финансиране"
-#: field:field_survey_funding_spent_1:field_survey_funding_spent:label
-msgctxt "field_survey_funding_spent_1:field_survey_funding_spent:label"
-msgid "National public funding"
-msgstr "Национално публично финансиране"
-#: field:field_survey_total_allocated_2:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_2:field_survey_total_allocated:label"
-msgid "National public funding"
-msgstr "Национално публично финансиране"
-#: field:field_survey_total_spent_2:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_2:field_survey_total_spent:label"
-msgid "National public funding"
-msgstr "Национално публично финансиране"
-#: field:field_survey_funding_allocated_2:field_survey_funding_allocated:label
-msgctxt "field_survey_funding_allocated_2:field_survey_funding_allocated:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "Европейски структурни и инвестиционни фондове (ЕСФ, ЕФРР, ЕЗФРСР)"
-#: field:field_survey_funding_spent_2:field_survey_funding_spent:label
-msgctxt "field_survey_funding_spent_2:field_survey_funding_spent:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "Европейски структурни и инвестиционни фондове (ЕСФ, ЕФРР, ЕЗФРСР)"
-#: field:field_survey_total_allocated_3:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_3:field_survey_total_allocated:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "Европейски структурни и инвестиционни фондове (ЕСФ, ЕФРР, ЕЗФРСР)"
-#: field:field_survey_total_spent_3:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_3:field_survey_total_spent:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "Европейски структурни и инвестиционни фондове (ЕСФ, ЕФРР, ЕЗФРСР)"
-#: field:field_survey_funding_allocated_3:field_survey_funding_allocated:label
-msgctxt "field_survey_funding_allocated_3:field_survey_funding_allocated:label"
-msgid "Other (international or private)"
-msgstr "Друго (международно или частно)"
-#: field:field_survey_funding_spent_3:field_survey_funding_spent:label
-msgctxt "field_survey_funding_spent_3:field_survey_funding_spent:label"
-msgid "Other (international or private)"
-msgstr "Друго (международно или частно)"
-#: field:field_survey_total_allocated_4:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_4:field_survey_total_allocated:label"
-msgid "Other (international or private)"
-msgstr "Друго (международно или частно)"
-#: field:field_survey_total_spent_4:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_4:field_survey_total_spent:label"
-msgid "Other (international or private)"
-msgstr "Друго (международно или частно)"
-#: field:field_survey_funding_spent:survey_measure:label
-msgctxt "field_survey_funding_spent:survey_measure:label"
-msgid "10.2. What was the total funding SPENT during the year preceding the YEAR OF REPORTING?"
-msgstr "10.2. Какво беше общото финансиране, ИЗРАЗХОДЕНО през годината, предшестваща ГОДИНАТА НА ДОКЛАДВАНЕ?"
-#: field:field_survey_measure_11:survey_measure:label
-msgctxt "field_survey_measure_11:survey_measure:label"
-msgid "11. Is it possible to estimate the total number of the end beneficiaries (people benefiting from the measure)"
-msgstr "11. Възможно ли е да направите оценка на общия брой крайни бенефициенти (хора, които са се възползвали от мярката)"
-#: field:field_survey_measure_11:#allowed_values:n/a
-msgctxt "field_survey_measure_11:#allowed_values:n/a"
-msgid "I cannot judge"
-msgstr "Не мога да преценя"
-#: field:field_survey_measure_11_1:survey_measure:label
-msgctxt "field_survey_measure_11_1:survey_measure:label"
-msgid "11.1. Source of the estimate"
-msgstr "11.1. Източник на оценката"
-#: field:field_survey_measure_11_2:survey_measure:label
-msgctxt "field_survey_measure_11_2:survey_measure:label"
-msgid "11.2. What is the estimated number of total beneficiaries (people benefiting from the measure) per year?"
-msgstr "11.2. Какъв е очакваният брой на всички бенефициенти (хора, които са се възползвали от мярката) на година?"
-#: field:field_survey_measure_12:survey_measure:label
-msgctxt "field_survey_measure_12:survey_measure:label"
-msgid "12. Country specific comments"
-msgstr "12. Коментари за съответната държава"
-#: field:field_survey_measure_13:survey_measure:label
-msgctxt "field_survey_measure_13:survey_measure:label"
-msgid "13. Is it possible to estimate the number of Roma that would benefit from this measure?"
-msgstr "13. Възможно ли е да направите оценка на броя на ромите, които ще се възползват от тази мярка?"
-#: field:field_survey_measure_14:survey_measure:label
-msgctxt "field_survey_measure_14:survey_measure:label"
-msgid "14. Country specific comments on Roma beneficiaries"
-msgstr "14. Коментари за съответната държава във връзка с бенефициенти роми"
-#: field:field_survey_measure_15:survey_measure:label
-msgctxt "field_survey_measure_15:survey_measure:label"
-msgid "15. Can you provide any other information on output / result indicators? Please chose the most relevant (up to 3) from the list and estimate their value or add any new indicator."
-msgstr "15. Можете ли да предоставите друга информация за показателите за изпълнението? Моля, изберете най-подходящите (до 3) от списъка и оценете тяхната стойност или добавете нов показател."
-msgid "Thematic areas (Thematic area)"
-msgstr "Тематични области (Тематична област)"
-#: field:field_survey_thematic_area:survey_thematic_area:label
-msgctxt "field_survey_thematic_area:survey_thematic_area:label"
-msgid "Thematic area"
-msgstr "Тематична област"
-#: field:field_survey_thematic_1:survey_thematic_area:label
-msgctxt "field_survey_thematic_1:survey_thematic_area:label"
-msgid "1. Which was the most important success? What were the factors contributing to this achievement?"
-msgstr "1. Кой беше най-големият успех? Кои фактори допринесоха за това постижение?"
-#: field:field_survey_thematic_2:survey_thematic_area:label
-msgctxt "field_survey_thematic_2:survey_thematic_area:label"
-msgid "2. Which was the most important challenge? What were the factors contributing to it?"
-msgstr "2. Кое беше най-голямото предизвикателство? Кои фактори допринесоха за него?"
-#: field:field_survey_thematic_3:survey_thematic_area:label
-msgctxt "field_survey_thematic_3:survey_thematic_area:label"
-msgid "3. What is the basis of your assessment?"
-msgstr "3. На какво се основава вашата оценка?"
-#: field:field_survey_thematic_4:survey_thematic_area:label
-msgctxt "field_survey_thematic_4:survey_thematic_area:label"
-msgid "4. How would you assess the situation in this thematic area?"
-msgstr "4. Как бихте оценили положението в тематичната област?"
-#: field:field_survey_equal_4:#allowed_values:improved
-msgctxt "field_survey_equal_4:#allowed_values:improved"
-msgid "Improved"
-msgstr "Подобрено"
-#: field:field_survey_thematic_4:#allowed_values:improv
-msgctxt "field_survey_thematic_4:#allowed_values:improv"
-msgid "Improved"
-msgstr "Подобрено"
-#: field:field_survey_equal_4:#allowed_values:same
-msgctxt "field_survey_equal_4:#allowed_values:same"
-msgid "Remained the same"
-msgstr "Без промяна"
-#: field:field_survey_thematic_4:#allowed_values:remain
-msgctxt "field_survey_thematic_4:#allowed_values:remain"
-msgid "Remained the same"
-msgstr "Без промяна"
-#: field:field_survey_equal_4:#allowed_values:deteriorated
-msgctxt "field_survey_equal_4:#allowed_values:deteriorated"
-msgid "Deteriorated"
-msgstr "Влошено"
-#: field:field_survey_thematic_4:#allowed_values:deterior
-msgctxt "field_survey_thematic_4:#allowed_values:deterior"
-msgid "Deteriorated"
-msgstr "Влошено"
-#: field:field_survey_thematic_5:survey_thematic_area:label
-msgctxt "field_survey_thematic_5:survey_thematic_area:label"
-msgid "5. Is funding envisaged?"
-msgstr "5. Предвидено ли е финансиране?"
-#: field:field_survey_total_allocated:survey_thematic_area:label
-msgctxt "field_survey_total_allocated:survey_thematic_area:label"
-msgid "5.1. Total funding ALLOCATED for this thematic area for the year of reporting"
-msgstr "5.1. Общо финансиране, ПРЕДОСТАВЕНО за тази тематична област за годината на докладване"
-#: field:field_survey_total_allocated_1:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_1:field_survey_total_allocated:label"
-msgid "Total amount"
-msgstr "Обща сума"
-#: field:field_survey_total_spent_1:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_1:field_survey_total_spent:label"
-msgid "Total amount"
-msgstr "Обща сума"
-#: field:field_survey_total_spent:survey_thematic_area:label
-msgctxt "field_survey_total_spent:survey_thematic_area:label"
-msgid "5.2. Total funding SPENT in this thematic area for the year of reporting"
-msgstr "5.2. Общо финансиране, ИЗРАЗХОДЕНО за тази тематична област за годината на докладване"
-msgid "Funding"
-msgstr "Финансиране"
-#: field:field_survey_funding_1:survey_funding:label
-msgctxt "field_survey_funding_1:survey_funding:label"
-msgid "1. Has funding been allocated (spent) for the implementation and monitoring of your national and local Roma integration strategy or integrated set of policy measures and action plans?"
-msgstr "1. Финансирането предоставено (изразходено) ли е за изпълнението и контрола на вашата национална и местна стратегия за интегриране на ромите или интегриран пакет от политически мерки и планове за действие?"
-#: field:field_survey_funding_1_1:survey_funding:label
-msgctxt "field_survey_funding_1_1:survey_funding:label"
-msgid "1.1. Country-specific comments on the funding"
-msgstr "1.1. Коментари за съответната страна относно финансирането"
-#: field:field_survey_funding_allocated:survey_funding:label
-msgctxt "field_survey_funding_allocated:survey_funding:label"
-msgid "2. How much funding has been ALLOCATED for the year of reporting for the implementation and monitoring of your national and local Roma integration strategies or integrated set of policy measures and action plans from the respective sources (general estimate…)"
-msgstr "2. Колко финансиране е ПРЕДОСТАВЕНО за годината на докладване за изпълнението и контрола на вашите национални и местни стратегии за интегриране на ромите или за интегриран пакет от политически мерки и планове за действие от съответните източници (обща оценка...)"
-#: field:field_survey_funding_2_4:survey_funding:label
-msgctxt "field_survey_funding_2_4:survey_funding:label"
-msgid "2.4. Country-specific comments on the funding ALLOCATED"
-msgstr "2.4. Коментари за съответната страна относно ПРЕДОСТАВЕНОТО финансиране"
-#: field:field_survey_funding_spent:survey_funding:label
-msgctxt "field_survey_funding_spent:survey_funding:label"
-msgid "3. How much funding has been SPENT during the year PRECEDING the YEAR OF REPORTING for the implementation and monitoring of your national and local Roma integration strategies or integrated sets of policy measures and action plans from the respective sources (general estimate for all measures)?"
-msgstr "3. Колко финансиране е ИЗРАЗХОДЕНО през годината, ПРЕДХОЖДАЩА ГОДИНАТА НА ДОКЛАДВАНЕ, за изпълнението и контрола на вашите национални и местни стратегии за интегриране на ромите или за интегрирани пакети от политически мерки и планове за действие от съответните източници (обща оценка за всички мерки)?"
-#: field:field_survey_funding_3_4:survey_funding:label
-msgctxt "field_survey_funding_3_4:survey_funding:label"
-msgid "3.4. Country-specific comments on the funding SPENT"
-msgstr "3.4. Коментари за съответната страна относно ИЗРАЗХОДЕНОТО финансиране"
-#: field:field_survey_funding_4:survey_funding:label
-msgctxt "field_survey_funding_4:survey_funding:label"
-msgid "4. Are the European Structural and Investment Funds or national funding used to build the capacity of"
-msgstr "4. Използвани ли са Европейските структурни и инвестиционни фондове или национално финансиране за изграждане на капацитет на"
-#: field:field_survey_funding_4:#allowed_values:national
-msgctxt "field_survey_funding_4:#allowed_values:national"
-msgid "the national authorities"
-msgstr "националните органи"
-#: field:field_survey_funding_4:#allowed_values:local
-msgctxt "field_survey_funding_4:#allowed_values:local"
-msgid "the local authorities"
-msgstr "местните органи"
-#: field:field_survey_funding_4:#allowed_values:society
-msgctxt "field_survey_funding_4:#allowed_values:society"
-msgid "civil society"
-msgstr "гражданското общество"
-#: field:field_survey_measure_2_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_civ"
-msgid "civil society"
-msgstr "гражданското общество"
-#: field:field_survey_measure_2_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_civ"
-msgid "civil society"
-msgstr "гражданското общество"
-#: field:field_survey_measure_2_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_civ"
-msgid "civil society"
-msgstr "гражданското общество"
-#: field:field_survey_measure_2_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_civ"
-msgid "civil society"
-msgstr "гражданското общество"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_civ"
-msgid "civil society"
-msgstr "гражданското общество"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_civ"
-msgid "civil society"
-msgstr "гражданското общество"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_civ"
-msgid "civil society"
-msgstr "гражданското общество"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_civ"
-msgid "civil society"
-msgstr "гражданското общество"
-#: field:field_survey_funding_4_0:survey_funding:label
-msgctxt "field_survey_funding_4_0:survey_funding:label"
-msgid "to strengthen"
-msgstr "за укрепване на"
-
-#: field:field_survey_funding_4_0:#allowed_values:implementation
-msgid "implementation"
-msgstr "изпълнението,"
-#: field:field_survey_funding_4_0:#allowed_values:implementation
-msgctxt "field_survey_funding_4_0:#allowed_values:implementation"
-msgid "implementation"
-msgstr "изпълнението,"
-#: field:field_survey_funding_4_0:#allowed_values:monitoring
-msgctxt "field_survey_funding_4_0:#allowed_values:monitoring"
-msgid "monitoring and evaluation of the NRIS (National Roma Integration Strategy) or set of policy measures?"
-msgstr "контрола и оценяването на националните стратегии за интегриране на ромите или пакети от политически мерки?"
-msgid "4.1. Please elaborate how and specify the amounts"
-msgstr "4.1 Моля, посочете как и уточнете сумите"
-#: field:field_survey_funding_5:survey_funding:label
-msgctxt "field_survey_funding_5:survey_funding:label"
-msgid "5. Is public funding allocated following specific targeting of Roma as a social group?"
-msgstr "5. Публичното финансиране предоставя ли се в резултат от мерки, специално насочени към ромите като социална група?"
-#: field:field_survey_funding_5_1:survey_funding:label
-msgctxt "field_survey_funding_5_1:survey_funding:label"
-msgid "5.1. Please elaborate how and specify the amounts"
-msgstr "5.1. Моля, посочете как и уточнете сумите"
-#: field:field_survey_funding_6:survey_funding:label
-msgctxt "field_survey_funding_6:survey_funding:label"
-msgid "6. Is public funding allocated following specific targeting of geographical areas most affected by poverty and social exclusion?"
-msgstr "6. Публичното финансиране предоставя ли се в резултат от мерки, специално насочени към географските райони, най-силно засегнати от бедност и социално изключване?"
-#: field:field_survey_funding_6_1:survey_funding:label
-msgctxt "field_survey_funding_6_1:survey_funding:label"
-msgid "6.1. Please elaborate how and specify the amounts"
-msgstr "6.1. Моля, посочете как и уточнете сумите"
-#: field:field_survey_funding_7:survey_funding:label
-msgctxt "field_survey_funding_7:survey_funding:label"
-msgid "7. Is public funding allocated taking into consideration the gender dimension?"
-msgstr "7. При предоставянето на публично финансиране взема ли се под внимание измерението, свързано с пола?"
-#: field:field_survey_funding_8:survey_funding:label
-msgctxt "field_survey_funding_8:survey_funding:label"
-msgid "8. Are Roma communities involved in the decision-making regarding financial resources allocation for the implementation of the NRIS (or the respective strategic document)?"
-msgstr "8. Ромските общности участват ли във вземането на решения относно предоставянето на финансови ресурси за изпълнението на националната стратегия за интегриране на ромите (или съответния стратегически документ)?"
-#: field:field_survey_funding_8_1:survey_funding:label
-msgctxt "field_survey_funding_8_1:survey_funding:label"
-msgid "8.1. If yes, please elaborate how"
-msgstr "8.1. Ако отговорът е „Да“, моля, посочете как"
-msgid "Governance & cooperation"
-msgstr "Управление и сътрудничество"
-#: field:field_survey_governance_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_1:survey_governance_cooperation:label"
-msgid "1. Annual Budget for NRCP"
-msgstr "1. Годишен бюджет за националната контактна точка по въпросите на интегрирането на ромите"
-#: field:field_survey_governance_1_1:field_survey_governance_1:label
-msgctxt "field_survey_governance_1_1:field_survey_governance_1:label"
-msgid "1.1. ALLOCATED for the year of reporting"
-msgstr "1.1. ПРЕДОСТАВЕН за годината на докладване"
-#: field:field_survey_governance_1_2:field_survey_governance_1:label
-msgctxt "field_survey_governance_1_2:field_survey_governance_1:label"
-msgid "1.2. SPENT in the year preceding the year of reporting"
-msgstr "1.2. ИЗРАЗХОДЕН през годината, предшестваща годината на докладване"
-#: field:field_survey_governance_1_3:survey_governance_cooperation:label
-msgctxt "field_survey_governance_1_3:survey_governance_cooperation:label"
-msgid "1.3. Specific comments on budget for NRCP"
-msgstr "1.3. Конкретни коментари за бюджета за националната контактна точка по въпросите на интегрирането на ромите"
-#: field:field_survey_governance_2:survey_governance_cooperation:label
-msgctxt "field_survey_governance_2:survey_governance_cooperation:label"
-msgid "2. Human Resources of the NRCP in full time equivalent"
-msgstr "2. Човешките ресурси на националната контактна точка по въпросите на интегрирането на ромите в еквивалент на пълно работно време"
-#: field:field_survey_governance_2_1:field_survey_governance_2:label
-msgctxt "field_survey_governance_2_1:field_survey_governance_2:label"
-msgid "2.1. ACTUAL in the year if reporting"
-msgstr "2.1. ДЕЙСТВИТЕЛЕН в годината на докладване"
-#: field:field_survey_governance_2_2:field_survey_governance_2:label
-msgctxt "field_survey_governance_2_2:field_survey_governance_2:label"
-msgid "2.2. ESTIMATE of NEEDED in the year of reporting"
-msgstr "2.2. ОЦЕНКА на човешките ресурси, НЕОБХОДИМИ в годината на докладване"
-#: field:field_survey_governance_2_3:survey_governance_cooperation:label
-msgctxt "field_survey_governance_2_3:survey_governance_cooperation:label"
-msgid "2.3. Specific comments on human resources of NRCP"
-msgstr "2.3. Конкретни коментари за човешките ресурси на националната контактна точка по въпросите на интегрирането на ромите"
-#: field:field_survey_governance_3:survey_governance_cooperation:label
-msgctxt "field_survey_governance_3:survey_governance_cooperation:label"
-msgid "3. What is the role played by the NRCP in cross sectorial coordination of the implementation and monitoring of NRIS (or Integrated set of policy measures…)?"
-msgstr "3. Каква роля играе националната контактна точка по въпросите на интегрирането на ромите в междусекторната координация на изпълнението и контрола на националните стратегии за интегриране на ромите (или интегрирани пакети от политически мерки...)?"
-#: field:field_survey_governance_3:#allowed_values:charge
-msgctxt "field_survey_governance_3:#allowed_values:charge"
-msgid "In charge"
-msgstr "Носи отговорност"
-#: field:field_survey_governance_3:#allowed_values:contributing
-msgctxt "field_survey_governance_3:#allowed_values:contributing"
-msgid "Contributing to it"
-msgstr "Допринася"
-#: field:field_survey_governance_3:#allowed_values:neither
-msgctxt "field_survey_governance_3:#allowed_values:neither"
-msgid "Neither"
-msgstr "Нито едно от посочените"
-#: field:field_survey_governance_5:#allowed_values:neither
-msgctxt "field_survey_governance_5:#allowed_values:neither"
-msgid "Neither"
-msgstr "Нито едно от посочените"
-#: field:field_survey_governance_6:#allowed_values:neither
-msgctxt "field_survey_governance_6:#allowed_values:neither"
-msgid "Neither"
-msgstr "Нито едно от посочените"
-#: field:field_survey_governance_7:#allowed_values:neither
-msgctxt "field_survey_governance_7:#allowed_values:neither"
-msgid "Neither"
-msgstr "Нито едно от посочените"
-msgid "3.1. Specific comments on the role of the NRCP in cross sectorial coordination"
-msgstr "3.1. Конкретни коментари за ролята на националната контактна точка по въпросите на интегрирането на ромите в междусекторната координация"
-#: field:field_survey_governance_4:survey_governance_cooperation:label
-msgctxt "field_survey_governance_4:survey_governance_cooperation:label"
-msgid "4. Please describe the process of cross sectorial coordination of the implementation and monitoring of NRIS (or Integrated set of policy measures…)."
-msgstr "4. Моля, опишете процеса на междусекторна координация на изпълнението и контрола на националните стратегии за интегриране на ромите (или интегрираните пакети от политически мерки...)."
-#: field:field_survey_governance_5:survey_governance_cooperation:label
-msgctxt "field_survey_governance_5:survey_governance_cooperation:label"
-msgid "5. What is the involvement of NRCP in decision making processes regarding DEVELOPMENT of relevant policies?"
-msgstr "5. Какво е ролята на националната точка за контакти по въпросите на интегрирането на ромите в процеса на вземане на решения относно РАЗРАБОТВАНЕТО на съответните политики?"
-#: field:field_survey_governance_5:#allowed_values:participating in
-msgctxt "field_survey_governance_5:#allowed_values:participating in"
-msgid "Participating in"
-msgstr "Участва"
-#: field:field_survey_governance_6:#allowed_values:participating
-msgctxt "field_survey_governance_6:#allowed_values:participating"
-msgid "Participating in"
-msgstr "Участва"
-#: field:field_survey_governance_7:#allowed_values:participating
-msgctxt "field_survey_governance_7:#allowed_values:participating"
-msgid "Participating in"
-msgstr "Участва"
-#: field:field_survey_governance_5:#allowed_values:consulted
-msgctxt "field_survey_governance_5:#allowed_values:consulted"
-msgid "Being consulted"
-msgstr "Дава консултации"
-#: field:field_survey_governance_6:#allowed_values:consulted
-msgctxt "field_survey_governance_6:#allowed_values:consulted"
-msgid "Being consulted"
-msgstr "Дава консултации"
-#: field:field_survey_governance_7:#allowed_values:consulted
-msgctxt "field_survey_governance_7:#allowed_values:consulted"
-msgid "Being consulted"
-msgstr "Дава консултации"
-#: field:field_survey_governance_3:#allowed_values:neither
-msgctxt "field_survey_governance_3:#allowed_values:neither"
-msgid "Neither"
-msgstr "Нито едно от посочените"
-#: field:field_survey_governance_5:#allowed_values:neither
-msgctxt "field_survey_governance_5:#allowed_values:neither"
-msgid "Neither"
-msgstr "Нито едно от посочените"
-#: field:field_survey_governance_6:#allowed_values:neither
-msgctxt "field_survey_governance_6:#allowed_values:neither"
-msgid "Neither"
-msgstr "Нито едно от посочените"
-#: field:field_survey_governance_7:#allowed_values:neither
-msgctxt "field_survey_governance_7:#allowed_values:neither"
-msgid "Neither"
-msgstr "Нито едно от посочените"
-#: field:field_survey_governance_5_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_5_1:survey_governance_cooperation:label"
-msgid "5.1. Specific comments on the involvement of NRCP in decision-making processes regarding development of relevant policies"
-msgstr "5.1. Конкретни коментари за участието на националната контактна точка по въпросите на интегрирането на ромите в процеса на вземане на решения относно разработването на съответните политики"
-#: field:field_survey_governance_6:survey_governance_cooperation:label
-msgctxt "field_survey_governance_6:survey_governance_cooperation:label"
-msgid "6. What is the involvement of the NRCP in decision making processes regarding FUNDING of relevant policies?"
-msgstr "6. Какво е участието на националната контактна точка по въпросите на интегрирането на ромите в процеса на вземане на решения относно ФИНАНСИРАНЕТО на съответните политики?"
-#: field:field_survey_governance_6_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_6_1:survey_governance_cooperation:label"
-msgid "6.1. Specific comments on the involvement of NRCP in decision-making processes regarding funding of relevant policies."
-msgstr "6.1. Конкретни коментари за участието на националната контактна точка по въпросите на интегрирането на ромите в процеса на вземане на решения относно финансирането на съответните политики."
-#: field:field_survey_governance_7:survey_governance_cooperation:label
-msgctxt "field_survey_governance_7:survey_governance_cooperation:label"
-msgid "7. What is the involvement of the NRCP in decision making processes regarding IMPLEMENTATION of relevant policies?"
-msgstr "7. Какво е участието на националната контактна точка по въпросите на интегрирането на ромите в процеса на вземане на решения относно ИЗПЪЛНЕНИЕТО на съответните политики?"
-#: field:field_survey_governance_7_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_7_1:survey_governance_cooperation:label"
-msgid "7.1. Specific comments on the involvement of NRCP in decision-making processes regarding implementation of relevant policies."
-msgstr "7.1. Конкретни коментари за участието на националната контактна точка по въпросите на интегрирането на ромите в процеса на вземане на решения относно изпълнението на съответните политики."
-#: field:field_survey_governance_8:survey_governance_cooperation:label
-msgctxt "field_survey_governance_8:survey_governance_cooperation:label"
-msgid "8. Is the NRCP facilitating participation and involvement of (Roma) civil society in the implementation of NRIS (or Integrated set of policy measures…)?"
-msgstr "8. Националната контактна точка по въпросите на интегрирането на ромите улеснява ли участието и включването на (ромското) гражданско общество в изпълнението на националните стратегии за интегриране на ромите (или интегриран пакет от политически мерки...)?"
-#: field:field_survey_governance_8_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_8_1:survey_governance_cooperation:label"
-msgid "8.1. How does it facilitate the participation and involvement of Roma civil society? Please describe the process."
-msgstr "8.1. Как се улеснява участието и включването на ромското гражданско общество? Моля, опишете процеса."
-#: field:field_survey_governance_8_2:survey_governance_cooperation:label
-msgctxt "field_survey_governance_8_2:survey_governance_cooperation:label"
-msgid "8.2. Who are the stakeholders? Please list them."
-msgstr "8.2. Кои са заинтересованите страни? Моля, изброете ги."
-#: field:field_survey_governance_9:survey_governance_cooperation:label
-msgctxt "field_survey_governance_9:survey_governance_cooperation:label"
-msgid "9. Please list the stakeholders involved in the monitoring and evaluation of the NRIS (national, regional, public, civil, private)"
-msgstr "9. Моля, изброете заинтересованите страни, които участват в контрола и оценяването на националните стратегии за интегриране на ромите (национални, регионални, публични, граждански, частни)"
-#: field:field_survey_governance_10:survey_governance_cooperation:label
-msgctxt "field_survey_governance_10:survey_governance_cooperation:label"
-msgid "10. Is there a regular dialogue/cooperation established between the Equality body and the NRCP?"
-msgstr "10. Налице ли е редовен диалог/редовно сътрудничество между органа за равно третиране и националната точка за контакти по въпросите на интегрирането на ромите?"
-#: field:field_survey_governance_10_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_10_1:survey_governance_cooperation:label"
-msgid "10.1. If yes, please describe (structure, frequency)"
-msgstr "10.1. Ако сте отговорили с „Да“, моля, опишете (структура, честота)"
-#: field:field_survey_governance_11:survey_governance_cooperation:label
-msgctxt "field_survey_governance_11:survey_governance_cooperation:label"
-msgid "11. Do you have a baseline against which you assess progress for the implementation of your NRIS or set of policy measures?"
-msgstr "11. Имате ли база, въз основа на която оценявате напредъка в изпълнението на вашата национална стратегия за интегриране на ромите или пакет от политически мерки?"
-#: field:field_survey_governance_11_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_11_1:survey_governance_cooperation:label"
-msgid "11.1. If yes, please describe"
-msgstr "11.1. Ако отговорът е „Да“, моля, опишете"
-#: field:field_survey_governance_12:survey_governance_cooperation:label
-msgctxt "field_survey_governance_12:survey_governance_cooperation:label"
-msgid "12. Do you have measurable targets?"
-msgstr "12. Имате ли подлежащи на измерване цели?"
-#: field:field_survey_governance_12_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_12_1:survey_governance_cooperation:label"
-msgid "12.1. If yes, please describe"
-msgstr "12.1. Ако отговорът е „Да“, моля, опишете"
-msgid "Equal treatment"
-msgstr "Равно третиране"
-#: field:field_survey_equal_1:survey_equal_treatment:label
-msgctxt "field_survey_equal_1:survey_equal_treatment:label"
-msgid "1. Does your mandate include discrimination on the basis of race and ethnic origin?"
-msgstr "1. Вашият мандат включва ли дискриминацията въз основа на раса или етнически произход?"
-#: field:field_survey_equal_2:survey_equal_treatment:label
-msgctxt "field_survey_equal_2:survey_equal_treatment:label"
-msgid "2. Does your body have concerns as regards its institutional capacity/resources and/or independence?"
-msgstr "2. Вашият орган има ли опасения във връзка със своя институционален капацитет/своите ресурси и/или независимост?"
-#: field:field_survey_equal_2_1:survey_equal_treatment:label
-msgctxt "field_survey_equal_2_1:survey_equal_treatment:label"
-msgid "2.1. If yes, please describe"
-msgstr "2.1. Ако отговорът е „Да“, моля, опишете"
-#: field:field_survey_governance_12_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_12_1:survey_governance_cooperation:label"
-msgid "2.1. If yes, please describe"
-msgstr "2.1. Ако отговорът е „Да“, моля, опишете"
-#: field:field_survey_equal_3:survey_equal_treatment:label
-msgctxt "field_survey_equal_3:survey_equal_treatment:label"
-msgid "3. Can you report any Roma-specific measures or mainstream measures benefiting also the Roma/Travellers you have taken in (year X) for the promotion of the practical enforcement of Directive 2000/43/EC, either horizontal measures or in particular in the areas of education, employment, housing and health?"
-msgstr "3. Можете ли да докладвате за някакви свързани конкретно с ромите или общи мерки, които са от полза и за ромите, които сте взели през (година Х) за насърчаване на практическото изпълнение на Директива 2000/43/ЕО, като тези мерки могат да бъдат както хоризонтални, така и по-специално в областта на образованието, заетостта, жилищното настаняване и здравеопазването?"
-#: field:field_survey_equal_3:#allowed_values:projects
-msgctxt "field_survey_equal_3:#allowed_values:projects"
-msgid "Projects"
-msgstr "Проекти"
-#: field:field_survey_equal_3:#allowed_values:complaints
-msgctxt "field_survey_equal_3:#allowed_values:complaints"
-msgid "Complaints received"
-msgstr "Получени жалби"
-#: field:field_survey_equal_3:#allowed_values:cases
-msgctxt "field_survey_equal_3:#allowed_values:cases"
-msgid "Court cases pursued"
-msgstr "Заведени съдебни дела"
-#: field:field_survey_equal_3:#allowed_values:studies
-msgctxt "field_survey_equal_3:#allowed_values:studies"
-msgid "Studies"
-msgstr "Проучвания"
-#: field:field_survey_equal_3:#allowed_values:opinions
-msgctxt "field_survey_equal_3:#allowed_values:opinions"
-msgid "Opinions"
-msgstr "Становища"
-#: field:field_survey_equal_3:#allowed_values:recommendations
-msgctxt "field_survey_equal_3:#allowed_values:recommendations"
-msgid "Recommendations to the Government"
-msgstr "Препоръки към правителството"
-#: field:field_survey_equal_3:#allowed_values:proposals
-msgctxt "field_survey_equal_3:#allowed_values:proposals"
-msgid "Consultation on legislative proposals"
-msgstr "Консултации по законодателни предложения"
-#: field:field_survey_equal_4:survey_equal_treatment:label
-msgctxt "field_survey_equal_4:survey_equal_treatment:label"
-msgid "4. Has the situation (of the protection of Roma from discrimination) improved/remained the same/deteriorated in respect of the practical enforcement of Directive 2000/43/EC?"
-msgstr "4. Какво е положението (във връзка със защитата на ромите от дискриминация) по отношение на практическото изпълнение на Директива 2000/43/ЕО"
-#: field:field_survey_equal_4:#allowed_values:improved
-msgctxt "field_survey_equal_4:#allowed_values:improved"
-msgid "Improved"
-msgstr "Подобрено"
-#: field:field_survey_thematic_4:#allowed_values:improv
-msgctxt "field_survey_thematic_4:#allowed_values:improv"
-msgid "Improved"
-msgstr "Подобрено"
-#: field:field_survey_equal_4:#allowed_values:same
-msgctxt "field_survey_equal_4:#allowed_values:same"
-msgid "Remained the same"
-msgstr "Без промяна"
-#: field:field_survey_thematic_4:#allowed_values:remain
-msgctxt "field_survey_thematic_4:#allowed_values:remain"
-msgid "Remained the same"
-msgstr "Без промяна"
-#: field:field_survey_equal_4:#allowed_values:deteriorated
-msgctxt "field_survey_equal_4:#allowed_values:deteriorated"
-msgid "Deteriorated"
-msgstr "Влошено"
-#: field:field_survey_thematic_4:#allowed_values:deterior
-msgctxt "field_survey_thematic_4:#allowed_values:deterior"
-msgid "Deteriorated"
-msgstr "Влошено"
-#: field:field_survey_equal_5:survey_equal_treatment:label
-msgctxt "field_survey_equal_5:survey_equal_treatment:label"
-msgid "5. What were the main achievements? What made these achievements possible?"
-msgstr "5. Кои бяха основните постижения (през годината на докладване)  ? Какво ги направи възможни?"
-#: field:field_survey_equal_6:survey_equal_treatment:label
-msgctxt "field_survey_equal_6:survey_equal_treatment:label"
-msgid "6. What were the main challenges? What are the factors to be taken into account?"
-msgstr "6. Кои бяха основните предизвикателства(през годината на докладване) ? Кои фактори трябва да бъдат взети предвид?"
-msgid "7. Is there a regular dialogue/cooperation established between"
-msgstr "7. Налице ли е редовен диалог/редовно сътрудничество между"
-#: field:field_survey_equal_7:survey_equal_treatment:label
-msgctxt "field_survey_equal_7:survey_equal_treatment:label"
-msgid "the Equality body and the NRCP"
-msgstr "органа за равно третиране и националната точка за контакти по въпросите на интегрирането на ромите"
-#: field:field_survey_equal_7_1:survey_equal_treatment:label
-msgctxt "field_survey_equal_7_1:survey_equal_treatment:label"
-msgid "7.1. Please describe the cooperation (e.g. formal/informal)"
-msgstr "7.1. Моля, опишете сътрудничеството (например формално/неформално)"
-#: field:field_survey_equal_7_0:survey_equal_treatment:label
-msgctxt "field_survey_equal_7_0:survey_equal_treatment:label"
-msgid "or the Equality body and any other relevant institution (e.g. having a monitoring or regulatory role in the field of education, employment, housing, health)?"
-msgstr "или органа за равно третиране и всяка друга имаща отношение към въпроса институция (например изпълняваща контролна или регулаторна роля в областта на образованието, заетостта, жилищното настаняване, здравеопазването)?"
-#: field:field_survey_equal_7_2:survey_equal_treatment:label
-msgctxt "field_survey_equal_7_2:survey_equal_treatment:label"
-msgid "7.2. Please specify with which institution and describe the cooperation (e.g. formal/informal)"
-msgstr "7.2. Моля, уточнете с коя институция и опишете сътрудничеството  (например формално/неформално)"
-msgid "Concluding remarks (Conclusion)"
-msgstr "Заключителни бележки (Заключение)"
-#: field:field_survey_concluding_1:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_1:survey_concluding_remarks:label"
-msgid "1. Please enter comments that did not fit into the other parts of the reporting tool"
-msgstr "1. Моля, въведете коментари, които не сте успели да включите в другите части на инструмента за докладване"
-#: field:field_survey_concluding_2:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_2:survey_concluding_remarks:label"
-msgid "2. Indicate the most promising measures (max 3 per area) targeted and mainstream"
-msgstr "2. Посочете най-обещаващите мерки (максимум 3 от област) — специфични и общи"
-#: field:field_survey_concluding_3:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_3:survey_concluding_remarks:label"
-msgid "3. Please summarise the main achievements, and challenges for the year of reporting"
-msgstr "3. Моля, обобщете основните постижения и предизвикателства през годината на докладване"
-#: field:field_survey_concluding_4:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_4:survey_concluding_remarks:label"
-msgid "4. What were the main factors contributing to this and the lessons learnt?"
-msgstr "4. Кои бяха основните фактори, допринесли за това, и какви бяха поуките?"
-msgid "5. Please report on any pertinent legislative measure that was adopted in the year of reporting"
-msgstr "5. Моля, докладвайте за всяка подходяща законодателна мярка, приета през годината на докладване"
-#: field:field_survey_concluding_5_1:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_5_1:survey_concluding_remarks:label"
-msgid "5.1. Date of entry into force"
-msgstr "5.1. Дата на влизане в сила"
-#: field:field_survey_concluding_5_2_0:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_5_2_0:survey_concluding_remarks:label"
-msgid "5.2. Please describe the legislative measure"
-msgstr "5.2. Моля, опишете законодателната мярка"
-#: field:field_survey_concluding_5_3:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_5_3:survey_concluding_remarks:label"
-msgid "5.3. Please describe the expected impact of this legislative measure on Roma"
-msgstr "5.3. Моля, опишете очаквания ефект на тази законодателна мярка върху ромите"
-msgid "Attachments & links"
-msgstr "Прикачени файлове и връзки"
-#: field:field_survey_attachments_1:survey_attachments_links:label
-msgctxt "field_survey_attachments_1:survey_attachments_links:label"
-msgid "Files"
-msgstr "Файлове"
-msgid "Add a new file"
-msgstr "Добавяне на нов файл"
-msgid "Browse"
-msgstr "Търсене"
-msgid "No files selected"
-msgstr "Не са избрани файлове"
-msgid "Upload"
-msgstr "Качване"
-msgid "Files must be less than"
-msgstr "Файловете трябва да бъдат по-малко от"
-msgid "Allowed file types"
-msgstr "Разрешени видове файлове"
-#: field:field_survey_attachments_2:survey_attachments_links:label
-msgctxt "field_survey_attachments_2:survey_attachments_links:label"
-msgid "Links"
-msgstr "Връзки"
-msgid "Add another item"
-msgstr "Добавяне на друг елемент"
-msgid "Select a value"
-msgstr "Избор на стойност"
-#: field:field_survey_funding_allocated:survey_funding:setting_add
-msgctxt "field_survey_funding_allocated:survey_funding:setting_add"
-msgid "Add"
-msgstr "Добавяне"
-#: field:field_survey_funding_allocated:survey_measure:setting_add
-msgctxt "field_survey_funding_allocated:survey_measure:setting_add"
-msgid "Add"
-msgstr "Добавяне"
-#: field:field_survey_funding_spent:survey_funding:setting_add
-msgctxt "field_survey_funding_spent:survey_funding:setting_add"
-msgid "Add"
-msgstr "Добавяне"
-#: field:field_survey_funding_spent:survey_measure:setting_add
-msgctxt "field_survey_funding_spent:survey_measure:setting_add"
-msgid "Add"
-msgstr "Добавяне"
-#: field:field_survey_governance_1:survey_governance_cooperation:setting_add
-msgctxt "field_survey_governance_1:survey_governance_cooperation:setting_add"
-msgid "Add"
-msgstr "Добавяне"
-#: field:field_survey_governance_2:survey_governance_cooperation:setting_add
-msgctxt "field_survey_governance_2:survey_governance_cooperation:setting_add"
-msgid "Add"
-msgstr "Добавяне"
-#: field:field_survey_total_allocated:survey_thematic_area:setting_add
-msgctxt "field_survey_total_allocated:survey_thematic_area:setting_add"
-msgid "Add"
-msgstr "Добавяне"
-#: field:field_survey_total_spent:survey_thematic_area:setting_add
-msgctxt "field_survey_total_spent:survey_thematic_area:setting_add"
-msgid "Add"
-msgstr "Добавяне"
-msgid "Save"
-msgstr "Запазване"
-#: field:field_country_policy_measure:countries:label
-msgctxt "field_country_policy_measure:countries:label"
-msgid "Policy measure"
-msgstr "Политическа мярка"
-#: field:field_country_policy_measure:#allowed_values:strategy
-msgctxt "field_country_policy_measure:#allowed_values:strategy"
-msgid "has a National Roma Integration Strategy"
-msgstr "има национална стратегия за интегриране на ромите"
-#: field:field_country_policy_measure:#allowed_values:integrated
-msgctxt "field_country_policy_measure:#allowed_values:integrated"
-msgid "has an Integrated set of policy measures within the broader social inclusion policies for improving the situation of Roma"
-msgstr "има интегриран пакет от политически мерки в рамките на по-широките политики за социално приобщаване за подобряване на положението на ромите"
-msgid "Thematic areas"
-msgstr "Тематични области"
-msgid "Education"
-msgstr "Образование"
-msgid "a) eliminate any school segregation"
-msgstr "а) премахване на всякаква сегрегация в училище;"
-msgid "b) put an end to any inappropriate placement of Roma pupils in special needs schools"
-msgstr "б) слагане край на всякакви неоснователни записвания на ромски ученици в училища за деца със специални нужди;"
-msgid "c) reduce early school leaving"
-msgstr "в) намаляване на процента на преждевременно напусналите училище;"
-msgid "d) increase the access to, and quality of, early childhood education and care"
-msgstr "г) повишаване на достъпа до образование и грижи в ранна детска възраст, както и на тяхното качество;"
-msgid "e) consider the needs of individual pupils in close cooperation with their families"
-msgstr "д) отчитане на нуждите на отделните ученици в тясно сътрудничество със семейството;"
-msgid "f) use inclusive and tailor-made teaching and learning methods"
-msgstr "е) използване на приобщаващи и персонализирани методи на преподаване и учене;"
-msgid "g) fight illiteracy"
-msgstr "ж) борба с неграмотността;"
-msgid "h) promote the availability and use of extracurricular activities"
-msgstr "з) насърчаване на осигуряването и използването на извънкласни дейности;"
-msgid "i) encourage greater parental involvement"
-msgstr "и) насърчаване на по-активното участие на родителите;"
-msgid "j) improve teacher training"
-msgstr "й) подобряване на подготовката на учителите;"
-msgid "k) encourage Roma participation in and completion of secondary and tertiary education"
-msgstr "к) насърчаване участието на ромите в цикъла на обучение и завършването на средно и висше образование;"
-msgid "l) widen access to second-chance education and adult learning"
-msgstr "л) разширяване на достъпа до втори шанс за образование и учене за възрастни;"
-msgid "m) provide support for the transition between educational levels"
-msgstr "м) оказване на подкрепа за преминаването между различните степени на образование;"
-msgid "n) provide support for the acquisition of skills that are adapted to the needs of the labour market"
-msgstr "н) оказване на подкрепа за придобиването на умения, съобразени с нуждите на пазара на труда"
-msgid "Employment"
-msgstr "Заетост"
-msgid "a) support first work experience"
-msgstr "а) подпомагане на първоначалния професионален опит;"
-msgid "b) support vocational training"
-msgstr "б) подпомагане на професионалното обучение;"
-msgid "c) support on-the-job training"
-msgstr "в) подпомагане на обучението в процеса на работа;"
-msgid "d) support lifelong learning and skills development"
-msgstr "г) подпомагане на ученето през целия живот и развитието на уменията;"
-msgid "e) support self-employment and entrepreneurship"
-msgstr "д) насърчаване на самостоятелната заетост и предприемачеството;"
-msgid "f) provide equal access to mainstream public employment services"
-msgstr "е) предоставяне на равен достъп до основните обществени служби по заетостта;"
-msgid "g) support individual job-seekers, focusing on personalised guidance and individual action planning"
-msgstr "ж) услуги в подкрепа на отделни търсещи работа, с акцент върху индивидуалното професионално ориентиране и индивидуалното планиране на действията;"
-msgid "h) promote employment opportunities within the civil service"
-msgstr "з) насърчаване на възможностите за наемане на държавна служба;"
-msgid "i) eliminate barriers, including discrimination, to (re)entering the labour market"
-msgstr "и) премахване на пречките, в това число и дискриминацията, пред (повторното) навлизане(то) на пазара на труда"
-msgid "Healthcare"
-msgstr "Здравеопазване"
-msgid "a) remove any barriers to access the healthcare system accessible for the general population"
-msgstr "а) премахване на всички пречки пред достъпа до системата на здравеопазване, която е достъпна за цялото население;"
-msgid "b) improve access to medical check-ups, prenatal and postnatal care and family planning, as well as sexual and reproductive healthcare, generally provided by national healthcare services"
-msgstr "б) подобряване на достъпа до медицински прегледи, грижи преди и след раждането и семейно планиране, както и до сексуалното и репродуктивното здравеопазване, които се предоставят на общо основание от националните служби за здравеопазване;"
-msgid "c) improve access to free vaccination programmes targeting children"
-msgstr "в) подобряване на достъпа до програми за безплатна ваксинация, насочени към децата;"
-msgid "d) improve access to vaccination programmes targeting the groups most at risk and/or those living in marginalised and/or remote areas"
-msgstr "г) подобряване на достъпа до програми за ваксинация, насочени по-специално към най-силно изложените на рискове групи и/или към живеещите в маргинализирани и/или отдалечени райони;"
-msgid "e) promote awareness of health and healthcare issues"
-msgstr "д) насърчаване осведомеността по въпросите на здравето и здравеопазването."
-msgid "Housing"
-msgstr "Жилищно настаняване"
-msgid "a) eliminate any spatial segregation and promoting desegregation"
-msgstr "а) премахване на всякаква пространствена сегрегация и насърчаване на десегрегацията;"
-msgid "b) promote non-discriminatory access to social housing"
-msgstr "б) насърчаване на недискриминационния достъп до настаняване в социални жилища;"
-msgid "c) provide halting sites for non-sedentary Roma, in proportion to local needs"
-msgstr "в) осигуряване на места за престой на ромите, водещи неуседнал начин на живот, пропорционално на местните нужди;"
-msgid "d) ensure access to public utilities (such as water, electricity and gas) and infrastructure for housing in compliance with national legal requirements"
-msgstr "г) осигуряване на достъп до комунални услуги (например вода, електричество и газ) и инфраструктура за жилищата, в съответствие с националните нормативни изисквания;"
-msgid "e) ensure that applications from local authorities for urban regeneration projects include integrated housing interventions in favour of marginalised communities"
-msgstr "д) гарантиране, че кандидатурите на местните органи по проекти за обновление на градската среда включват интегрирани интервенции по отношение на жилищното настаняване в полза на маргинализирани общности;"
-msgid "f) promote community-led local development and/or integrated territorial investments supported by the ESIF"
-msgstr "е) насърчаване на ръководеното от местните общности развитие и/или интегрираните териториални инвестиции, подпомагани по линия на ЕСИ фондовете"
-msgid "Anti-discrimination"
-msgstr "Анти-дискриминация"
-msgid "By legal means"
-msgstr "Чрез законови средства"
-msgid "a) ensure the effective practical enforcement of Directive 2000/43/EC"
-msgstr "а) гарантиране на ефективното практическо прилагане на Директива 2000/43/ЕО;"
-msgid "b) Implement desegregation measures both regionally and locally"
-msgstr "б) прилагане на мерки за десегрегация на регионално и местно равнище;"
-msgid "c) Combat anti-Roma rhetoric and hate speech"
-msgstr "в) борба с антиромската реторика и слово на омраза;"
-msgid "d) ensure that eviction are in full compliance with Union law as well with other international human rights obligations"
-msgstr "г) гарантиране, в случай на принудително изселване, на пълното спазване на правото на Съюза, както и на останалите международни задължения в областта на правата на човека;"
-msgid "By awareness raising"
-msgstr "Чрез повишаване на осведомеността"
-msgid "e) Combat anti-Gypsyism by raising awareness about the benefits of Roma integration"
-msgstr "д) борба срещу дискриминацията и предразсъдъците по отношение на ромите чрез повишаване на осведомеността за ползите от интегрирането на ромите;"
-msgid "f) Combat anti-Gypsyism by sensitising public opinion to the inclusion problems Roma face"
-msgstr "е) борба срещу дискриминацията и предразсъдъците по отношение на ромите чрез засилване на чувствителността на общественото мнение към проблемите, свързани с приобщаването на ромите"
-msgid "Multiple discrimination"
-msgstr "Многостранна дискриминация"
-msgid "a) fight violence, including domestic violence, against women and girls"
-msgstr "а) борба срещу насилието, включително домашното насилие, спрямо жените и момичетата;"
-msgid "b) fight trafficking in human beings"
-msgstr "б) борба срещу трафика на хора;"
-msgid "c) fight underage and forced marriages"
-msgstr "в) борба срещу браковете на непълнолетни и принудителните бракове;"
-msgid "d) fight begging involving children, in particular through the enforcement of legislation"
-msgstr "г) борба срещу просията, в която са въвлечени деца, по-специално чрез прилагане на законодателството;"
-msgid "e) promote the involvement in this exercise of all relevant actors including public authorities, civil society and Roma communities"
-msgstr "д) насърчаване на участието в тези дейности на всички заинтересовани страни, в т.ч. публичните органи, гражданското общество и ромските общности;"
-msgid "f) promote the cooperation between Member States in situations with a cross-border dimension"
-msgstr "е) насърчаване на сътрудничеството между държавите членки при ситуации с трансгранични измерения"
-msgid "Poverty reduction through social investment"
-msgstr "Намаляване на бедността чрез социални инвестиции"
-msgid "a) support Roma at all stages of their lives, including by investing in good-quality inclusive early childhood education and care, targeted youth guarantee schemes, life-long learning and active ageing measures"
-msgstr "а) подкрепа за ромите на всички етапи от живота им, включително чрез инвестиции в качествено приобщаващо образование и грижи от ранна детска възраст, целенасочени схеми в контекста на „гаранция за младежта“, учене през целия живот и мерки за активен живот на възрастните хора;"
-msgid "b) pursue policies of activation and enablement"
-msgstr "б) прилагане на политики за активно и пълноправно участие в обществения живот;"
-msgid "c) support (re)entry to the labour market through targeted or mainstream employment support schemes"
-msgstr "в) подпомагане на (повторното) излизане(то) на пазара на труда чрез целенасочени или общи схеми в подкрепа на заетостта;"
-msgid "d) promote inclusive labour market by addressing discrimination in the workplace"
-msgstr "г) насърчаването на един приобщаващ пазар на труда чрез преодоляване на дискриминацията на работното място;"
-msgid "e) make social benefits and social services granted to the disadvantaged, more adequate and sustainable"
-msgstr "д) повишаване адекватността и устойчивостта на социалните обезщетения и социалните услуги, предоставяни съгласно националното законодателство на хората в неравностойно положение"
-msgid "Empowerment"
-msgstr "Възможности за реализация"
-msgid "a) support the active citizenship of Roma by promoting their social, economic, political and cultural participation in society"
-msgstr "а) подкрепа за активното гражданско участие на ромите чрез насърчаване на тяхното социално, икономическо, политическо и културно участие в обществения живот;"
-msgid "b) promote the training and employment of qualified mediators dedicated to Roma"
-msgstr "б) насърчаване на обучението и наемането на квалифицирани медиатори, работещи изключително с ромите;"
-msgid "c) further raise awareness among Roma of their rights (notably in relation to discrimination and the possibilities of seeking redress) and of their civic duties"
-msgstr "в) извършване на информационни дейности за допълнително повишаване на осведомеността сред ромите относно техните права (особено по отношение на дискриминацията и възможностите за търсене на правни средства за защита) и гражданските им задължения"
-msgid "Local action"
-msgstr "Действия на местно равнище"
-msgid "a) encourage regional and local authorities to develop local action plans or strategies"
-msgstr "а) насърчаване на регионалните и местните органи да разработват местни планове за действие или стратегии;"
-msgid "b) involve regional and local authorities and local civil society in developing, implementing and monitoring their national strategies or integrated sets of policy measures"
-msgstr "б) ангажиране на регионалните и местните органи и местното гражданско общество в разработването, прилагането и наблюдението на националните стратегии или интегрирани пакети от политически мерки;"
-msgid "c) support local public authorities so as to facilitate the implementation of sets of policy measures at local level."
-msgstr "в) осигуряване на подкрепа за местните публични органи, за да се улесни прилагането на пакети от политически мерки на местно равнище;"
-msgid "d) strive at the local level for an integrated approach concerning families with a Roma background facing multiple problems and strengthen the capacity of local authorities in this respect"
-msgstr "г) полагане на усилия на местно равнище за прилагане на интегриран подход по отношение на семействата с ромски произход, които са изправени пред редица проблеми, и укрепване на капацитета на местните органи в това отношение"
-msgid "Monitoring and Evaluation"
-msgstr "Наблюдение и оценка"
-msgid "a) set baselines or measurable targets"
-msgstr "а)  определяне на изходни равнища или измерими цели;"
-msgid "b) collect relevant qualitative or quantitative data on the social and economic effects of integration strategies or measures"
-msgstr "б) събиране на качествени или количествени данни за социалните и икономическите последици от тези стратегии или мерки;"
-msgid "c) use relevant core indicators or methods of empirical social research"
-msgstr "в) използване на съответните основни показатели или методи за емпирично социално проучване;"
-msgid "d) use data collection for monitoring and evaluating progress on a regular basis, particularly at the local level"
-msgstr "г) използване на събирането на данни за редовно наблюдение и оценка на напредъка, особено на местно равнище"
-msgid "Transnational Cooperation"
-msgstr "Транснационално сътрудничество"
-msgid "a) encourage development of transnational cooperation at national, regional or local level through policy initiatives and projects implementation"
-msgstr "а) насърчаване на разработването на транснационални форми на сътрудничество на национално, регионално или местно равнище чрез политически инициативи и изпълнение на проекти;"
-msgid "b) coordinate on issues related to the cross-border mobility of Roma within the Union"
-msgstr "б) координиране по въпроси, свързани с трансграничната мобилност на ромите в рамките на Съюза;"
-msgid "c) support mutual learning and the multiplication of good practices"
-msgstr "в) подпомагане на взаимното обучение и разпространението на добри практики"
-msgid "Culture"
-msgstr "Култура"
-#: field:field_survey_gi_data_options:#allowed_values:other
-msgctxt "field_survey_gi_data_options:#allowed_values:other"
-msgid "Other"
-msgstr "Други"
-#: field:field_survey_measure_11_1:#allowed_values:other
-msgctxt "field_survey_measure_11_1:#allowed_values:other"
-msgid "Other"
-msgstr "Други"

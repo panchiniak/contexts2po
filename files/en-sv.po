@@ -1,1266 +1,0 @@
-msgid "﻿General Information"
-msgstr "Allmänna uppgifter"
-#: field:field_survey_gi_year:survey_general_information:label
-msgctxt "field_survey_gi_year:survey_general_information:label"
-msgid "1. Reporting year"
-msgstr "1. Rapporteringsår"
-#: field:field_survey_gi_country:survey_general_information:label
-msgctxt "field_survey_gi_country:survey_general_information:label"
-msgid "2. Country"
-msgstr "2. Land"
-#: field:field_survey_gi_comments:survey_general_information:label
-msgctxt "field_survey_gi_comments:survey_general_information:label"
-msgid "3. Country specific comments"
-msgstr "3. Landsspecifika kommentarer"
-#: field:field_survey_gi_institution:survey_general_information:label
-msgctxt "field_survey_gi_institution:survey_general_information:label"
-msgid "4. Name of the institution acting as NRCP"
-msgstr "4. Institution som är nationell kontaktpunkt för romer"
-#: field:field_survey_gi_person:survey_general_information:label
-msgctxt "field_survey_gi_person:survey_general_information:label"
-msgid "5. Name of the person reporting on behalf of the NRCP"
-msgstr "5. Person som rapporterar på den nationella kontaktpunktens vägnar"
-#: field:field_survey_gi_phone:survey_general_information:label
-msgctxt "field_survey_gi_phone:survey_general_information:label"
-msgid "6. Phone number"
-msgstr "6. Telefonnummer"
-#: field:field_survey_gi_email:survey_general_information:label
-msgctxt "field_survey_gi_email:survey_general_information:label"
-msgid "7. E-mail"
-msgstr "7. E-postadress"
-#: field:field_survey_gi_data_options:survey_general_information:label
-msgctxt "field_survey_gi_data_options:survey_general_information:label"
-msgid "8. Options for data collection in the Member State"
-msgstr "8. Hur samlas uppgifterna in i ditt land?\nFrågor om etnisk självidentifikation i folkräkningen"
-#: field:field_survey_gi_data_options:#allowed_values:population_census
-msgctxt "field_survey_gi_data_options:#allowed_values:population_census"
-msgid "Questions on ethnic self-identification included in the Population Census"
-msgstr "Frågor om etnisk självidentifikation i folkräkningen"
-#: field:field_survey_gi_data_options:#allowed_values:european_social_surveys
-msgctxt "field_survey_gi_data_options:#allowed_values:european_social_surveys"
-msgid "Questions on ethnic self-identification included in the standardized European Social Surveys (EU SILC, Labour Force Survey etc.)"
-msgstr "Frågor om etnisk självidentifikation i de standardiserade europeiska samhällsundersökningarna (t.ex. EU Silc och arbetskraftsundersökningen)"
-#: field:field_survey_gi_data_options:#allowed_values:proxies
-msgctxt "field_survey_gi_data_options:#allowed_values:proxies"
-msgid "Proxies of ethnic identity used in the Population Census or in the standardized European Social Surveys (e.g. mother tongue)"
-msgstr "Uttryck för etnisk identitet i folkräkningen eller de standardiserade europeiska samhällsundersökningarna (t.ex. modersmål)"
-#: field:field_survey_gi_data_options:#allowed_values:sociological_surveys
-msgctxt "field_survey_gi_data_options:#allowed_values:sociological_surveys"
-msgid "Questions on ethnic identity asked in custom sociological surveys"
-msgstr "Frågor om etnisk identitet i sociologiska undersökningar"
-#: field:field_survey_gi_data_options:#allowed_values:qualitative_research
-msgctxt "field_survey_gi_data_options:#allowed_values:qualitative_research"
-msgid "Qualitative research (focus groups, structured interviews with members of ethnic groups)"
-msgstr "Kvalitativ forskning (fokusgrupper, strukturerade intervjuer med medlemmar av etniska grupper)"
-#: field:field_survey_gi_data_options:#allowed_values:territorial_mapping
-msgctxt "field_survey_gi_data_options:#allowed_values:territorial_mapping"
-msgid "Territorial mapping (experts’ estimates of the distribution of the population at municipal level or other territorial units)"
-msgstr "Geografisk kartläggning (expertberäkningar av befolkningsfördelningen i kommuner eller andra territoriella enheter)"
-#: field:field_survey_gi_data_options:#allowed_values:not_collected
-msgctxt "field_survey_gi_data_options:#allowed_values:not_collected"
-msgid "Data disaggregated by ethnicity are not collected"
-msgstr "Vi samlar inte in uppgifter som är uppdelade efter etnisk tillhörighet"
-#: field:field_survey_gi_data_options:#allowed_values:other
-msgctxt "field_survey_gi_data_options:#allowed_values:other"
-msgid "Other"
-msgstr "Annat"
-#: field:field_survey_measure_11_1:#allowed_values:other
-msgctxt "field_survey_measure_11_1:#allowed_values:other"
-msgid "Other"
-msgstr "Annat"
-#: field:field_survey_gi_other_options:survey_general_information:label
-msgctxt "field_survey_gi_other_options:survey_general_information:label"
-msgid "8.1. If other options, please specify …"
-msgstr "8.1. Om annat, beskriv närmare"
-msgid "Measures (Measure)"
-msgstr "Åtgärder (Åtgärd)"
-#: field:field_survey_measure_1:survey_measure:label
-msgctxt "field_survey_measure_1:survey_measure:label"
-msgid "1. Title of the measure"
-msgstr "1. Åtgärdens namn"
-#: field:field_survey_measure_2:survey_measure:label
-msgctxt "field_survey_measure_2:survey_measure:label"
-msgid "2. Implemented by"
-msgstr "2. Genomförd av"
-#: field:field_survey_measure_2:#allowed_values:my
-msgctxt "field_survey_measure_2:#allowed_values:my"
-msgid "My organisation"
-msgstr "Min organisation"
-#: field:field_survey_measure_2:#allowed_values:other
-msgctxt "field_survey_measure_2:#allowed_values:other"
-msgid "Other organisation"
-msgstr "Annan organisation"
-#: field:field_survey_measure_2_1:survey_measure:label
-msgctxt "field_survey_measure_2_1:survey_measure:label"
-msgid "2.1. Organisation type"
-msgstr "2.1. Typ av organisation"
-#: field:field_survey_measure_2_1:#allowed_values:loc_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_pub"
-msgid "Local public authority"
-msgstr "Lokal myndighet"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_pub"
-msgid "Local public authority"
-msgstr "Lokal myndighet"
-#: field:field_survey_measure_2_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_civ"
-msgid "Local civil society"
-msgstr "Lokal civilsamhällesorganisation"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_civ"
-msgid "Local civil society"
-msgstr "Lokal civilsamhällesorganisation"
-#: field:field_survey_measure_2_1:#allowed_values:loc_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_priv"
-msgid "Local private sector entity"
-msgstr "Lokalt organ i den privata sektorn"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_priv"
-msgid "Local private sector entity"
-msgstr "Lokalt organ i den privata sektorn"
-#: field:field_survey_measure_2_1:#allowed_values:reg_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_pub"
-msgid "Regional public authority"
-msgstr "Regional myndighet"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_pub"
-msgid "Regional public authority"
-msgstr "Regional myndighet"
-#: field:field_survey_measure_2_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_civ"
-msgid "Regional civil society"
-msgstr "Regional civilsamhällesorganisation"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_civ"
-msgid "Regional civil society"
-msgstr "Regional civilsamhällesorganisation"
-#: field:field_survey_measure_2_1:#allowed_values:reg_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_priv"
-msgid "Regional private sector entity"
-msgstr "Regionalt organ i den privata sektorn"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_priv"
-msgid "Regional private sector entity"
-msgstr "Regionalt organ i den privata sektorn"
-#: field:field_survey_measure_2_1:#allowed_values:nat_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_pub"
-msgid "National public authority"
-msgstr "Nationell myndighet"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_pub"
-msgid "National public authority"
-msgstr "Nationell myndighet"
-#: field:field_survey_measure_2_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_civ"
-msgid "National civil society"
-msgstr "Nationell civilsamhällesorganisation"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_civ"
-msgid "National civil society"
-msgstr "Nationell civilsamhällesorganisation"
-#: field:field_survey_measure_2_1:#allowed_values:nat_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_priv"
-msgid "National private sector entity"
-msgstr "Nationellt organ i den privata sektorn"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_priv"
-msgid "National private sector entity"
-msgstr "Nationellt organ i den privata sektorn"
-#: field:field_survey_measure_2_1:#allowed_values:tra_pub
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_pub"
-msgid "Transnational public organisation"
-msgstr "Internationell offentlig organisation"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_pub
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_pub"
-msgid "Transnational public organisation"
-msgstr "Internationell offentlig organisation"
-#: field:field_survey_measure_2_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_civ"
-msgid "Transnational civil society"
-msgstr "Internationell civilsamhällesorganisation"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_civ"
-msgid "Transnational civil society"
-msgstr "Internationell civilsamhällesorganisation"
-#: field:field_survey_measure_2_1:#allowed_values:tra_priv
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_priv"
-msgid "Transnational private sector entity"
-msgstr "Internationellt organ i den privata sektorn"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_priv
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_priv"
-msgid "Transnational private sector entity"
-msgstr "Internationellt organ i den privata sektorn"
-#: field:field_survey_measure_2_1:#allowed_values:part
-msgctxt "field_survey_measure_2_1:#allowed_values:part"
-msgid "Partnership"
-msgstr "Partnerskap"
-#: field:field_survey_measure_2_1_1:survey_measure:label
-msgctxt "field_survey_measure_2_1_1:survey_measure:label"
-msgid "2.1.1. If partnership, please select the type"
-msgstr "2.1.1. Ange typ av partnerskap"
-#: field:field_survey_measure_3:survey_measure:label
-msgctxt "field_survey_measure_3:survey_measure:label"
-msgid "3. Is the measure part of the implementation plan of…"
-msgstr "3. Ingår åtgärden i någon av följande typer av genomförandeplaner?"
-#: field:field_survey_measure_3:#allowed_values:nris
-msgctxt "field_survey_measure_3:#allowed_values:nris"
-msgid "NRIS or integrated sets of policy measures on Roma"
-msgstr "Nationell strategi för integrering av romer eller integrerade politiska åtgärder för romer"
-#: field:field_survey_measure_3:#allowed_values:nat
-msgctxt "field_survey_measure_3:#allowed_values:nat"
-msgid "Other – another national level plan"
-msgstr "Annan – nationell plan"
-#: field:field_survey_measure_3:#allowed_values:reg
-msgctxt "field_survey_measure_3:#allowed_values:reg"
-msgid "Other – a regional or local level plan"
-msgstr "Annan – regional eller lokal plan"
-#: field:field_survey_measure_3_1:survey_measure:label
-msgctxt "field_survey_measure_3_1:survey_measure:label"
-msgid "3.1. If other, enter the source"
-msgstr "3.1. Om annan, ange källan"
-#: field:field_survey_measure_4:survey_measure:label
-msgctxt "field_survey_measure_4:survey_measure:label"
-msgid "4. Detailed description of the measure"
-msgstr "4. Detaljerad beskrivning av åtgärden"
-#: field:field_survey_measure_5:survey_measure:label
-msgctxt "field_survey_measure_5:survey_measure:label"
-msgid "5. Is it a mainstream or Roma targeted measure?"
-msgstr "5. Är det en allmän eller riktad åtgärd?"
-#: field:field_survey_measure_5:#allowed_values:main
-msgctxt "field_survey_measure_5:#allowed_values:main"
-msgid "Mainstream"
-msgstr "Allmän"
-#: field:field_survey_measure_5:#allowed_values:target
-msgctxt "field_survey_measure_5:#allowed_values:target"
-msgid "Targeted"
-msgstr "Riktad"
-#: field:field_survey_measure_5_1:survey_measure:label
-msgctxt "field_survey_measure_5_1:survey_measure:label"
-msgid "5.1. If mainstream, does the measure have explicit safeguards to secure equal access of various vulnerable people (including vulnerable Roma) to mainstreamed measures and prevent indirect discrimination?"
-msgstr "5.1. Har den allmänna åtgärden uttryckliga garantier för att utsatta människor (t.ex. utsatta romer) får samma tillgång till åtgärden och skyddas mot indirekt diskriminering?"
-#: field:field_survey_equal_1:#allowed_values:yes
-msgctxt "field_survey_equal_1:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_equal_2:#allowed_values:yes
-msgctxt "field_survey_equal_2:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_equal_7:#allowed_values:yes
-msgctxt "field_survey_equal_7:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_equal_7_0:#allowed_values:yes
-msgctxt "field_survey_equal_7_0:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_funding_1:#allowed_values:yes
-msgctxt "field_survey_funding_1:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_funding_5:#allowed_values:yes
-msgctxt "field_survey_funding_5:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_funding_6:#allowed_values:yes
-msgctxt "field_survey_funding_6:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_funding_7:#allowed_values:yes
-msgctxt "field_survey_funding_7:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_funding_8:#allowed_values:yes
-msgctxt "field_survey_funding_8:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_governance_10:#allowed_values:yes
-msgctxt "field_survey_governance_10:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_governance_11:#allowed_values:yes
-msgctxt "field_survey_governance_11:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_governance_12:#allowed_values:yes
-msgctxt "field_survey_governance_12:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_governance_8:#allowed_values:yes
-msgctxt "field_survey_governance_8:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_measure_10:#allowed_values:yes
-msgctxt "field_survey_measure_10:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_measure_11:#allowed_values:yes
-msgctxt "field_survey_measure_11:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_measure_13:#allowed_values:yes
-msgctxt "field_survey_measure_13:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_measure_5_1:#allowed_values:yes
-msgctxt "field_survey_measure_5_1:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_thematic_5:#allowed_values:yes
-msgctxt "field_survey_thematic_5:#allowed_values:yes"
-msgid "Yes"
-msgstr "Ja"
-#: field:field_survey_equal_1:#allowed_values:no
-msgctxt "field_survey_equal_1:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_equal_2:#allowed_values:no
-msgctxt "field_survey_equal_2:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_equal_7:#allowed_values:no
-msgctxt "field_survey_equal_7:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_equal_7_0:#allowed_values:no
-msgctxt "field_survey_equal_7_0:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_funding_1:#allowed_values:no
-msgctxt "field_survey_funding_1:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_funding_5:#allowed_values:no
-msgctxt "field_survey_funding_5:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_funding_6:#allowed_values:no
-msgctxt "field_survey_funding_6:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_funding_7:#allowed_values:no
-msgctxt "field_survey_funding_7:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_funding_8:#allowed_values:no
-msgctxt "field_survey_funding_8:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_governance_10:#allowed_values:no
-msgctxt "field_survey_governance_10:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_governance_11:#allowed_values:no
-msgctxt "field_survey_governance_11:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_governance_12:#allowed_values:no
-msgctxt "field_survey_governance_12:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_governance_8:#allowed_values:no
-msgctxt "field_survey_governance_8:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_measure_10:#allowed_values:no
-msgctxt "field_survey_measure_10:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_measure_11:#allowed_values:no
-msgctxt "field_survey_measure_11:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_measure_13:#allowed_values:no
-msgctxt "field_survey_measure_13:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_measure_5_1:#allowed_values:no
-msgctxt "field_survey_measure_5_1:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_thematic_5:#allowed_values:no
-msgctxt "field_survey_thematic_5:#allowed_values:no"
-msgid "No"
-msgstr "Nej"
-#: field:field_survey_measure_5_1_1:survey_measure:label
-msgctxt "field_survey_measure_5_1_1:survey_measure:label"
-msgid "5.1.1 If yes, what are those safeguards? Please describe in more details? What is the budget allocated for these safeguards?"
-msgstr "5.1.1 Vilka är garantierna? Kan du beskriva närmare? Vad är budgeten för garantierna?"
-#: field:field_survey_measure_6:survey_measure:label
-msgctxt "field_survey_measure_6:survey_measure:label"
-msgid "6. What is the duration of the measure?"
-msgstr "6. Åtgärdens varaktighet"
-#: field:field_survey_measure_7:survey_measure:label
-msgctxt "field_survey_measure_7:survey_measure:label"
-msgid "7. Please describe the results of this measure"
-msgstr "7. Beskriv åtgärdens resultat"
-#: field:field_survey_measure_8:survey_measure:label
-msgctxt "field_survey_measure_8:survey_measure:label"
-msgid "8. Please comment on the lessons learned from this measure"
-msgstr "8. Vad har ni lärt er av åtgärden?"
-#: field:field_survey_measure_9:survey_measure:label
-msgctxt "field_survey_measure_9:survey_measure:label"
-msgid "9. Please select up to 3 areas and sub-areas most related to this measure (in accordance with the 2013 Council Recommendation)"
-msgstr "9. Välj de områden och underområden (högst tre) som är mest relevanta för åtgärden (i enlighet med rådets rekommendation från 2013)"
-msgid "Thematic areas"
-msgstr "Tematiska områden"
-msgid "Nothing has been selected."
-msgstr "Du har inte valt något område."
-#: field:field_survey_measure_10:survey_measure:label
-msgctxt "field_survey_measure_10:survey_measure:label"
-msgid "10. Is funding envisaged for the measure?"
-msgstr "10. Finns det någon finansiering för åtgärden?"
-#: field:field_survey_funding_1:#allowed_values:n/a
-msgctxt "field_survey_funding_1:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Vet inte"
-#: field:field_survey_funding_5:#allowed_values:n/a
-msgctxt "field_survey_funding_5:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Vet inte"
-#: field:field_survey_funding_6:#allowed_values:n/a
-msgctxt "field_survey_funding_6:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Vet inte"
-#: field:field_survey_funding_8:#allowed_values:n/a
-msgctxt "field_survey_funding_8:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Vet inte"
-#: field:field_survey_governance_10:#allowed_values:n/a
-msgctxt "field_survey_governance_10:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Vet inte"
-#: field:field_survey_measure_10:#allowed_values:n/a
-msgctxt "field_survey_measure_10:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Vet inte"
-#: field:field_survey_thematic_4:#allowed_values:n/a
-msgctxt "field_survey_thematic_4:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Vet inte"
-#: field:field_survey_thematic_5:#allowed_values:n/a
-msgctxt "field_survey_thematic_5:#allowed_values:n/a"
-msgid "I do not know"
-msgstr "Vet inte"
-#: field:field_survey_funding_allocated:survey_measure:label
-msgctxt "field_survey_funding_allocated:survey_measure:label"
-msgid "10.1. What was the total funding ALLOCATED for the year of reporting?"
-msgstr "10.1. Vilket totalbelopp ANSLOGS för rapporteringsåret?"
-#: field:field_survey_funding_allocated_1:field_survey_funding_allocated:label
-msgctxt "field_survey_funding_allocated_1:field_survey_funding_allocated:label"
-msgid "National public funding"
-msgstr "Nationell offentlig finansiering"
-#: field:field_survey_funding_spent_1:field_survey_funding_spent:label
-msgctxt "field_survey_funding_spent_1:field_survey_funding_spent:label"
-msgid "National public funding"
-msgstr "Nationell offentlig finansiering"
-#: field:field_survey_total_allocated_2:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_2:field_survey_total_allocated:label"
-msgid "National public funding"
-msgstr "Nationell offentlig finansiering"
-#: field:field_survey_total_spent_2:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_2:field_survey_total_spent:label"
-msgid "National public funding"
-msgstr "Nationell offentlig finansiering"
-#: field:field_survey_funding_allocated_2:field_survey_funding_allocated:label
-msgctxt "field_survey_funding_allocated_2:field_survey_funding_allocated:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "De europeiska struktur- och investeringsfonderna (t.ex. ESF, Eruf och Ejflu)"
-#: field:field_survey_funding_spent_2:field_survey_funding_spent:label
-msgctxt "field_survey_funding_spent_2:field_survey_funding_spent:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "De europeiska struktur- och investeringsfonderna (t.ex. ESF, Eruf och Ejflu)"
-#: field:field_survey_total_allocated_3:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_3:field_survey_total_allocated:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "De europeiska struktur- och investeringsfonderna (t.ex. ESF, Eruf och Ejflu)"
-#: field:field_survey_total_spent_3:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_3:field_survey_total_spent:label"
-msgid "ESIFs European Structural and Investment Funds (e.g. ESF, ERDF, EARDF)"
-msgstr "De europeiska struktur- och investeringsfonderna (t.ex. ESF, Eruf och Ejflu)"
-#: field:field_survey_funding_allocated_3:field_survey_funding_allocated:label
-msgctxt "field_survey_funding_allocated_3:field_survey_funding_allocated:label"
-msgid "Other (international or private)"
-msgstr "Annan källa (internationell eller privat)"
-#: field:field_survey_funding_spent_3:field_survey_funding_spent:label
-msgctxt "field_survey_funding_spent_3:field_survey_funding_spent:label"
-msgid "Other (international or private)"
-msgstr "Annan källa (internationell eller privat)"
-#: field:field_survey_total_allocated_4:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_4:field_survey_total_allocated:label"
-msgid "Other (international or private)"
-msgstr "Annan källa (internationell eller privat)"
-#: field:field_survey_total_spent_4:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_4:field_survey_total_spent:label"
-msgid "Other (international or private)"
-msgstr "Annan källa (internationell eller privat)"
-#: field:field_survey_funding_spent:survey_measure:label
-msgctxt "field_survey_funding_spent:survey_measure:label"
-msgid "10.2. What was the total funding SPENT during the year preceding the YEAR OF REPORTING?"
-msgstr "10.2. Vilket totalbelopp ANVÄNDES under året FÖRE RAPPORTERINGSÅRET?"
-#: field:field_survey_measure_11:survey_measure:label
-msgctxt "field_survey_measure_11:survey_measure:label"
-msgid "11. Is it possible to estimate the total number of the end beneficiaries (people benefiting from the measure)"
-msgstr "11. Går det att uppskatta det totala antalet slutmottagare (dvs. människor som gagnats av åtgärden)?"
-#: field:field_survey_measure_11:#allowed_values:n/a
-msgctxt "field_survey_measure_11:#allowed_values:n/a"
-msgid "I cannot judge"
-msgstr "Jag kan inte ge någon uppskattning"
-#: field:field_survey_measure_11_1:survey_measure:label
-msgctxt "field_survey_measure_11_1:survey_measure:label"
-msgid "11.1. Source of the estimate"
-msgstr "11.1. Källa till uppskattningen"
-#: field:field_survey_measure_11_2:survey_measure:label
-msgctxt "field_survey_measure_11_2:survey_measure:label"
-msgid "11.2. What is the estimated number of total beneficiaries (people benefiting from the measure) per year?"
-msgstr "11.2. Hur många människor (mottagare) gagnas av åtgärden per år enligt er uppskattning?"
-#: field:field_survey_measure_12:survey_measure:label
-msgctxt "field_survey_measure_12:survey_measure:label"
-msgid "12. Country specific comments"
-msgstr "12. Landsspecifika kommentarer"
-#: field:field_survey_measure_13:survey_measure:label
-msgctxt "field_survey_measure_13:survey_measure:label"
-msgid "13. Is it possible to estimate the number of Roma that would benefit from this measure?"
-msgstr "13. Går det att uppskatta hur många romer som skulle gagnas av den här åtgärden?"
-#: field:field_survey_measure_14:survey_measure:label
-msgctxt "field_survey_measure_14:survey_measure:label"
-msgid "14. Country specific comments on Roma beneficiaries"
-msgstr "14. Landsspecifika kommentarer om romska mottagare"
-#: field:field_survey_measure_15:survey_measure:label
-msgctxt "field_survey_measure_15:survey_measure:label"
-msgid "15. Can you provide any other information on output / result indicators? Please chose the most relevant (up to 3) from the list and estimate their value or add any new indicator."
-msgstr "15. Kan du lämna någon annan information om resultatindikatorer? Välj de mest relevanta (högst tre) från listan och uppskatta deras värde, eller lägg till en ny indikator."
-msgid "Thematic areas (Thematic area)"
-msgstr "Tematiska områden (Tematiskt område)"
-#: field:field_survey_thematic_area:survey_thematic_area:label
-msgctxt "field_survey_thematic_area:survey_thematic_area:label"
-msgid "Thematic area"
-msgstr "Tematiskt område"
-#: field:field_survey_thematic_1:survey_thematic_area:label
-msgctxt "field_survey_thematic_1:survey_thematic_area:label"
-msgid "1. Which was the most important success? What were the factors contributing to this achievement?"
-msgstr "1. Vilken var den största framgången? Vad gjorde den möjlig?"
-#: field:field_survey_thematic_2:survey_thematic_area:label
-msgctxt "field_survey_thematic_2:survey_thematic_area:label"
-msgid "2. Which was the most important challenge? What were the factors contributing to it?"
-msgstr "2. Vilken var den största utmaningen? Vilka faktorer spelade in?"
-#: field:field_survey_thematic_3:survey_thematic_area:label
-msgctxt "field_survey_thematic_3:survey_thematic_area:label"
-msgid "3. What is the basis of your assessment?"
-msgstr "3. Vad bygger din bedömning på?"
-#: field:field_survey_thematic_4:survey_thematic_area:label
-msgctxt "field_survey_thematic_4:survey_thematic_area:label"
-msgid "4. How would you assess the situation in this thematic area?"
-msgstr "4. Hur bedömer du situationen på det här tematiska området?"
-#: field:field_survey_equal_4:#allowed_values:improved
-msgctxt "field_survey_equal_4:#allowed_values:improved"
-msgid "Improved"
-msgstr "Bättre"
-#: field:field_survey_thematic_4:#allowed_values:improv
-msgctxt "field_survey_thematic_4:#allowed_values:improv"
-msgid "Improved"
-msgstr "Bättre"
-#: field:field_survey_equal_4:#allowed_values:same
-msgctxt "field_survey_equal_4:#allowed_values:same"
-msgid "Remained the same"
-msgstr "Likadan som förut"
-#: field:field_survey_thematic_4:#allowed_values:remain
-msgctxt "field_survey_thematic_4:#allowed_values:remain"
-msgid "Remained the same"
-msgstr "Likadan som förut"
-#: field:field_survey_equal_4:#allowed_values:deteriorated
-msgctxt "field_survey_equal_4:#allowed_values:deteriorated"
-msgid "Deteriorated"
-msgstr "Sämre"
-#: field:field_survey_thematic_4:#allowed_values:deterior
-msgctxt "field_survey_thematic_4:#allowed_values:deterior"
-msgid "Deteriorated"
-msgstr "Sämre"
-#: field:field_survey_thematic_5:survey_thematic_area:label
-msgctxt "field_survey_thematic_5:survey_thematic_area:label"
-msgid "5. Is funding envisaged?"
-msgstr "5. Finns det någon finansiering?"
-#: field:field_survey_total_allocated:survey_thematic_area:label
-msgctxt "field_survey_total_allocated:survey_thematic_area:label"
-msgid "5.1. Total funding ALLOCATED for this thematic area for the year of reporting"
-msgstr "5.1. Vilket totalbelopp ANSLOGS för det här området för rapporteringsåret?"
-#: field:field_survey_total_allocated_1:field_survey_total_allocated:label
-msgctxt "field_survey_total_allocated_1:field_survey_total_allocated:label"
-msgid "Total amount"
-msgstr "Totalt belopp"
-#: field:field_survey_total_spent_1:field_survey_total_spent:label
-msgctxt "field_survey_total_spent_1:field_survey_total_spent:label"
-msgid "Total amount"
-msgstr "Totalt belopp"
-#: field:field_survey_total_spent:survey_thematic_area:label
-msgctxt "field_survey_total_spent:survey_thematic_area:label"
-msgid "5.2. Total funding SPENT in this thematic area for the year of reporting"
-msgstr "5.2. Vilket totalbelopp ANVÄNDES för det här området under rapporteringsåret? "
-msgid "Funding"
-msgstr "Finansiering"
-#: field:field_survey_funding_1:survey_funding:label
-msgctxt "field_survey_funding_1:survey_funding:label"
-msgid "1. Has funding been allocated (spent) for the implementation and monitoring of your national and local Roma integration strategy or integrated set of policy measures and action plans?"
-msgstr "1. Har pengar anslagits (och använts) för att genomföra och övervaka era nationella och lokala strategier för integrering av romer eller era integrerade politiska åtgärder och handlingsplaner?"
-#: field:field_survey_funding_1_1:survey_funding:label
-msgctxt "field_survey_funding_1_1:survey_funding:label"
-msgid "1.1. Country-specific comments on the funding"
-msgstr "1.1. Landsspecifika kommentarer om finansieringen"
-#: field:field_survey_funding_allocated:survey_funding:label
-msgctxt "field_survey_funding_allocated:survey_funding:label"
-msgid "2. How much funding has been ALLOCATED for the year of reporting for the implementation and monitoring of your national and local Roma integration strategies or integrated set of policy measures and action plans from the respective sources (general estimate…)"
-msgstr "2. Vilket totalbelopp ANSLOGS från respektive källor för rapporteringsåret för att genomföra och övervaka era nationella och lokala strategier för integrering av romer eller era integrerade politiska åtgärder och handlingsplaner (allmän uppskattning)?"
-#: field:field_survey_funding_2_4:survey_funding:label
-msgctxt "field_survey_funding_2_4:survey_funding:label"
-msgid "2.4. Country-specific comments on the funding ALLOCATED"
-msgstr "2.4. Landsspecifika kommentarer om det ANSLAGNA beloppet"
-#: field:field_survey_funding_spent:survey_funding:label
-msgctxt "field_survey_funding_spent:survey_funding:label"
-msgid "3. How much funding has been SPENT during the year PRECEDING the YEAR OF REPORTING for the implementation and monitoring of your national and local Roma integration strategies or integrated sets of policy measures and action plans from the respective sources (general estimate for all measures)?"
-msgstr "3. Vilket totalbelopp ANVÄNDES från respektive källor under ÅRET FÖRE RAPPORTERINGSÅRET för att genomföra och övervaka era nationella och lokala strategier för integrering av romer eller era integrerade politiska åtgärder och handlingsplaner (allmän uppskattning)?"
-#: field:field_survey_funding_3_4:survey_funding:label
-msgctxt "field_survey_funding_3_4:survey_funding:label"
-msgid "3.4. Country-specific comments on the funding SPENT"
-msgstr "3.4. Landsspecifika kommentarer om det ANVÄNDA beloppet"
-#: field:field_survey_funding_4:survey_funding:label
-msgctxt "field_survey_funding_4:survey_funding:label"
-msgid "4. Are the European Structural and Investment Funds or national funding used to build the capacity of"
-msgstr "4. De europeiska struktur- och investeringsfonderna eller nationella medel har använts för att bygga upp kapaciteten hos"
-#: field:field_survey_funding_4:#allowed_values:national
-msgctxt "field_survey_funding_4:#allowed_values:national"
-msgid "the national authorities"
-msgstr "de nationella myndigheterna"
-#: field:field_survey_funding_4:#allowed_values:local
-msgctxt "field_survey_funding_4:#allowed_values:local"
-msgid "the local authorities"
-msgstr "de lokala myndigheterna"
-#: field:field_survey_funding_4:#allowed_values:society
-msgctxt "field_survey_funding_4:#allowed_values:society"
-msgid "civil society"
-msgstr "civilsamhället"
-#: field:field_survey_measure_2_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:loc_civ"
-msgid "civil society"
-msgstr "civilsamhället"
-#: field:field_survey_measure_2_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:nat_civ"
-msgid "civil society"
-msgstr "civilsamhället"
-#: field:field_survey_measure_2_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:reg_civ"
-msgid "civil society"
-msgstr "civilsamhället"
-#: field:field_survey_measure_2_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1:#allowed_values:tra_civ"
-msgid "civil society"
-msgstr "civilsamhället"
-#: field:field_survey_measure_2_1_1:#allowed_values:loc_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:loc_civ"
-msgid "civil society"
-msgstr "civilsamhället"
-#: field:field_survey_measure_2_1_1:#allowed_values:nat_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:nat_civ"
-msgid "civil society"
-msgstr "civilsamhället"
-#: field:field_survey_measure_2_1_1:#allowed_values:reg_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:reg_civ"
-msgid "civil society"
-msgstr "civilsamhället"
-#: field:field_survey_measure_2_1_1:#allowed_values:tra_civ
-msgctxt "field_survey_measure_2_1_1:#allowed_values:tra_civ"
-msgid "civil society"
-msgstr "civilsamhället"
-#: field:field_survey_funding_4_0:survey_funding:label
-msgctxt "field_survey_funding_4_0:survey_funding:label"
-msgid "to strengthen"
-msgstr "för att förbättra"
-
-#: field:field_survey_funding_4_0:#allowed_values:implementation
-msgid "implementation"
-msgstr "genomförandet"
-#: field:field_survey_funding_4_0:#allowed_values:implementation
-msgctxt "field_survey_funding_4_0:#allowed_values:implementation"
-msgid "implementation"
-msgstr "genomförandet"
-#: field:field_survey_funding_4_0:#allowed_values:monitoring
-msgctxt "field_survey_funding_4_0:#allowed_values:monitoring"
-msgid "monitoring and evaluation of the NRIS (National Roma Integration Strategy) or set of policy measures?"
-msgstr "övervakningen och utvärderingen av den nationella strategin för integrering av romer eller de integrerade politiska åtgärderna"
-msgid "4.1. Please elaborate how and specify the amounts"
-msgstr "4.1 Förklara hur och specificera beloppen"
-#: field:field_survey_funding_5:survey_funding:label
-msgctxt "field_survey_funding_5:survey_funding:label"
-msgid "5. Is public funding allocated following specific targeting of Roma as a social group?"
-msgstr "5. Har den offentliga finansieringen anslagits sedan man identifierat romer som en social grupp?"
-#: field:field_survey_funding_5_1:survey_funding:label
-msgctxt "field_survey_funding_5_1:survey_funding:label"
-msgid "5.1. Please elaborate how and specify the amounts"
-msgstr "5.1. Förklara hur och specificera beloppen"
-#: field:field_survey_funding_6:survey_funding:label
-msgctxt "field_survey_funding_6:survey_funding:label"
-msgid "6. Is public funding allocated following specific targeting of geographical areas most affected by poverty and social exclusion?"
-msgstr "6. Har den offentliga finansieringen anslagits sedan man identifierat de geografiska områden som är mest drabbade av fattigdom och social utestängning?"
-#: field:field_survey_funding_6_1:survey_funding:label
-msgctxt "field_survey_funding_6_1:survey_funding:label"
-msgid "6.1. Please elaborate how and specify the amounts"
-msgstr "6.1. Förklara hur och specificera beloppen"
-#: field:field_survey_funding_7:survey_funding:label
-msgctxt "field_survey_funding_7:survey_funding:label"
-msgid "7. Is public funding allocated taking into consideration the gender dimension?"
-msgstr "7. Har den offentliga finansieringen anslagits med beaktande av jämställdhetsaspekten?"
-#: field:field_survey_funding_8:survey_funding:label
-msgctxt "field_survey_funding_8:survey_funding:label"
-msgid "8. Are Roma communities involved in the decision-making regarding financial resources allocation for the implementation of the NRIS (or the respective strategic document)?"
-msgstr "8. Deltar den romska befolkningen i besluten om anslag till genomförandet av den nationella strategin för integrering av romer (eller respektive strategiska dokument)?"
-#: field:field_survey_funding_8_1:survey_funding:label
-msgctxt "field_survey_funding_8_1:survey_funding:label"
-msgid "8.1. If yes, please elaborate how"
-msgstr "8.1. Om ja, förklara hur"
-msgid "Governance & cooperation"
-msgstr "Styre och samarbete"
-#: field:field_survey_governance_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_1:survey_governance_cooperation:label"
-msgid "1. Annual Budget for NRCP"
-msgstr "1. Årsbudget för den nationella kontaktpunkten"
-#: field:field_survey_governance_1_1:field_survey_governance_1:label
-msgctxt "field_survey_governance_1_1:field_survey_governance_1:label"
-msgid "1.1. ALLOCATED for the year of reporting"
-msgstr "1.1. ANSLAGEN budget för rapporteringsåret"
-#: field:field_survey_governance_1_2:field_survey_governance_1:label
-msgctxt "field_survey_governance_1_2:field_survey_governance_1:label"
-msgid "1.2. SPENT in the year preceding the year of reporting"
-msgstr "1.2. ANVÄND budget under året före rapporteringsåret"
-#: field:field_survey_governance_1_3:survey_governance_cooperation:label
-msgctxt "field_survey_governance_1_3:survey_governance_cooperation:label"
-msgid "1.3. Specific comments on budget for NRCP"
-msgstr "1.3. Kommentarer om budgeten för den nationella kontaktpunkten"
-#: field:field_survey_governance_2:survey_governance_cooperation:label
-msgctxt "field_survey_governance_2:survey_governance_cooperation:label"
-msgid "2. Human Resources of the NRCP in full time equivalent"
-msgstr "2. Den nationella kontaktpunktens personal i heltidsekvivalenter"
-#: field:field_survey_governance_2_1:field_survey_governance_2:label
-msgctxt "field_survey_governance_2_1:field_survey_governance_2:label"
-msgid "2.1. ACTUAL in the year if reporting"
-msgstr "2.1. Personal PÅ PLATS under rapporteringsåret"
-#: field:field_survey_governance_2_2:field_survey_governance_2:label
-msgctxt "field_survey_governance_2_2:field_survey_governance_2:label"
-msgid "2.2. ESTIMATE of NEEDED in the year of reporting"
-msgstr "2.2. UPPSKATTNING av PERSONALBEHOVET under rapporteringsåret"
-#: field:field_survey_governance_2_3:survey_governance_cooperation:label
-msgctxt "field_survey_governance_2_3:survey_governance_cooperation:label"
-msgid "2.3. Specific comments on human resources of NRCP"
-msgstr "2.3. Kommentarer om den nationella kontaktpunktens personal"
-#: field:field_survey_governance_3:survey_governance_cooperation:label
-msgctxt "field_survey_governance_3:survey_governance_cooperation:label"
-msgid "3. What is the role played by the NRCP in cross sectorial coordination of the implementation and monitoring of NRIS (or Integrated set of policy measures…)?"
-msgstr "3. Vilken är den nationella kontaktpunktens roll i den sektorsövergripande samordningen av genomförandet och övervakningen av den nationella strategin för integrering av romer (eller de integrerade politiska åtgärderna)?"
-#: field:field_survey_governance_3:#allowed_values:charge
-msgctxt "field_survey_governance_3:#allowed_values:charge"
-msgid "In charge"
-msgstr "Ansvarig"
-#: field:field_survey_governance_3:#allowed_values:contributing
-msgctxt "field_survey_governance_3:#allowed_values:contributing"
-msgid "Contributing to it"
-msgstr "Bidrar till samordningen"
-#: field:field_survey_governance_3:#allowed_values:neither
-msgctxt "field_survey_governance_3:#allowed_values:neither"
-msgid "Neither"
-msgstr "Varken eller"
-#: field:field_survey_governance_5:#allowed_values:neither
-msgctxt "field_survey_governance_5:#allowed_values:neither"
-msgid "Neither"
-msgstr "Varken eller"
-#: field:field_survey_governance_6:#allowed_values:neither
-msgctxt "field_survey_governance_6:#allowed_values:neither"
-msgid "Neither"
-msgstr "Varken eller"
-#: field:field_survey_governance_7:#allowed_values:neither
-msgctxt "field_survey_governance_7:#allowed_values:neither"
-msgid "Neither"
-msgstr "Varken eller"
-msgid "3.1. Specific comments on the role of the NRCP in cross sectorial coordination"
-msgstr "3.1. Kommentarer om den nationella kontaktpunktens roll i den sektorsövergripande samordningen"
-#: field:field_survey_governance_4:survey_governance_cooperation:label
-msgctxt "field_survey_governance_4:survey_governance_cooperation:label"
-msgid "4. Please describe the process of cross sectorial coordination of the implementation and monitoring of NRIS (or Integrated set of policy measures…)."
-msgstr "4. Beskriv den sektorsövergripande samordningen av genomförandet och övervakningen av den nationella strategin (eller de integrerade politiska åtgärderna)"
-#: field:field_survey_governance_5:survey_governance_cooperation:label
-msgctxt "field_survey_governance_5:survey_governance_cooperation:label"
-msgid "5. What is the involvement of NRCP in decision making processes regarding DEVELOPMENT of relevant policies?"
-msgstr "5. Vilken är den nationella kontaktpunktens roll i besluten om UTFORMNINGEN av relevanta strategier?"
-#: field:field_survey_governance_5:#allowed_values:participating in
-msgctxt "field_survey_governance_5:#allowed_values:participating in"
-msgid "Participating in"
-msgstr "Deltar"
-#: field:field_survey_governance_6:#allowed_values:participating
-msgctxt "field_survey_governance_6:#allowed_values:participating"
-msgid "Participating in"
-msgstr "Deltar"
-#: field:field_survey_governance_7:#allowed_values:participating
-msgctxt "field_survey_governance_7:#allowed_values:participating"
-msgid "Participating in"
-msgstr "Deltar"
-#: field:field_survey_governance_5:#allowed_values:consulted
-msgctxt "field_survey_governance_5:#allowed_values:consulted"
-msgid "Being consulted"
-msgstr "Rådfrågas"
-#: field:field_survey_governance_6:#allowed_values:consulted
-msgctxt "field_survey_governance_6:#allowed_values:consulted"
-msgid "Being consulted"
-msgstr "Rådfrågas"
-#: field:field_survey_governance_7:#allowed_values:consulted
-msgctxt "field_survey_governance_7:#allowed_values:consulted"
-msgid "Being consulted"
-msgstr "Rådfrågas"
-#: field:field_survey_governance_3:#allowed_values:neither
-msgctxt "field_survey_governance_3:#allowed_values:neither"
-msgid "Neither"
-msgstr "Varken eller"
-#: field:field_survey_governance_5:#allowed_values:neither
-msgctxt "field_survey_governance_5:#allowed_values:neither"
-msgid "Neither"
-msgstr "Varken eller"
-#: field:field_survey_governance_6:#allowed_values:neither
-msgctxt "field_survey_governance_6:#allowed_values:neither"
-msgid "Neither"
-msgstr "Varken eller"
-#: field:field_survey_governance_7:#allowed_values:neither
-msgctxt "field_survey_governance_7:#allowed_values:neither"
-msgid "Neither"
-msgstr "Varken eller"
-#: field:field_survey_governance_5_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_5_1:survey_governance_cooperation:label"
-msgid "5.1. Specific comments on the involvement of NRCP in decision-making processes regarding development of relevant policies"
-msgstr "5.1. Kommentarer om den nationella kontaktpunktens roll i besluten om utformningen av relevanta strategier"
-#: field:field_survey_governance_6:survey_governance_cooperation:label
-msgctxt "field_survey_governance_6:survey_governance_cooperation:label"
-msgid "6. What is the involvement of the NRCP in decision making processes regarding FUNDING of relevant policies?"
-msgstr "6. Vilken är den nationella kontaktpunktens roll i besluten om FINANSIERINGEN av relevanta strategier?"
-#: field:field_survey_governance_6_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_6_1:survey_governance_cooperation:label"
-msgid "6.1. Specific comments on the involvement of NRCP in decision-making processes regarding funding of relevant policies."
-msgstr "6.1. Kommentarer om den nationella kontaktpunktens roll i besluten om finansieringen av relevanta strategier"
-#: field:field_survey_governance_7:survey_governance_cooperation:label
-msgctxt "field_survey_governance_7:survey_governance_cooperation:label"
-msgid "7. What is the involvement of the NRCP in decision making processes regarding IMPLEMENTATION of relevant policies?"
-msgstr "7. Vilken är den nationella kontaktpunktens roll i besluten om GENOMFÖRANDET av relevanta strategier?"
-#: field:field_survey_governance_7_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_7_1:survey_governance_cooperation:label"
-msgid "7.1. Specific comments on the involvement of NRCP in decision-making processes regarding implementation of relevant policies."
-msgstr "7.1. Kommentarer om den nationella kontaktpunktens roll i besluten om genomförandet av relevanta strategier"
-#: field:field_survey_governance_8:survey_governance_cooperation:label
-msgctxt "field_survey_governance_8:survey_governance_cooperation:label"
-msgid "8. Is the NRCP facilitating participation and involvement of (Roma) civil society in the implementation of NRIS (or Integrated set of policy measures…)?"
-msgstr "8. Underlättar den nationella kontaktpunkten det romska civilsamhällets deltagande och engagemang i genomförandet av den nationella strategin för integrering av romer (eller de integrerade politiska åtgärderna)?"
-#: field:field_survey_governance_8_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_8_1:survey_governance_cooperation:label"
-msgid "8.1. How does it facilitate the participation and involvement of Roma civil society? Please describe the process."
-msgstr "8.1. Hur underlättas det romska civilsamhällets deltagande och engagemang? Beskriv närmare."
-#: field:field_survey_governance_8_2:survey_governance_cooperation:label
-msgctxt "field_survey_governance_8_2:survey_governance_cooperation:label"
-msgid "8.2. Who are the stakeholders? Please list them."
-msgstr "8.2. Vilka är aktörerna?"
-#: field:field_survey_governance_9:survey_governance_cooperation:label
-msgctxt "field_survey_governance_9:survey_governance_cooperation:label"
-msgid "9. Please list the stakeholders involved in the monitoring and evaluation of the NRIS (national, regional, public, civil, private)"
-msgstr "9. Vilka deltar i övervakningen och utvärderingen av den nationella strategin för integrering av romer (nationella, regionala, offentliga, civila och privata aktörer)?"
-#: field:field_survey_governance_10:survey_governance_cooperation:label
-msgctxt "field_survey_governance_10:survey_governance_cooperation:label"
-msgid "10. Is there a regular dialogue/cooperation established between the Equality body and the NRCP?"
-msgstr "10. Finns det en regelbunden dialog eller ett fortlöpande samarbete mellan likabehandlingsorganet och den nationella kontaktpunkten?"
-#: field:field_survey_governance_10_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_10_1:survey_governance_cooperation:label"
-msgid "10.1. If yes, please describe (structure, frequency)"
-msgstr "10.1. Om ja, beskriv närmare (hur och hur ofta)"
-#: field:field_survey_governance_11:survey_governance_cooperation:label
-msgctxt "field_survey_governance_11:survey_governance_cooperation:label"
-msgid "11. Do you have a baseline against which you assess progress for the implementation of your NRIS or set of policy measures?"
-msgstr "11. Har ni ett utgångsvärde för att bedöma hur den nationella strategin för integrering av romer eller de integrerade politiska åtgärderna har genomförts?"
-#: field:field_survey_governance_11_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_11_1:survey_governance_cooperation:label"
-msgid "11.1. If yes, please describe"
-msgstr "11.1. Om ja, beskriv närmare"
-#: field:field_survey_governance_12:survey_governance_cooperation:label
-msgctxt "field_survey_governance_12:survey_governance_cooperation:label"
-msgid "12. Do you have measurable targets?"
-msgstr "12. Har ni mätbara mål?"
-#: field:field_survey_governance_12_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_12_1:survey_governance_cooperation:label"
-msgid "12.1. If yes, please describe"
-msgstr "12.1. Om ja, beskriv närmare "
-msgid "Equal treatment"
-msgstr "Likabehandling"
-#: field:field_survey_equal_1:survey_equal_treatment:label
-msgctxt "field_survey_equal_1:survey_equal_treatment:label"
-msgid "1. Does your mandate include discrimination on the basis of race and ethnic origin?"
-msgstr "1. Ingår bekämpning av diskriminering på grund av ras och etniskt ursprung i ert uppdrag?"
-#: field:field_survey_equal_2:survey_equal_treatment:label
-msgctxt "field_survey_equal_2:survey_equal_treatment:label"
-msgid "2. Does your body have concerns as regards its institutional capacity/resources and/or independence?"
-msgstr "2. Är din organisation oroad över sin kapacitet, sina resurser och/eller sitt oberoende?"
-#: field:field_survey_equal_2_1:survey_equal_treatment:label
-msgctxt "field_survey_equal_2_1:survey_equal_treatment:label"
-msgid "2.1. If yes, please describe"
-msgstr "2.1. Om ja, beskriv närmare"
-#: field:field_survey_governance_12_1:survey_governance_cooperation:label
-msgctxt "field_survey_governance_12_1:survey_governance_cooperation:label"
-msgid "2.1. If yes, please describe"
-msgstr "2.1. Om ja, beskriv närmare"
-#: field:field_survey_equal_3:survey_equal_treatment:label
-msgctxt "field_survey_equal_3:survey_equal_treatment:label"
-msgid "3. Can you report any Roma-specific measures or mainstream measures benefiting also the Roma/Travellers you have taken in (year X) for the promotion of the practical enforcement of Directive 2000/43/EC, either horizontal measures or in particular in the areas of education, employment, housing and health?"
-msgstr "3. Kan du rapportera några riktade eller allmänna åtgärder för att främja det konkreta genomförandet av direktiv 2000/43/EG under (år X) som också gagnar romer/resandefolk, antingen övergripande åtgärder eller åtgärder för utbildning, sysselsättning, bostäder och hälsa?"
-#: field:field_survey_equal_3:#allowed_values:projects
-msgctxt "field_survey_equal_3:#allowed_values:projects"
-msgid "Projects"
-msgstr "Projekt"
-#: field:field_survey_equal_3:#allowed_values:complaints
-msgctxt "field_survey_equal_3:#allowed_values:complaints"
-msgid "Complaints received"
-msgstr "Inkomna klagomål"
-#: field:field_survey_equal_3:#allowed_values:cases
-msgctxt "field_survey_equal_3:#allowed_values:cases"
-msgid "Court cases pursued"
-msgstr "Domstolsärenden"
-#: field:field_survey_equal_3:#allowed_values:studies
-msgctxt "field_survey_equal_3:#allowed_values:studies"
-msgid "Studies"
-msgstr "Studier"
-#: field:field_survey_equal_3:#allowed_values:opinions
-msgctxt "field_survey_equal_3:#allowed_values:opinions"
-msgid "Opinions"
-msgstr "Yttranden"
-#: field:field_survey_equal_3:#allowed_values:recommendations
-msgctxt "field_survey_equal_3:#allowed_values:recommendations"
-msgid "Recommendations to the Government"
-msgstr "Rekommendationer till regeringen"
-#: field:field_survey_equal_3:#allowed_values:proposals
-msgctxt "field_survey_equal_3:#allowed_values:proposals"
-msgid "Consultation on legislative proposals"
-msgstr "Samråd om lagförslag"
-#: field:field_survey_equal_4:survey_equal_treatment:label
-msgctxt "field_survey_equal_4:survey_equal_treatment:label"
-msgid "4. Has the situation (of the protection of Roma from discrimination) improved/remained the same/deteriorated in respect of the practical enforcement of Directive 2000/43/EC?"
-msgstr "4. Hur har romernas skydd mot diskriminering förändrats i och med det konkreta genomförandet av direktiv 2000/43/EG?"
-#: field:field_survey_equal_4:#allowed_values:improved
-msgctxt "field_survey_equal_4:#allowed_values:improved"
-msgid "Improved"
-msgstr "Bättre"
-#: field:field_survey_thematic_4:#allowed_values:improv
-msgctxt "field_survey_thematic_4:#allowed_values:improv"
-msgid "Improved"
-msgstr "Bättre"
-#: field:field_survey_equal_4:#allowed_values:same
-msgctxt "field_survey_equal_4:#allowed_values:same"
-msgid "Remained the same"
-msgstr "Likadant som förut"
-#: field:field_survey_thematic_4:#allowed_values:remain
-msgctxt "field_survey_thematic_4:#allowed_values:remain"
-msgid "Remained the same"
-msgstr "Likadant som förut"
-#: field:field_survey_equal_4:#allowed_values:deteriorated
-msgctxt "field_survey_equal_4:#allowed_values:deteriorated"
-msgid "Deteriorated"
-msgstr "Sämre"
-#: field:field_survey_thematic_4:#allowed_values:deterior
-msgctxt "field_survey_thematic_4:#allowed_values:deterior"
-msgid "Deteriorated"
-msgstr "Sämre"
-#: field:field_survey_equal_5:survey_equal_treatment:label
-msgctxt "field_survey_equal_5:survey_equal_treatment:label"
-msgid "5. What were the main achievements? What made these achievements possible?"
-msgstr "5. Vilka är de viktigaste resultaten? Vad gjorde dem möjliga?"
-#: field:field_survey_equal_6:survey_equal_treatment:label
-msgctxt "field_survey_equal_6:survey_equal_treatment:label"
-msgid "6. What were the main challenges? What are the factors to be taken into account?"
-msgstr "6. Vilka är de främsta utmaningarna? Vilka faktorer bör beaktas?"
-msgid "7. Is there a regular dialogue/cooperation established between"
-msgstr "7. Finns det en regelbunden dialog eller ett fortlöpande samarbete mellan"
-#: field:field_survey_equal_7:survey_equal_treatment:label
-msgctxt "field_survey_equal_7:survey_equal_treatment:label"
-msgid "the Equality body and the NRCP"
-msgstr "likabehandlingsorganet och den nationella kontaktpunkten"
-#: field:field_survey_equal_7_1:survey_equal_treatment:label
-msgctxt "field_survey_equal_7_1:survey_equal_treatment:label"
-msgid "7.1. Please describe the cooperation (e.g. formal/informal)"
-msgstr "7.1. Beskriv samarbetet (t.ex. om det är formellt eller informellt)"
-#: field:field_survey_equal_7_0:survey_equal_treatment:label
-msgctxt "field_survey_equal_7_0:survey_equal_treatment:label"
-msgid "or the Equality body and any other relevant institution (e.g. having a monitoring or regulatory role in the field of education, employment, housing, health)?"
-msgstr "likabehandlingsorganet och någon annan relevant institution (som t.ex. har en övervakande eller reglerande roll när det gäller utbildning, sysselsättning, bostäder och hälsa)?"
-#: field:field_survey_equal_7_2:survey_equal_treatment:label
-msgctxt "field_survey_equal_7_2:survey_equal_treatment:label"
-msgid "7.2. Please specify with which institution and describe the cooperation (e.g. formal/informal)"
-msgstr "7.2. Ange institutionen och beskriv samarbetet (t.ex. om det är formellt eller informellt) "
-msgid "Concluding remarks (Conclusion)"
-msgstr "Avslutande kommentarer (slutsats)"
-#: field:field_survey_concluding_1:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_1:survey_concluding_remarks:label"
-msgid "1. Please enter comments that did not fit into the other parts of the reporting tool"
-msgstr "1. Här kan du skriva kommentarer som inte passade in på andra ställen"
-#: field:field_survey_concluding_2:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_2:survey_concluding_remarks:label"
-msgid "2. Indicate the most promising measures (max 3 per area) targeted and mainstream"
-msgstr "2. Ange de mest lovande riktade och allmänna åtgärderna (högst tre per område)"
-#: field:field_survey_concluding_3:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_3:survey_concluding_remarks:label"
-msgid "3. Please summarise the main achievements, and challenges for the year of reporting"
-msgstr "3. Sammanfatta de viktigaste resultaten och utmaningarna under rapporteringsåret"
-#: field:field_survey_concluding_4:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_4:survey_concluding_remarks:label"
-msgid "4. What were the main factors contributing to this and the lessons learnt?"
-msgstr "4. Vilka var de viktigaste bidragande faktorerna och lärdomarna?"
-msgid "5. Please report on any pertinent legislative measure that was adopted in the year of reporting"
-msgstr "5. Ange relevanta lagar som antagits under rapporteringsåret"
-#: field:field_survey_concluding_5_1:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_5_1:survey_concluding_remarks:label"
-msgid "5.1. Date of entry into force"
-msgstr "5.1. Dag för ikraftträdande"
-#: field:field_survey_concluding_5_2_0:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_5_2_0:survey_concluding_remarks:label"
-msgid "5.2. Please describe the legislative measure"
-msgstr "5.2. Beskriv lagen"
-#: field:field_survey_concluding_5_3:survey_concluding_remarks:label
-msgctxt "field_survey_concluding_5_3:survey_concluding_remarks:label"
-msgid "5.3. Please describe the expected impact of this legislative measure on Roma"
-msgstr "5.3. Beskriv vilka konsekvenser lagen väntas få för romerna"
-msgid "Attachments & links"
-msgstr "Bilagor och länkar"
-#: field:field_survey_attachments_1:survey_attachments_links:label
-msgctxt "field_survey_attachments_1:survey_attachments_links:label"
-msgid "Files"
-msgstr "Filer"
-msgid "Add a new file"
-msgstr "Lägg till fil"
-msgid "Browse"
-msgstr "Bläddra"
-msgid "No files selected"
-msgstr "Du har inte valt någon fil"
-msgid "Upload"
-msgstr "Ladda upp"
-msgid "Files must be less than"
-msgstr "Filerna får vara högst"
-msgid "Allowed file types"
-msgstr "Godkända filformat"
-#: field:field_survey_attachments_2:survey_attachments_links:label
-msgctxt "field_survey_attachments_2:survey_attachments_links:label"
-msgid "Links"
-msgstr "Länkar"
-msgid "Add another item"
-msgstr "Lägg till en post"
-msgid "Select a value"
-msgstr "Välj"
-#: field:field_survey_funding_allocated:survey_funding:setting_add
-msgctxt "field_survey_funding_allocated:survey_funding:setting_add"
-msgid "Add"
-msgstr "Lägg till"
-#: field:field_survey_funding_allocated:survey_measure:setting_add
-msgctxt "field_survey_funding_allocated:survey_measure:setting_add"
-msgid "Add"
-msgstr "Lägg till"
-#: field:field_survey_funding_spent:survey_funding:setting_add
-msgctxt "field_survey_funding_spent:survey_funding:setting_add"
-msgid "Add"
-msgstr "Lägg till"
-#: field:field_survey_funding_spent:survey_measure:setting_add
-msgctxt "field_survey_funding_spent:survey_measure:setting_add"
-msgid "Add"
-msgstr "Lägg till"
-#: field:field_survey_governance_1:survey_governance_cooperation:setting_add
-msgctxt "field_survey_governance_1:survey_governance_cooperation:setting_add"
-msgid "Add"
-msgstr "Lägg till"
-#: field:field_survey_governance_2:survey_governance_cooperation:setting_add
-msgctxt "field_survey_governance_2:survey_governance_cooperation:setting_add"
-msgid "Add"
-msgstr "Lägg till"
-#: field:field_survey_total_allocated:survey_thematic_area:setting_add
-msgctxt "field_survey_total_allocated:survey_thematic_area:setting_add"
-msgid "Add"
-msgstr "Lägg till"
-#: field:field_survey_total_spent:survey_thematic_area:setting_add
-msgctxt "field_survey_total_spent:survey_thematic_area:setting_add"
-msgid "Add"
-msgstr "Lägg till"
-msgid "Save"
-msgstr "Spara"
-#: field:field_country_policy_measure:countries:label
-msgctxt "field_country_policy_measure:countries:label"
-msgid "Policy measure"
-msgstr "Politisk åtgärd"
-#: field:field_country_policy_measure:#allowed_values:strategy
-msgctxt "field_country_policy_measure:#allowed_values:strategy"
-msgid "has a National Roma Integration Strategy"
-msgstr "har en nationell strategi för integrering av romer"
-#: field:field_country_policy_measure:#allowed_values:integrated
-msgctxt "field_country_policy_measure:#allowed_values:integrated"
-msgid "has an Integrated set of policy measures within the broader social inclusion policies for improving the situation of Roma"
-msgstr "har integrerade politiska åtgärder inom de bredare strategierna för att förbättra romernas situation och inkludera dem i samhället "
-msgid "Thematic areas"
-msgstr "Tematiska områden"
-msgid "Education"
-msgstr "Utbildning"
-msgid "a) eliminate any school segregation"
-msgstr "a) undanröja all eventuell skolsegregation"
-msgid "b) put an end to any inappropriate placement of Roma pupils in special needs schools"
-msgstr "b) sätta stopp för all eventuell olämplig placering av romska elever i särskolor"
-msgid "c) reduce early school leaving"
-msgstr "c) minska skolavhoppen"
-msgid "d) increase the access to, and quality of, early childhood education and care"
-msgstr "d) öka tillträdet till och kvaliteten på förskoleverksamhet och barnomsorg"
-msgid "e) consider the needs of individual pupils in close cooperation with their families"
-msgstr "e) i nära samarbete med enskilda elevers familjer beakta elevernas behov och därefter svara på dessa behov"
-msgid "f) use inclusive and tailor-made teaching and learning methods"
-msgstr "f) använda integrerande och personanpassade undervisnings- och inlärningsmetoder"
-msgid "g) fight illiteracy"
-msgstr "g) bekämpa analfabetism"
-msgid "h) promote the availability and use of extracurricular activities"
-msgstr "h) främja tillgängligheten till och utnyttjandet av fritidsaktiviteter"
-msgid "i) encourage greater parental involvement"
-msgstr "i) uppmuntra ett ökat föräldraengagemang"
-msgid "j) improve teacher training"
-msgstr "j) förbättra lärarutbildningen"
-msgid "k) encourage Roma participation in and completion of secondary and tertiary education"
-msgstr "h) uppmuntra romska elever att följa och slutföra såväl högstadie- och gymnasieutbildning som eftergymnasial utbildning"
-msgid "l) widen access to second-chance education and adult learning"
-msgstr "l) öka tillträdet till utbildning i ett senare skede av livet och vuxenutbildning"
-msgid "m) provide support for the transition between educational levels"
-msgstr "m) ge stöd till övergången mellan olika stadier och utbildningar"
-msgid "n) provide support for the acquisition of skills that are adapted to the needs of the labour market"
-msgstr "n) stödja förvärvande av kompetens som är lämpad för arbetsmarknadens behov"
-msgid "Employment"
-msgstr "Arbetsmarknaden"
-msgid "a) support first work experience"
-msgstr "a) främja möjligheterna till en första arbetslivserfarenhet"
-msgid "b) support vocational training"
-msgstr "b) främja yrkesutbildning"
-msgid "c) support on-the-job training"
-msgstr "c) främja utbildning på arbetsplatsen"
-msgid "d) support lifelong learning and skills development"
-msgstr "d) främja livslångt lärande och kompetensutveckling"
-msgid "e) support self-employment and entrepreneurship"
-msgstr "e) stödja egenföretagande och entreprenörskap"
-msgid "f) provide equal access to mainstream public employment services"
-msgstr "f) erbjuda lika möjligheter till traditionell arbetsförmedling"
-msgid "g) support individual job-seekers, focusing on personalised guidance and individual action planning"
-msgstr "g) stödja enskilda arbetssökande, med särskild inriktning på individanpassad vägledning och individuell handlingsplanering"
-msgid "h) promote employment opportunities within the civil service"
-msgstr "h) främja sysselsättningsmöjligheter inom den offentliga förvaltningen"
-msgid "i) eliminate barriers, including discrimination, to (re)entering the labour market"
-msgstr "i) avlägsna hinder, bl.a. diskriminering, för (åter)inträde på arbetsmarknaden"
-msgid "Healthcare"
-msgstr "Hälso- och sjukvård"
-msgid "a) remove any barriers to access the healthcare system accessible for the general population"
-msgstr "a) undanröja alla eventuella hinder för tillgång till det hälso- och sjukvårdssystem som är tillgängligt för befolkningen i allmänhet"
-msgid "b) improve access to medical check-ups, prenatal and postnatal care and family planning, as well as sexual and reproductive healthcare, generally provided by national healthcare services"
-msgstr "b) förbättra tillgängligheten till läkarkontroller, mödravård före och efter förlossningen och familjeplanering samt sexuell och reproduktiv hälsovård som generellt tillhandahålls av nationella vårdinrättningar"
-msgid "c) improve access to free vaccination programmes targeting children"
-msgstr "c) främja tillgängligheten till kostnadsfria vaccinationsprogram som avser barn"
-msgid "d) improve access to vaccination programmes targeting the groups most at risk and/or those living in marginalised and/or remote areas"
-msgstr "c) främja tillgängligheten till vaccinationsprogram som framför allt avser de främsta riskgrupperna och/eller invånare i marginaliserade och/eller avlägsna områden"
-msgid "e) promote awareness of health and healthcare issues"
-msgstr "d) främja medvetenheten om vård- och hälsofrågor"
-msgid "Housing"
-msgstr "Bostäder"
-msgid "a) eliminate any spatial segregation and promoting desegregation"
-msgstr "a) undanröja varje form av geografisk segregering och främja en utveckling mot mindre segregering"
-msgid "b) promote non-discriminatory access to social housing"
-msgstr "b) främja icke-diskriminerande tillgång till offentligt subventionerade bostäder"
-msgid "c) provide halting sites for non-sedentary Roma, in proportion to local needs"
-msgstr "c) tillhandahålla lägerplatser för kringresande romer i proportion till lokala behov"
-msgid "d) ensure access to public utilities (such as water, electricity and gas) and infrastructure for housing in compliance with national legal requirements"
-msgstr "d) säkerställa tillgång till allmännyttiga tjänster (t.ex. vatten, el och gas) och bostadsinfrastruktur i överensstämmelse med nationella lagkrav"
-msgid "e) ensure that applications from local authorities for urban regeneration projects include integrated housing interventions in favour of marginalised communities"
-msgstr "e) se till att ansökningar från lokala myndigheter om stadsförnyelseprojekt innefattar integrerade bostadslösningar till förmån för marginaliserade befolkningsgrupper"
-msgid "f) promote community-led local development and/or integrated territorial investments supported by the ESIF"
-msgstr "f) främja lokalt ledd utveckling och/eller integrerade territoriella investeringar med stöd av de europeiska struktur- och investeringsfonderna"
-msgid "Anti-discrimination"
-msgstr "Bekämpning av diskriminering"
-msgid "By legal means"
-msgstr "Genom lagstiftning"
-msgid "a) ensure the effective practical enforcement of Directive 2000/43/EC"
-msgstr "a) säkerställa en god tillämpning i praktiken av direktiv 2000/43/EG"
-msgid "b) Implement desegregation measures both regionally and locally"
-msgstr "b) genomföra åtgärder mot segregering på regional och lokal nivå"
-msgid "c) Combat anti-Roma rhetoric and hate speech"
-msgstr "c) motverka antiromsk retorik och hatpropaganda"
-msgid "d) ensure that eviction are in full compliance with Union law as well with other international human rights obligations"
-msgstr "d) se till att avhysningar sker i fullständig överensstämmelse med såväl unionslagstiftningen som andra internationella människorättsliga förpliktelser"
-msgid "By awareness raising"
-msgstr "Genom upplysning"
-msgid "e) Combat anti-Gypsyism by raising awareness about the benefits of Roma integration"
-msgstr "e) bekämpa antiziganism genom att öka medvetenheten om fördelarna med integrering av romer"
-msgid "f) Combat anti-Gypsyism by sensitising public opinion to the inclusion problems Roma face"
-msgstr "f) bekämpa antiziganism genom att göra den allmänna opinionen mer lyhörd för de integrationsproblem romer möter"
-msgid "Multiple discrimination"
-msgstr "Flerfaldig diskriminering"
-msgid "a) fight violence, including domestic violence, against women and girls"
-msgstr "a) bekämpa våld, även våld i hemmet, mot kvinnor och flickor"
-msgid "b) fight trafficking in human beings"
-msgstr "b) bekämpa människohandel"
-msgid "c) fight underage and forced marriages"
-msgstr "c) bekämpa barnäktenskap och tvångsäktenskap"
-msgid "d) fight begging involving children, in particular through the enforcement of legislation"
-msgstr "d) bekämpa tiggeri där barn medverkar, i synnerhet genom att se till att lagstiftning efterlevs"
-msgid "e) promote the involvement in this exercise of all relevant actors including public authorities, civil society and Roma communities"
-msgstr "e) se till att engagera alla berörda aktörer, däribland offentliga myndigheter, det civila samhället och romska grupper"
-msgid "f) promote the cooperation between Member States in situations with a cross-border dimension"
-msgstr "f) uppmuntra samarbete mellan medlemsstater i situationer med en gränsöverskridande dimension"
-msgid "Poverty reduction through social investment"
-msgstr "Fattigdomsminskning genom sociala investeringar"
-msgid "a) support Roma at all stages of their lives, including by investing in good-quality inclusive early childhood education and care, targeted youth guarantee schemes, life-long learning and active ageing measures"
-msgstr "a) ge romerna stöd i alla skeden av livet, bl.a. genom investeringar i högkvalitativ inkluderande förskoleverksamhet och barnomsorg, riktade ungdomsgarantiprogram, livslångt lärande och åtgärder för aktivt åldrande"
-msgid "b) pursue policies of activation and enablement"
-msgstr "b) bedriva en politik som ska aktivera människor och ge dem möjligheter"
-msgid "c) support (re)entry to the labour market through targeted or mainstream employment support schemes"
-msgstr "c) stödja (åter)inträde på arbetsmarknaden med hjälp av riktade eller konventionella stödordningar för sysselsättning"
-msgid "d) promote inclusive labour market by addressing discrimination in the workplace"
-msgstr "d) främja en inkluderande arbetsmarknad genom att gripa sig an diskriminering på arbetsplatsen"
-msgid "e) make social benefits and social services granted to the disadvantaged, more adequate and sustainable"
-msgstr "e) göra sociala trygghetsförmåner och sociala tjänster som beviljas missgynnade personer mer hållbara och lämpliga"
-msgid "Empowerment"
-msgstr "Egenmakt"
-msgid "a) support the active citizenship of Roma by promoting their social, economic, political and cultural participation in society"
-msgstr "a) stödja romers aktiva medborgarskap genom att främja deras sociala, ekonomiska, politiska och kulturella delaktighet i samhället"
-msgid "b) promote the training and employment of qualified mediators dedicated to Roma"
-msgstr "b) främja utbildning och anställning av kvalificerade medlare särskilt för romer"
-msgid "c) further raise awareness among Roma of their rights (notably in relation to discrimination and the possibilities of seeking redress) and of their civic duties"
-msgstr "c) ytterligare öka romers medvetenhet om sina rättigheter (framför allt när det gäller diskriminering och möjligheterna att få upprättelse) och om sina skyldigheter som medborgare"
-msgid "Local action"
-msgstr "Lokala åtgärder"
-msgid "a) encourage regional and local authorities to develop local action plans or strategies"
-msgstr "a) uppmuntra regionala och lokala myndigheter att ta fram lokala handlingsplaner eller strategier"
-msgid "b) involve regional and local authorities and local civil society in developing, implementing and monitoring their national strategies or integrated sets of policy measures"
-msgstr "b) engagera regionala och lokala myndigheter och det lokala civila samhället i utarbetandet, genomförandet och övervakningen av sina nationella strategier eller integrerade politiska åtgärder i bredare politik för social integrering"
-msgid "c) support local public authorities so as to facilitate the implementation of sets of policy measures at local level."
-msgstr "c) stödja lokala offentliga myndigheter för att underlätta genomförandet av politikåtgärder på lokal nivå"
-msgid "d) strive at the local level for an integrated approach concerning families with a Roma background facing multiple problems and strengthen the capacity of local authorities in this respect"
-msgstr "d) på lokal nivå verka för en helhetssyn på familjer med romsk bakgrund som står inför flera olika problem och stärka de lokala myndigheternas kapacitet"
-msgid "Monitoring and Evaluation"
-msgstr "Övervakning och utvärdering"
-msgid "a) set baselines or measurable targets"
-msgstr "a) fastställa referensvärden eller mätbara mål"
-msgid "b) collect relevant qualitative or quantitative data on the social and economic effects of integration strategies or measures"
-msgstr "b) samla in relevanta kvalitativa eller kvantitativa uppgifter om de sociala och ekonomiska effekterna av strategier eller åtgärder för integration"
-msgid "c) use relevant core indicators or methods of empirical social research"
-msgstr "c) utnyttja tillämpliga huvudindikatorer eller metoder för empirisk social forskning"
-msgid "d) use data collection for monitoring and evaluating progress on a regular basis, particularly at the local level"
-msgstr "d) samla in data för övervakning och utvärdering av framsteg på regelbunden basis, särskilt på lokal nivå"
-msgid "Transnational Cooperation"
-msgstr "Samarbete över gränserna"
-msgid "a) encourage development of transnational cooperation at national, regional or local level through policy initiatives and projects implementation"
-msgstr "a) uppmuntra gränsöverskridande samarbete på nationell, regional eller lokal nivå, genom politiska initiativ och projekt"
-msgid "b) coordinate on issues related to the cross-border mobility of Roma within the Union"
-msgstr "b) arbeta med samordning i frågor i anslutning till romers gränsöverskridande rörlighet inom unionen"
-msgid "c) support mutual learning and the multiplication of good practices"
-msgstr "c) stödja ömsesidigt lärande och spridning av god praxis"
-msgid "Culture"
-msgstr "Kultur"
-#: field:field_survey_gi_data_options:#allowed_values:other
-msgctxt "field_survey_gi_data_options:#allowed_values:other"
-msgid "Other"
-msgstr "Annat"
-#: field:field_survey_measure_11_1:#allowed_values:other
-msgctxt "field_survey_measure_11_1:#allowed_values:other"
-msgid "Other"
-msgstr "Annat"
