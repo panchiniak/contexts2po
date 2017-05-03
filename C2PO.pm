@@ -186,12 +186,13 @@ B. On context:
 1. Put all msgids in single line: s/"\n"//
 
 =head1 SYNOPSIS
-Usage perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list] --verbose
+Usage perl -f C2PO.pm --base [FILE_NAME] --translation [FILE_NAME] --context [FILE_NAME] --lang [LANGUAGE_CODE|list] --verbose --force
 Options:
   base                  translated strings (msgid)
   translations          translations aligned to base (msgstr)
   context               POT (msgctxt, msgid)
   lang                  sufix for output file name
+  force                 bypass line number validation
 
 =head1 DESCRIPTION
 Context to PO (C2PO) generates a PO file from POT, base and translated files.
