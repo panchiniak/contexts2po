@@ -94,7 +94,7 @@ open (our $outfile, "> $current_path/$po_file_name") or die "Can't open $current
 
 #Assure base and translation have the same number of lines
 if ($translation_file_count != $base_file_count){
-  print "Error: file $current_path/$translation_file_name has $base_file_count lines and $current_path/$translation_file_name has $translation_file_count lines. They should have the same number of lines." . "\n";
+  print "Error: file $current_path/$base_file_name has $base_file_count lines and $current_path/$translation_file_name has $translation_file_count lines. They should have the same number of lines." . "\n";
   exit;
 }
 
